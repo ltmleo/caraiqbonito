@@ -31,7 +31,7 @@ const featuredCities = [
     name: 'Praga',
     country: 'República Tcheca',
     image: PragueHero,
-    link: '#',
+    link: '/destinos/europa/central/praga',
     comingSoon: true,
   },
 ];
@@ -39,7 +39,7 @@ const featuredCities = [
 const regions = [
   { name: 'Europa', icon: '🏰', link: '/destinos/europa' },
   { name: 'Ásia', icon: '🏮', link: '#' },
-  { name: 'Américas', icon: '⛰️', link: '#' },
+  { name: 'Américas', icon: '⛰️', link: '/destinos/americas' },
   { name: 'África', icon: '🦁', link: '#' },
   { name: 'Oceania', icon: '🏄', link: '#' },
 ];

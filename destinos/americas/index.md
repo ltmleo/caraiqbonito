@@ -1,11 +1,11 @@
 ---
-title: America do Sul
+title: Américas
 sidebar_position: 1
 ---
 
-# America do Sul
+# Américas
 
-Explore os encantos e a história da America do Sul.
+Explore os encantos e a história do Novo Mundo.
 
 import DocCardList from '@theme/DocCardList';
 
