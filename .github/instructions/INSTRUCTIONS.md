@@ -20,7 +20,7 @@ Cada pasta de cidade (ex: `berlim/`) deve conter os seguintes arquivos:
     -   **Material complementar**: Filmes, livros, séries, músicas para entrar no clima do destino.
 
 2.  **`history.md`**:
-    - **T   ítulo**: História
+    - **Título**: História
     -   **Função**: História da cidade.
     -   **Conteúdo**: Resumo da história da cidade e do país.
 
