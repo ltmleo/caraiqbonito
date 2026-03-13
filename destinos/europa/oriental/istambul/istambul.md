@@ -18,12 +18,12 @@ Bizâncio foi fundada por colonos gregos de Mégara por volta de 667 a.C. ao lon
 
 Em 29 de maio de 1453, o sultão Maomé II, com 21 anos, conquistou a cidade após 53 dias de cerco. Horas depois de entrar na cidade, Maomé foi a Santa Sofia e convocou um imã para proclamar a fé islâmica, convertendo um dos símbolos maiores do cristianismo numa mesquita imperial. Istambul tornou-se capital do Império Otomano — que duraria até 1922. Em 1923, com a fundação da República Turca, a capital foi transferida para Ancara, mas Istambul permaneceu o coração econômico, cultural e simbólico do país. O nome oficial foi adotado em 1930.
 
-→ [Leia a história completa](./history)
+→ [Leia a história completa](./history.md)
 
 ## O que não perder
 
-- [Imperdíveis](./must-to-see) — Santa Sofia, Mesquita Azul, Palácio Topkapi, Cisterna da Basílica e o Bósforo
-- [Vale a Visita](./nice-to-see) — O Grande Bazar, os bairros de Balat e Karaköy, a Torre de Gálata e o hammam
+- [Imperdíveis](./must-to-see.md) — Santa Sofia, Mesquita Azul, Palácio Topkapi, Cisterna da Basílica e o Bósforo
+- [Vale a Visita](./nice-to-see.md) — O Grande Bazar, os bairros de Balat e Karaköy, a Torre de Gálata e o hammam
 
 ## Para entrar no clima
 

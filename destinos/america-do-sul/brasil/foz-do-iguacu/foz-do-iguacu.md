@@ -18,12 +18,12 @@ A região foi habitada pelos guaranis por milênios antes da chegada dos europeu
 
 Em 1542, o conquistador espanhol Álvar Núñez Cabeza de Vaca chegou às Cataratas guiado por índios kaingang — tornando-se o primeiro europeu com registro histórico a vê-las. Em 1889, uma colônia militar foi fundada na confluência dos rios Iguaçu e Paraná para garantir a presença brasileira na fronteira. Em 1914, a Vila Iguaçu foi elevada a município. Em 1939, Getúlio Vargas criou o Parque Nacional do Iguaçu. Em 1974, começou a construção de Itaipu — e a cidade de 30 mil habitantes explodiu para 136 mil em menos de uma década. Em 1986, a UNESCO inscreveu o Parque Nacional do Iguaçu como Patrimônio Natural da Humanidade.
 
-→ [Leia a história completa](./history)
+→ [Leia a história completa](./history.md)
 
 ## O que não perder
 
-- [Imperdíveis](./must-to-see) — As Cataratas pelo lado brasileiro, o lado argentino com a Garganta do Diabo, Itaipu e o Marco das Três Fronteiras
-- [Vale a Visita](./nice-to-see) — O Parque das Aves, o Templo Budista, uma tarde no Paraguai e o passeio de barco Macuco Safari
+- [Imperdíveis](./must-to-see.md) — As Cataratas pelo lado brasileiro, o lado argentino com a Garganta do Diabo, Itaipu e o Marco das Três Fronteiras
+- [Vale a Visita](./nice-to-see.md) — O Parque das Aves, o Templo Budista, uma tarde no Paraguai e o passeio de barco Macuco Safari
 
 ## Para entrar no clima
 

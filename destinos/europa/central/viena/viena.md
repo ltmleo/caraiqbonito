@@ -18,12 +18,12 @@ Fundada pelos romanos como *Vindobona*, fortaleza da Legio XIII às margens do D
 
 O século XX chegou com a dissolução do império, o nazismo, os bombardeios da guerra e a ocupação aliada. Em 1955, quando os últimos soldados estrangeiros partiram, a Áustria assinou o Tratado de Independência e Viena voltou a ser inteiramente austríaca. Desde então, a cidade se transformou num dos maiores centros internacionais do mundo — sede da ONU, da OPEP e de centenas de organizações multilaterais — sem jamais perder o charme da cidade imperial que um dia foi.
 
-→ [Leia a história completa](./history)
+→ [Leia a história completa](./history.md)
 
 ## O que não perder
 
-- [Imperdíveis](./must-to-see) — Hofburg, Schönbrunn, Catedral de Santo Estêvão, Belvedere e a Ringstrasse
-- [Vale a Visita](./nice-to-see) — Os cafés históricos, o Naschmarkt, o Hundertwasserhaus e o Prater
+- [Imperdíveis](./must-to-see.md) — Hofburg, Schönbrunn, Catedral de Santo Estêvão, Belvedere e a Ringstrasse
+- [Vale a Visita](./nice-to-see.md) — Os cafés históricos, o Naschmarkt, o Hundertwasserhaus e o Prater
 
 ## Para entrar no clima
 

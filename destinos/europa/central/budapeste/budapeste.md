@@ -20,12 +20,12 @@ A região foi habitada por celtas, depois pelos romanos — que fundaram aqui *A
 
 Os Habsburgos expulsaram os turcos em 1686 e reconstruíram a cidade, que alcançou seu apogeu após o Compromisso Austro-Húngaro de 1867 — quando Budapeste se tornou co-capital de um dos maiores impérios do mundo. Em 1873, as cidades de Buda, Óbuda e Pest foram oficialmente fundidas. Em 1896, inaugurou-se o metrô. Em 1900, a população chegava a 730 mil habitantes. Então veio o século XX, com suas guerras, seus genocídios e suas revoluções — e nenhuma capital europeia os viveu com mais intensidade.
 
-→ [Leia a história completa](./history)
+→ [Leia a história completa](./history.md)
 
 ## O que não perder
 
-- [Imperdíveis](./must-to-see) — O Parlamento, o Castelo de Buda, as Termas Széchenyi, o Bastião dos Pescadores e os Sapatos no Danúbio
-- [Vale a Visita](./nice-to-see) — Os ruin bars, o Mercado Central, a Grande Sinagoga, a Casa do Terror e Szentendre
+- [Imperdíveis](./must-to-see.md) — O Parlamento, o Castelo de Buda, as Termas Széchenyi, o Bastião dos Pescadores e os Sapatos no Danúbio
+- [Vale a Visita](./nice-to-see.md) — Os ruin bars, o Mercado Central, a Grande Sinagoga, a Casa do Terror e Szentendre
 
 ## Para entrar no clima
 

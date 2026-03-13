@@ -18,12 +18,12 @@ A colina onde hoje fica o Castelo de Bratislava foi ocupada desde os tempos pré
 
 Com a dissolução do Império Austro-Húngaro em 1918, a cidade tornou-se parte da Tchecoslováquia recém-criada e ganhou o nome eslovaco de Bratislava em 1919. Em 1993, quando a Tchecoslováquia se dividiu pacificamente na "Divisão de Veludo", Bratislava acordou capital de um país que havia acabado de nascer — com todas as oportunidades e contradições que isso implica.
 
-→ [Leia a história completa](./history)
+→ [Leia a história completa](./history.md)
 
 ## O que não perder
 
-- [Imperdíveis](./must-to-see) — O Castelo, a Catedral de São Martinho, a Cidade Velha e a Torre UFO
-- [Vale a Visita](./nice-to-see) — A Igreja Azul, o Castelo de Devín, o Memorial Slavín e a Rota das Estátuas
+- [Imperdíveis](./must-to-see.md) — O Castelo, a Catedral de São Martinho, a Cidade Velha e a Torre UFO
+- [Vale a Visita](./nice-to-see.md) — A Igreja Azul, o Castelo de Devín, o Memorial Slavín e a Rota das Estátuas
 
 ## Para entrar no clima
 
