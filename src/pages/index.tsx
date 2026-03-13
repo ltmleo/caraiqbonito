@@ -7,60 +7,65 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 import styles from './index.module.css';
 
-const features = [
+// Import images to let Docusaurus handle them correctly
+import SiteLogo from '@site/static/img/logo.png';
+import BerlimHero from '@site/static/img/berlim_hero.png';
+import MunichHero from '@site/static/img/munich_hero.png';
+import PragueHero from '@site/static/img/prague_hero.png';
+
+const featuredCities = [
   {
-    icon: '🏛️',
-    title: 'História',
-    desc: 'Mergulhe na história fascinante de cada destino, desde impérios antigos até eventos que mudaram o mundo.',
+    name: 'Berlim',
+    country: 'Alemanha',
+    image: BerlimHero,
+    link: '/destinos/europa/central/berlim',
   },
   {
-    icon: '👁️',
-    title: 'Must See & Nice See',
-    desc: 'Saiba exatamente o que é imperdível e o que vale a visita extra, sem desperdiçar tempo.',
+    name: 'Munique',
+    country: 'Alemanha',
+    image: MunichHero,
+    link: '#',
+    comingSoon: true,
   },
   {
-    icon: '💡',
-    title: 'Curiosidades',
-    desc: 'Fatos inusitados e surpreendentes que vão fazer você ver o destino com outros olhos.',
+    name: 'Praga',
+    country: 'República Tcheca',
+    image: PragueHero,
+    link: '#',
+    comingSoon: true,
   },
-  {
-    icon: '🧭',
-    title: 'Dicas Práticas',
-    desc: 'Conselhos reais sobre transporte, dinheiro, idioma e tudo que facilita sua viagem.',
-  },
-  {
-    icon: '🎬',
-    title: 'Material Complementar',
-    desc: 'Filmes, livros e documentários para você se preparar e viver a experiência antes de chegar.',
-  },
-  {
-    icon: '🌍',
-    title: 'Destinos Globais',
-    desc: 'Europa, Ásia, Américas e muito mais. O mapa do mundo é o nosso playground.',
-  },
+];
+
+const regions = [
+  { name: 'Europa', icon: '🏰', link: '/destinos/europa' },
+  { name: 'Ásia', icon: '🏮', link: '#' },
+  { name: 'Américas', icon: '⛰️', link: '#' },
+  { name: 'África', icon: '🦁', link: '#' },
+  { name: 'Oceania', icon: '🏄', link: '#' },
 ];
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  const logoUrl = useBaseUrl('img/logo.png');
 
   return (
     <header className={styles.heroBanner}>
       <div className="container">
-        <img src={logoUrl} alt="Carai Q Bonito! Logo" className={styles.heroLogo} />
+        <img src={SiteLogo} alt="Carai Q Bonito! Logo" className={styles.heroLogo} />
         <div className={styles.heroBadge}>
           <span>🌿</span> Brasil • Viagens • Aventura
         </div>
         <Heading as="h1" className={styles.heroTitle}>
-          {siteConfig.title}
+          Descubra o Mundo
         </Heading>
-        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+        <p className={styles.heroSubtitle}>
+          Histórias, curiosidades e dicas para sua próxima grande jornada
+        </p>
         <div className={styles.buttons}>
-          <Link className={styles.btnPrimary} to="/destinos/europa/central/berlim">
-            🗺️ Explorar Berlim
+          <Link className={styles.btnPrimary} to="#destinos">
+            🌍 Explorar Destinos
           </Link>
-          <Link className={styles.btnSecondary} to="/destinos/europa/central/berlim#must-see">
-            ✨ Must See
+          <Link className={styles.btnSecondary} to="/destinos/europa/central/berlim">
+            🇩🇪 Último Destino: Berlim
           </Link>
         </div>
       </div>
@@ -68,16 +73,77 @@ function HomepageHeader() {
   );
 }
 
+function DestinationGrid() {
+  return (
+    <section id="destinos" className={styles.destinationsSection}>
+      <div className="container">
+        <Heading as="h2" className={styles.sectionTitle}>
+          Por onde vamos começar?
+        </Heading>
+        <p className={styles.sectionSubtitle}>
+          Explore nossos destinos por região ou confira as cidades em destaque.
+        </p>
+
+        <div className={styles.regionsGrid}>
+          {regions.map((region) => (
+            <Link key={region.name} to={region.link} className={styles.regionCard}>
+              <span className={styles.regionIcon}>{region.icon}</span>
+              <span className={styles.regionName}>{region.name}</span>
+            </Link>
+          ))}
+        </div>
+
+        <Heading as="h3" className={styles.sectionTitle} style={{fontSize: '1.8rem', marginTop: '4rem'}}>
+          Cidades em Destaque
+        </Heading>
+        
+        <div className={styles.destinationsGrid}>
+          {featuredCities.map((city) => (
+            <Link key={city.name} to={city.link} className={styles.cityCard}>
+              <img src={city.image} alt={city.name} className={styles.cityImage} />
+              <div className={city.comingSoon ? styles.cityOverlaySoon : styles.cityOverlay}>
+                <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%'}}>
+                  <span className={styles.cityCountry}>{city.country}</span>
+                  {!city.comingSoon && <span className={styles.newBadge}>NOVO</span>}
+                </div>
+                <h4 className={styles.cityName}>
+                  {city.name}
+                  {city.comingSoon && <span className={styles.soonText}>(Em breve)</span>}
+                </h4>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function HomepageFeatures() {
+  const features = [
+    {
+      icon: '🏛️',
+      title: 'História',
+      desc: 'Mergulhe na história fascinante de cada destino, desde impérios antigos até eventos modernos.',
+    },
+    {
+      icon: '👁️',
+      title: 'Must See',
+      desc: 'Saiba exatamente o que é imperdível e o que vale a visita extra, otimizando seu tempo.',
+    },
+    {
+      icon: '💡',
+      title: 'Curiosidades',
+      desc: 'Fatos inusitados e surpreendentes que vão fazer você ver o destino com outros olhos.',
+    },
+  ];
+
   return (
     <section className={styles.featuresSection}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
           O que você vai encontrar
         </Heading>
-        <p className={styles.sectionSubtitle}>
-          Cada destino é documentado com carinho para que sua viagem seja inesquecível — antes, durante e depois.
-        </p>
         <div className={styles.featuresGrid}>
           {features.map(({icon, title, desc}) => (
             <div key={title} className={styles.featureCard}>
@@ -97,14 +163,14 @@ function DestCTA() {
     <section className={styles.destSection}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
-          Pronto para explorar?
+          Pronto para a aventura?
         </Heading>
         <p className={styles.sectionSubtitle}>
-          Comece pela Europa central ou escolha um destino que já está na sua lista de sonhos.
+          Nossos guias são feitos para quem ama descobrir o que há por trás de cada esquina.
         </p>
         <div className={`${styles.buttons} ${styles.destCta}`}>
           <Link className={styles.btnPrimary} to="/destinos/europa/central/berlim">
-            🇩🇪 Ir para Berlim
+            🚀 Começar por Berlim
           </Link>
         </div>
       </div>
@@ -116,10 +182,11 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Bem-vindo ao ${siteConfig.title}`}
+      title={`${siteConfig.title} - Curiosidades e Dicas de Viagem`}
       description="Curiosidades, dicas e histórias sobre lugares incríveis — Brasil, Viagens, Aventura.">
       <HomepageHeader />
       <main>
+        <DestinationGrid />
         <HomepageFeatures />
         <DestCTA />
       </main>

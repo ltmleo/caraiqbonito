@@ -294,11 +294,177 @@
   color: rgba(237, 216, 160, 0.65);
 }
 
-/* ─── Destinations Highlight ─────────────────────────────────────── */
-.destSection {
+/* ─── Destinations Grid Section ──────────────────────────────────── */
+.destinationsSection {
   padding: 5rem 0;
+  background: #FDFAF4;
+}
+
+[data-theme='dark'] .destinationsSection {
+  background: #1E1610;
+}
+
+.destinationsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.cityCard {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  aspect-ratio: 4 / 5;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.cityCard:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.cityImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+.cityCard:hover .cityImage {
+  transform: scale(1.1);
+}
+
+.cityOverlay,
+.cityOverlaySoon {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, transparent 60%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.5rem;
+  color: #fff;
+}
+
+.cityOverlaySoon {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(20, 20, 20, 0.4) 100%);
+}
+
+.cityCard:has(.cityOverlaySoon) .cityImage {
+  filter: grayscale(1) brightness(0.7);
+}
+
+.cityCountry {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 0.2rem;
+}
+
+.cityName {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: 0;
+  color: #EDD8A0;
+}
+
+.newBadge {
+  background: #C4622D;
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+  box-shadow: 0 4px 10px rgba(196, 98, 45, 0.4);
+}
+
+.soonText {
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-left: 0.5rem;
+  font-weight: 400;
+  font-family: var(--ifm-font-family-base);
+}
+
+/* ─── Regions Section ───────────────────────────────────────────── */
+.regionsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+.regionCard {
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid rgba(196, 98, 45, 0.1);
+  border-radius: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+[data-theme='dark'] .regionCard {
+  background: #2A1D12;
+  border-color: rgba(196, 98, 45, 0.2);
+}
+
+.regionCard:hover {
+  background: #C4622D;
+  transform: translateY(-5px);
+  border-color: transparent;
+}
+
+.regionIcon {
+  font-size: 2rem;
+}
+
+.regionName {
+  font-weight: 700;
+  color: #3B2A1A;
+  font-size: 0.9rem;
+}
+
+[data-theme='dark'] .regionName {
+  color: #EDD8A0;
+}
+
+.regionCard:hover .regionName {
+  color: #fff;
+}
+
+/* ─── CTA Section ───────────────────────────────────────────────── */
+.destSection {
+  padding: 6rem 0;
   background: linear-gradient(135deg, #3B2A1A 0%, #4A6741 100%);
   text-align: center;
+  border-radius: 30px;
+  margin: 4rem auto;
+  max-width: 1200px;
+  width: calc(100% - 2rem);
+  position: relative;
+  overflow: hidden;
+}
+
+.destSection::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3z' fill='%23ffffff' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E");
+  pointer-events: none;
 }
 
 .destSection .sectionTitle,

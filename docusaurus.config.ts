@@ -10,9 +10,11 @@ const config: Config = {
   favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  /*
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
+  */
 
   // Set the production url of your site here
   url: 'https://ltmleo.github.io',
@@ -85,7 +87,7 @@ const config: Config = {
       title: 'Carai Q Bonito!',
       logo: {
         alt: 'Carai Q Bonito! Logo',
-        src: 'img/logo.png',
+        src: '/img/logo.png',
       },
       items: [
         {
@@ -115,6 +117,7 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    /*
     algolia: {
       // The application ID provided by Algolia
       appId: 'PXW2V2BV3M',
@@ -138,6 +141,7 @@ const config: Config = {
 
       //... other Algolia params
     },
+    */
   } satisfies Preset.ThemeConfig,
 };
 
