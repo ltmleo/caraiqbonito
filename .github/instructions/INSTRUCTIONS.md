@@ -19,21 +19,27 @@ Cada pasta de cidade (ex: `berlim/`) deve conter os seguintes arquivos:
     -   **Conteúdo**: Introdução geral, resumo da história e links rápidos para seções.
     -   **Material complementar**: Filmes, livros, séries, músicas para entrar no clima do destino.
 
-2.  **`must-to-see.md`**:
+2.  **`history.md`**:
+    -   **Função**: História da cidade.
+    -   **Conteúdo**: Resumo da história da cidade e do país.
+
+3.  **`must-to-see.md`**:
     -   **Função**: Destacar os pontos turísticos "obrigatórios" (imperdíveis).
     -   **Conteúdo**: Listas ou parágrafos com as atrações principais.
 
-3.  **`nice-to-see.md`**:
+4.  **`nice-to-see.md`**:
     -   **Função**: Atrações secundárias ou passeios alternativos.
     -   **Conteúdo**: Lugares que valem a pena se houver tempo extra.
 
-4.  **`curiosities.md`**:
+5.  **`curiosities.md`**:
     -   **Função**: Fatos interessantes, históricos ou divertidos sobre o local.
     -   **Conteúdo**: Idealmente em formato de tópicos (bullet points).
 
-5.  **`tips.md`**:
+6.  **`tips.md`**:
     -   **Função**: Dicas práticas para o viajante.
     -   **Conteúdo**: Transporte público, moeda, melhor época para visitar, idiomas, etc.
+
+IMPORTANTE: Sempre forneça fontes para as informações fornecidas. Coloque as fontes no final de cada arquivo .md.
 
 ## Organização do Sidebar (Lateral)
 -   O Docusaurus gera o sidebar automaticamente com base na estrutura de pastas.

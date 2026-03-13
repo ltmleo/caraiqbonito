@@ -1,35 +1,44 @@
 ---
 sidebar_position: 1
+title: Berlim
 ---
 
-# Berlim
+# 🇩🇪 Berlim: Onde a História Encontra o Futuro
 
-Berlim é a capital e a maior cidade da Alemanha, conhecida por sua história complexa, rica cultura e agitada vida noturna.
+![Berlim](/img/berlim_hero.png)
 
-## Historia
-Berlim tem uma história fascinante que moldou não apenas a Alemanha, mas o mundo inteiro. Desde o Império Prussiano até a divisão durante a Guerra Fria com o famoso Muro de Berlim, a cidade é um museu a céu aberto.
+Berlim não é apenas a capital da Alemanha; é uma das cidades mais vibrantes, resilientes e culturalmente ricas do mundo. Com uma história que moldou o século XX e um espírito que define o século XXI, Berlim oferece uma mistura única de marcos históricos, arte de vanguarda e uma vida noturna lendária.
 
-## Must See
-- **Portão de Brandemburgo**: O símbolo icônico da cidade e da reunificação alemã.
-- **Memorial do Muro de Berlim**: Para entender a divisão da cidade.
-- **Ilha dos Museus**: Um complexo incrível com museus de classe mundial.
-- **Reichstag**: O parlamento alemão, com sua cúpula de vidro impressionante.
+## 🌟 Por que visitar?
 
-## Nice See
-- **East Side Gallery**: Um longo trecho preservado do Muro de Berlim com murais de artistas do mundo todo.
-- **Alexanderplatz e a Torre de TV (Fernsehturm)**: Ponto central histórico da Berlim Oriental.
-- **Gendarmenmarkt**: Uma das praças mais bonitas da cidade.
+*   **História Viva:** Das cicatrizes do Muro de Berlim à grandiosidade do Portão de Brandemburgo.
+*   **Cultura Sem Limites:** Mais museus do que dias de chuva, incluindo a famosa Ilha dos Museus.
+*   **Espírito Livre:** Uma cidade que abraça a diversidade, o grafite e a criatividade.
+*   **Natureza Urbana:** Nove vezes o tamanho de Paris, Berlim é coberta por parques e canais (tem mais pontes que Veneza!).
 
-## Curiosidades
-- Berlim tem mais pontes do que Veneza! São cerca de 1.700 pontes.
-- A cidade possui três patrimônios mundiais da UNESCO.
-- O Currywurst (uma salsicha com curry) é tão amado que tem até um museu dedicado a ele.
+---
 
-## Dicas
-- **Transporte**: O sistema de transporte público (U-Bahn, S-Bahn, trams e ônibus) é excelente. Compre um bilhete diário ou de múltiplos dias para economizar.
-- **Dinheiro**: Embora cartões sejam amplamente aceitos, é sempre bom ter dinheiro vivo em Berlim, pois alguns lugares menores não aceitam cartão.
-- **Idiomas**: O inglês é amplamente falado, mas aprender o básico de alemão ("Danke", "Bitte", "Hallo") ajuda muito!
+## 🧭 Explore Berlim
 
-## Material complementar
-- **Filmes**: *Adeus, Lenin!* (2003) e *A Vida dos Outros* (2006).
-- **Livros**: *O Espião que Saiu do Frio* (John le Carré).
+Dividimos nosso guia em seções para ajudar você a planejar sua viagem:
+
+| Seção | O que você vai encontrar |
+| :--- | :--- |
+| **[📜 História](./history.md)** | Do Império Prussiano à queda do Muro. |
+| **[🚩 Imperdível](./must-to-see.md)** | Portão de Brandemburgo, Reichstag e mais. |
+| **[✨ Vale a Visita](./nice-to-see.md)** | Charlottenburg, Tiergarten e tesouros escondidos. |
+| **[🧐 Curiosidades](./curiosities.md)** | Fatos bizarros e interessantes sobre a capital. |
+| **[💡 Dicas Úteis](./tips.md)** | Transporte, quando ir e o que comer. |
+
+---
+
+## 📊 Fatos Rápidos
+
+*   **População:** ~3.7 milhões
+*   **Fundação:** 1237
+*   **Símbolo:** O Urso (Berliner Bär) 🐻
+*   **Prato Típico:** Currywurst 🌭
+*   **Cultura:** Mais de 170 museus!
+
+> "Berlim é uma cidade condenada a sempre tornar-se e nunca ser."
+> — *Karl Scheffler*
