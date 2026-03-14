@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "generate-catalogue": "node scripts/generate-catalogue.mjs",
+    "start": "node scripts/generate-catalogue.mjs && docusaurus start",
+    "build": "node scripts/generate-catalogue.mjs && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
