@@ -1,9 +1,9 @@
-# Guia de Estrutura do Projeto - Carai Q Bonito!
+# Guia de Estrutura do Projeto - Carai Que Bonito!
 
 Este documento serve como instrução para IAs entenderem como o projeto funciona e como devem ser estruturados os novos destinos.
 
 ## Visão Geral
-**Carai Q Bonito!** é um site de viagens construído com **Docusaurus**. O objetivo é fornecer informações rápidas, curiosidades e dicas sobre diversos destinos ao redor do mundo.
+**Carai Que Bonito!** é um site de viagens construído com **Docusaurus**. O objetivo é fornecer informações rápidas, curiosidades e dicas sobre diversos destinos ao redor do mundo.
 
 ## Estrutura de Pastas de Destinos
 Todos os destinos estão localizados na pasta `/destinos` (configurada como o diretório base de documentos). A hierarquia segue este padrão:

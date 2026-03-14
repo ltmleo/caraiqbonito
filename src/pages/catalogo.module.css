@@ -1,0 +1,149 @@
+.catalogoHeader {
+  padding: 4rem 0;
+  text-align: center;
+  background: linear-gradient(rgba(59, 42, 26, 0.8), rgba(59, 42, 26, 0.9)), url('/img/fundo.png');
+  background-size: cover;
+  background-position: center;
+  color: #EDD8A0;
+}
+
+.catalogoTitle {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.catalogoSubtitle {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  opacity: 0.9;
+}
+
+.continentSection {
+  padding: 4rem 0;
+}
+
+.continentSection:nth-child(even) {
+  background-color: #FDFAF4;
+}
+
+[data-theme='dark'] .continentSection:nth-child(even) {
+  background-color: #1E1610;
+}
+
+.continentTitle {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #3B2A1A;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+[data-theme='dark'] .continentTitle {
+  color: #EDD8A0;
+}
+
+.continentTitle::after {
+  content: '';
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(90deg, #C4622D, transparent);
+}
+
+.categoryGroup {
+  margin-bottom: 3rem;
+}
+
+.categoryTitle {
+  font-size: 1.5rem;
+  color: #6B4C30;
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 4px solid #C4622D;
+}
+
+[data-theme='dark'] .categoryTitle {
+  color: rgba(237, 216, 160, 0.8);
+}
+
+.destinationsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.destCard {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+}
+
+.destCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.destImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.destCard:hover .destImage {
+  transform: scale(1.05);
+}
+
+.destOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, transparent 70%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.5rem;
+  color: #fff;
+}
+
+.destName {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8rem;
+  margin: 0;
+  color: #EDD8A0;
+}
+
+.destCountry {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.statusBadge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.3rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.statusNew {
+  background-color: #4A6741;
+  color: white;
+}
+
+.statusSoon {
+  background-color: #6B4C30;
+  color: white;
+}

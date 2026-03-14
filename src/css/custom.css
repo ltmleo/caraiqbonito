@@ -1,5 +1,5 @@
 /**
- * Carai Q Bonito! - Custom Stylesheet
+ * Carai Que Bonito! - Custom Stylesheet
  * Palette inspired by the logo: vintage adventure, warm earth tones
  * Primary: burnt orange, forest green, warm cream, dark brown
  */
@@ -9,27 +9,27 @@
 /* ─── Design Tokens ──────────────────────────────────────────────── */
 :root {
   /* Brand Colors — from logo */
-  --cqb-orange:        #C4622D;
-  --cqb-orange-dark:   #A84E22;
+  --cqb-orange: #C4622D;
+  --cqb-orange-dark: #A84E22;
   --cqb-orange-darker: #8C3D19;
-  --cqb-orange-light:  #D4784A;
-  --cqb-orange-lighter:#E0926A;
-  --cqb-orange-lightest:#EDB898;
+  --cqb-orange-light: #D4784A;
+  --cqb-orange-lighter: #E0926A;
+  --cqb-orange-lightest: #EDB898;
 
-  --cqb-green:         #4A6741;
-  --cqb-green-dark:    #3C5535;
-  --cqb-cream:         #EDD8A0;
-  --cqb-cream-light:   #F5EDD3;
-  --cqb-brown:         #3B2A1A;
-  --cqb-brown-light:   #6B4C30;
+  --cqb-green: #4A6741;
+  --cqb-green-dark: #3C5535;
+  --cqb-cream: #EDD8A0;
+  --cqb-cream-light: #F5EDD3;
+  --cqb-brown: #3B2A1A;
+  --cqb-brown-light: #6B4C30;
 
   /* Docusaurus primary token overrides */
-  --ifm-color-primary:          var(--cqb-orange);
-  --ifm-color-primary-dark:     var(--cqb-orange-dark);
-  --ifm-color-primary-darker:   var(--cqb-orange-darker);
-  --ifm-color-primary-darkest:  #70300D;
-  --ifm-color-primary-light:    var(--cqb-orange-light);
-  --ifm-color-primary-lighter:  var(--cqb-orange-lighter);
+  --ifm-color-primary: var(--cqb-orange);
+  --ifm-color-primary-dark: var(--cqb-orange-dark);
+  --ifm-color-primary-darker: var(--cqb-orange-darker);
+  --ifm-color-primary-darkest: #70300D;
+  --ifm-color-primary-light: var(--cqb-orange-light);
+  --ifm-color-primary-lighter: var(--cqb-orange-lighter);
   --ifm-color-primary-lightest: var(--cqb-orange-lightest);
 
   /* Typography */
@@ -75,12 +75,12 @@
 
 /* ─── Dark Mode ──────────────────────────────────────────────────── */
 [data-theme='dark'] {
-  --ifm-color-primary:          var(--cqb-orange-light);
-  --ifm-color-primary-dark:     var(--cqb-orange);
-  --ifm-color-primary-darker:   var(--cqb-orange-dark);
-  --ifm-color-primary-darkest:  var(--cqb-orange-darker);
-  --ifm-color-primary-light:    var(--cqb-orange-lighter);
-  --ifm-color-primary-lighter:  var(--cqb-orange-lightest);
+  --ifm-color-primary: var(--cqb-orange-light);
+  --ifm-color-primary-dark: var(--cqb-orange);
+  --ifm-color-primary-darker: var(--cqb-orange-dark);
+  --ifm-color-primary-darkest: var(--cqb-orange-darker);
+  --ifm-color-primary-light: var(--cqb-orange-lighter);
+  --ifm-color-primary-lighter: var(--cqb-orange-lightest);
   --ifm-color-primary-lightest: #F5C8B0;
 
   --ifm-background-color: #1E1610;
@@ -103,18 +103,31 @@ body {
   font-family: var(--ifm-font-family-base);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--ifm-heading-font-family);
   letter-spacing: -0.02em;
 }
 
-h1 { font-size: 2.6rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.3rem; }
+h1 {
+  font-size: 2.6rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
 
 /* ─── Navbar ─────────────────────────────────────────────────────── */
 .navbar {
-  box-shadow: 0 2px 16px rgba(0,0,0,0.25);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.25);
   border-bottom: 2px solid var(--cqb-orange-dark);
 }
 
@@ -194,7 +207,7 @@ h3 { font-size: 1.3rem; }
 }
 
 /* Category labels */
-.menu__list-item > .menu__link--sublist {
+.menu__list-item>.menu__link--sublist {
   font-family: 'Playfair Display', Georgia, serif;
   font-size: 0.9rem;
   letter-spacing: 0.05em;
@@ -202,7 +215,7 @@ h3 { font-size: 1.3rem; }
   color: var(--cqb-brown-light);
 }
 
-[data-theme='dark'] .menu__list-item > .menu__link--sublist {
+[data-theme='dark'] .menu__list-item>.menu__link--sublist {
   color: var(--cqb-cream);
 }
 
@@ -315,17 +328,26 @@ h3 { font-size: 1.3rem; }
 
 .button--secondary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.18);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
 /* ─── Scrollbar ──────────────────────────────────────────────────── */
-::-webkit-scrollbar { width: 8px; }
-::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
 ::-webkit-scrollbar-thumb {
   background: var(--cqb-orange-light);
   border-radius: 8px;
 }
-::-webkit-scrollbar-thumb:hover { background: var(--cqb-orange); }
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--cqb-orange);
+}
 
 /* ─── Admonitions (Note, Tip, Warning…) ──────────────────────────── */
 .admonition {

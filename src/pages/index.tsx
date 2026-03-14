@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import type { ReactNode } from 'react';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
@@ -18,21 +18,13 @@ const featuredCities = [
     name: 'Berlim',
     country: 'Alemanha',
     image: BerlimHero,
-    link: '/destinos/europa/central/berlim',
-  },
-  {
-    name: 'Munique',
-    country: 'Alemanha',
-    image: MunichHero,
-    link: '#',
-    comingSoon: true,
+    link: '/destinos/europa/central/berlim/berlim',
   },
   {
     name: 'Praga',
     country: 'República Tcheca',
     image: PragueHero,
-    link: '/destinos/europa/central/praga',
-    comingSoon: true,
+    link: '/destinos/europa/central/praga/praga',
   },
 ];
 
@@ -45,27 +37,24 @@ const regions = [
 ];
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
 
   return (
     <header className={styles.heroBanner}>
       <div className="container">
-        <img src={SiteLogo} alt="Carai Q Bonito! Logo" className={styles.heroLogo} />
-        <div className={styles.heroBadge}>
-          <span>🌿</span> Brasil • Viagens • Aventura
-        </div>
+        <img src={SiteLogo} alt="Carai Que Bonito! Logo" className={styles.heroLogo} />
         <Heading as="h1" className={styles.heroTitle}>
           Descubra o Mundo
         </Heading>
         <p className={styles.heroSubtitle}>
-          Histórias, curiosidades e dicas para sua próxima grande jornada
+          Histórias, curiosidades   e dicas para sua próxima grande jornada
         </p>
         <div className={styles.buttons}>
-          <Link className={styles.btnPrimary} to="#destinos">
-            🌍 Explorar Destinos
+          <Link className={styles.btnPrimary} to="/catalogo">
+            🌍 Catálogo de Destinos
           </Link>
-          <Link className={styles.btnSecondary} to="/destinos/europa/central/berlim">
-            🇩🇪 Último Destino: Berlim
+          <Link className={styles.btnSecondary} to="/blog">
+            Blog de Viagens 📝
           </Link>
         </div>
       </div>
@@ -93,16 +82,16 @@ function DestinationGrid() {
           ))}
         </div>
 
-        <Heading as="h3" className={styles.sectionTitle} style={{fontSize: '1.8rem', marginTop: '4rem'}}>
+        <Heading as="h3" className={styles.sectionTitle} style={{ fontSize: '1.8rem', marginTop: '4rem' }}>
           Cidades em Destaque
         </Heading>
-        
+
         <div className={styles.destinationsGrid}>
           {featuredCities.map((city) => (
             <Link key={city.name} to={city.link} className={styles.cityCard}>
               <img src={city.image} alt={city.name} className={styles.cityImage} />
               <div className={city.comingSoon ? styles.cityOverlaySoon : styles.cityOverlay}>
-                <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%'}}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
                   <span className={styles.cityCountry}>{city.country}</span>
                   {!city.comingSoon && <span className={styles.newBadge}>NOVO</span>}
                 </div>
@@ -113,6 +102,12 @@ function DestinationGrid() {
               </div>
             </Link>
           ))}
+        </div>
+
+        <div style={{ textAlign: 'center', marginTop: '3rem' }}>
+          <Link className={styles.btnSecondary} to="/catalogo">
+            📂 Ver Catálogo Completo
+          </Link>
         </div>
       </div>
     </section>
@@ -145,7 +140,7 @@ function HomepageFeatures() {
           O que você vai encontrar
         </Heading>
         <div className={styles.featuresGrid}>
-          {features.map(({icon, title, desc}) => (
+          {features.map(({ icon, title, desc }) => (
             <div key={title} className={styles.featureCard}>
               <span className={styles.featureIcon}>{icon}</span>
               <h3 className={styles.featureTitle}>{title}</h3>
@@ -179,11 +174,11 @@ function DestCTA() {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`${siteConfig.title} - Curiosidades e Dicas de Viagem`}
-      description="Curiosidades, dicas e histórias sobre lugares incríveis — Brasil, Viagens, Aventura.">
+      description="Curiosidades, dicas e histórias sobre lugares incríveis.">
       <HomepageHeader />
       <main>
         <DestinationGrid />

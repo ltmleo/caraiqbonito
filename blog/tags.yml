@@ -1,19 +1,10 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+europa:
+  label: Europa
+  permalink: /europa
+  description: Destinos na Europa
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+americas:
+  label: Américas
+  permalink: /americas
+  description: Destinos nas Américas
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description

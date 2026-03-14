@@ -1,11 +1,11 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Carai Q Bonito!',
+  title: 'Carai Que Bonito!',
   tagline: 'Curiosidades e dicas sobre lugares incríveis',
   favicon: 'img/logo.png',
 
@@ -53,7 +53,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ltmleo/caraiqbonito/edit/main',
         },
         blog: {
           showReadingTime: true,
@@ -84,17 +84,26 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Carai Q Bonito!',
+      title: 'Carai Que Bonito!',
       logo: {
-        alt: 'Carai Q Bonito! Logo',
+        alt: 'Carai Que Bonito! Logo',
         src: '/img/logo.png',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/catalogo',
+          label: 'Catálogo',
           position: 'left',
-          label: 'Destinos',
+        },
+        {
+          to: '/destinos/europa',
+          label: 'Europa',
+          position: 'left',
+        },
+        {
+          to: '/destinos/americas',
+          label: 'Américas',
+          position: 'left',
         },
       ],
     },
@@ -102,16 +111,50 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Destinos',
+          title: 'Europa',
           items: [
             {
               label: 'Berlim',
-              to: '/destinos/europa/central/berlim',
+              to: '/destinos/europa/central/berlim/berlim',
+            },
+            {
+              label: 'Praga',
+              to: '/destinos/europa/central/praga/praga',
+            },
+            {
+              label: 'Viena',
+              to: '/destinos/europa/central/viena/viena',
+            },
+            {
+              label: 'Budapeste',
+              to: '/destinos/europa/central/budapeste/budapeste',
+            },
+          ],
+        },
+        {
+          title: 'Américas',
+          items: [
+            {
+              label: 'Foz do Iguaçu',
+              to: '/destinos/americas/brasil/foz-do-iguacu/foz-do-iguacu',
+            },
+          ],
+        },
+        {
+          title: 'Social',
+          items: [
+            {
+              label: 'GitHub',
+              href: 'https://github.com/ltmleo/caraiqbonito',
+            },
+            {
+              label: 'Blog',
+              to: '/blog',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Carai Q Bonito! Construído com Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Carai Que Bonito! Construído com Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
