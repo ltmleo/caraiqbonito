@@ -1,8 +1,8 @@
-# Dicas
+# 💡 Dicas
 
-> **Resumo:** Viena é cara para os padrões brasileiros mas razoável para os europeus — e com planejamento simples (ingresso de pé na ópera, jardins gratuitos, museus com dia livre) dá para ter uma experiência de primeira classe sem primeiro preço. O transporte público é tão bom que táxi é desperdício.
+> **Resumo:** 💶 Viena é cara para os padrões brasileiros mas razoável para os europeus — e com planejamento simples (ingresso de pé na ópera, jardins gratuitos, museus com dia livre) dá para ter uma experiência de primeira classe sem primeiro preço. O transporte público é tão bom que táxi é desperdício. 🚆💰
 
-## Chegando e se locomovendo
+## 🚆 Chegando e se locomovendo
 
 O **Aeroporto Internacional de Viena** (Vienna International Airport – VIE) fica a cerca de 18 km do centro. As principais opções de chegada:
 
@@ -18,7 +18,7 @@ Dentro da cidade, o **transporte público (VOR)** é integrado e excelente: o **
 - **Vienna City Card**: transporte ilimitado + descontos em mais de 200 atrações — começa em €17 (24h). Vale a pena se você for visitar vários museus.
 - Compre nas máquinas das estações (aceitam cartão), no app **WienMobil** ou nas tabacarias com símbolo "WL".
 
-## Melhor época para visitar
+## 📅 Melhor época para visitar
 
 **Primavera (abril–junho):** Melhor equilíbrio entre clima e movimento. Temperaturas de 12°C a 22°C, jardins floridos (Schönbrunn e Belvedere são especialmente bonitos), preços ainda razoáveis antes da alta temporada de julho.
 
@@ -28,7 +28,7 @@ Dentro da cidade, o **transporte público (VOR)** é integrado e excelente: o **
 
 **Inverno (dezembro–março):** Os **mercados de Natal** de Viena — especialmente o da Rathausplatz e o da Freyung — são dos mais bonitos da Europa, e valem a viagem só por eles. Faz frio de verdade (entre -5°C e 5°C), mas a cidade está na sua versão mais aconchegante: cafés lotados, vin quente, apresentações de ópera e concertos clássicos com a frequência máxima da temporada.
 
-## Dinheiro e pagamentos
+## 💶 Dinheiro e pagamentos
 
 A Áustria usa o **euro (€)**. Viena não é a cidade mais cara da Europa, mas está claramente acima da média — calcule ao menos €80 por dia para alimentação + transporte + passeios moderados. Hospedagem e ingressos de museus vêm por cima.
 
@@ -40,7 +40,7 @@ Alguns **truques para economizar:**
 - Os jardins de Schönbrunn e Belvedere são de acesso gratuito — passeie pelos jardins antes de pagar pelo interior
 - Lanche no Naschmarkt é sempre mais barato que qualquer restaurante da Ringstrasse
 
-## Idioma
+## 🗣️ Idioma
 
 O idioma oficial é o **alemão austríaco** — ligeiramente diferente do alemão alemão em vocabulário e sotaque, mas mutuamente inteligível. O inglês funciona muito bem em hotéis, restaurantes turísticos, museus e atrações do centro. Em padarias, mercados de bairro e pubs fora do Innere Stadt, alemão ajuda.
 
@@ -48,7 +48,7 @@ Algumas palavras úteis em alemão austríaco: *Guten Tag* (bom dia), *Danke* (o
 
 Uma peculiaridade cultural: **os garçons dos cafés históricos têm fama de serem ligeiramente rudes** — não de maneira ofensiva, mas com uma frieza protocolar que os próprios vienenses encaram como instituição. Não leve para o lado pessoal; é tradição.
 
-## Segurança
+## 🛡️ Segurança
 
 Viena é consistentemente classificada como uma das cidades mais seguras do mundo. Os crimes contra turistas são quase sempre furtivos — **bolsos e bolsas** nas atrações lotadas (Stephansplatz, Schönbrunn, metrô) são os alvos habituais. Use bolsa a tiracolo na frente do corpo ou mochila com zíper acessível apenas por você.
 

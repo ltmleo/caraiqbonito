@@ -115,19 +115,19 @@ const config: Config = {
           items: [
             {
               label: 'Berlim',
-              to: '/destinos/europa/central/berlim/berlim',
+              to: '/destinos/europa/central/berlim/',
             },
             {
               label: 'Praga',
-              to: '/destinos/europa/central/praga/praga',
+              to: '/destinos/europa/central/praga/',
             },
             {
               label: 'Viena',
-              to: '/destinos/europa/central/viena/viena',
+              to: '/destinos/europa/central/viena/',
             },
             {
               label: 'Budapeste',
-              to: '/destinos/europa/central/budapeste/budapeste',
+              to: '/destinos/europa/central/budapeste/',
             },
           ],
         },
@@ -136,7 +136,7 @@ const config: Config = {
           items: [
             {
               label: 'Foz do Iguaçu',
-              to: '/destinos/americas/brasil/foz-do-iguacu/foz-do-iguacu',
+              to: '/destinos/americas/brasil/foz-do-iguacu/',
             },
           ],
         },

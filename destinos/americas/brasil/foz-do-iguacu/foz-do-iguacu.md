@@ -1,10 +1,13 @@
 ---
 sidebar_position: 1
+title: Foz do Iguaçu
 ---
 
-# Foz do Iguaçu
+# 🇧🇷 Foz do Iguaçu
 
-> **Em poucas palavras:** Foz do Iguaçu é o destino natural mais espetacular do Brasil — uma cidade construída na tríplice fronteira entre Brasil, Argentina e Paraguai, cuja razão de existir é um conjunto de 275 quedas d'água que o mundo inteiro elegeu como uma das Sete Maravilhas da Natureza. Mas a cidade é mais do que um portal para as Cataratas: é também o endereço da maior hidrelétrica em geração de energia do planeta, de uma diversidade cultural que junta guaranis, árabes, japoneses, libaneses e paraguaios numa mesma avenida, e de uma posição geográfica que faz de um fim de tarde à beira do Rio Paraná um pôr do sol em três países ao mesmo tempo.
+> **Em poucas palavras:** 🌊 Foz do Iguaçu é o destino natural mais espetacular do Brasil. Lar das 275 quedas d'água eleitas uma das Sete Maravilhas da Natureza, a cidade é um encontro vibrante entre Brasil, Argentina e Paraguai. 🌈💦🚢✨
+
+![Foz do Iguaçu Hero](/img/foz_hero.png)
 
 Há um momento em Foz do Iguaçu que nenhuma fotografia captura de verdade: você está na passarela do Parque Nacional, a uns 10 metros da Garganta do Diabo, e o ruído das quedas já é tão ensurdecedor que as pessoas ao seu lado precisam gritar para se ouvir. A névoa úmida molha o rosto antes que você chegue perto. O chão vibra. E então você dobra a última curva da trilha e vê: uma cortina de água de 80 metros de altura caindo em semicírculo sobre o Rio Iguaçu com uma força que parece impossível — como se a natureza estivesse tentando provar um ponto. É o tipo de paisagem que faz o visitante parar, calar e perceber que estava muito confiante na sua capacidade de imaginar o mundo.
 
@@ -12,7 +15,7 @@ As Cataratas são a razão pela qual Foz existe como destino turístico — mas 
 
 E depois há a própria cidade — que não é o tipo de lugar que entra em roteiros de viagem por si mesma, mas que tem uma identidade genuinamente sui generis: é a quarta cidade mais visitada do Brasil por estrangeiros, tem a maior comunidade árabe-libanesa do sul do Brasil, templo budista de quatro andares, mesquita que parece ter sido transportada do Oriente Médio, e uma gastronomia que junta o churrasco gaúcho, a culinária árabe, o temaki de Japão e o assado argentino no mesmo quarteirão.
 
-## Resumo histórico
+## 📜 Resumo histórico
 
 A região foi habitada pelos guaranis por milênios antes da chegada dos europeus — e os próprios guaranis eram os herdeiros de ocupações humanas que remontam a pelo menos 8.000 a.C., confirmadas por pesquisas arqueológicas feitas antes da formação do Lago de Itaipu. O nome "Iguaçu" vem do tupi-guarani: *y* (água) + *guasu* (grande) — "água grande", descrição que subestima o que de fato existe ali.
 
@@ -20,12 +23,12 @@ Em 1542, o conquistador espanhol Álvar Núñez Cabeza de Vaca chegou às Catara
 
 → [Leia a história completa](./history.md)
 
-## O que não perder
+## 📍 O que não perder
 
-- [Imperdíveis](./must-to-see.md) — As Cataratas pelo lado brasileiro, o lado argentino com a Garganta do Diabo, Itaipu e o Marco das Três Fronteiras
-- [Vale a Visita](./nice-to-see.md) — O Parque das Aves, o Templo Budista, uma tarde no Paraguai e o passeio de barco Macuco Safari
+- [Imperdíveis](./must-to-see.md) — 🌊 As Cataratas (Brasil e Argentina), Itaipu e Marco das Três Fronteiras.
+- [Vale a Visita](./nice-to-see.md) — 🐦 Parque das Aves, Templo Budista e compras no Paraguai.
 
-## Para entrar no clima
+## 🎬 Para entrar no clima
 
 **Filmes:** *The Mission* (1986, Roland Joffé) — rodado parcialmente nas Cataratas do Iguaçu e ambientado exatamente nessa região no século XVIII, nas missões jesuítas entre os guaranis; *Indiana Jones e o Reino da Caveira de Cristal* (2008) — usou as Cataratas como cenário numa cena de perseguição; *Mr. Magoo* (1997) — também filmou nas Cataratas, se isso conta como recomendação
 

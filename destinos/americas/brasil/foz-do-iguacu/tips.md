@@ -1,8 +1,8 @@
-# Dicas
+# 💡 Dicas
 
-> **Resumo:** Foz do Iguaçu é um destino que recompensa quem planeja: o Parque Nacional tem limite diário de visitantes, o lado argentino exige documentação específica e dia inteiro, e a cidade inteira é servida por transporte público irregular — a maior parte do roteiro turístico exige táxi, aplicativo ou agência. Três dias é o mínimo honesto para fazer tudo sem correria.
+> **Resumo:** 🗺️ Planeje seu tempo em Foz: documentação para cruzar fronteiras, transporte entre parques e o melhor momento para ver as águas em fúria. Com organização, você aproveita o melhor dos três países. 🚆💰🇧🇷🇦🇷🇵🇾✨
 
-## Como chegar
+## 🚆 Como chegar
 
 O **Aeroporto Internacional Cataratas do Iguaçu** (código IGU) fica a aproximadamente 20 km do centro da cidade e a 17 km do Parque Nacional — ou seja, o aeroporto fica entre a cidade e o parque, o que é uma vantagem logística. As principais companhias aéreas brasileiras (LATAM, Gol, Azul) têm voos diretos de São Paulo (Congonhas e Guarulhos), Rio de Janeiro, Curitiba, Brasília e outras capitais. Duração: ~1h30 de São Paulo.
 
@@ -10,7 +10,7 @@ O **Aeroporto Internacional Cataratas do Iguaçu** (código IGU) fica a aproxima
 
 **De carro:** A BR-277 vem de Curitiba (643 km, ~6h–7h) e é a única rodovia federal que serve a cidade. A estrada é boa, asfaltada e sinalizada. Ter carro em Foz é uma vantagem real, especialmente para quem quer fazer o Marco das Três Fronteiras, Itaipu e o Parque das Aves em sequência.
 
-## Como se locomover dentro de Foz
+## 🚗 Como se locomover dentro de Foz
 
 O transporte público de Foz é limitado para fins turísticos. As atrações ficam espalhadas por uma cidade grande, sem ônibus turístico integrado. As opções práticas:
 
@@ -19,7 +19,7 @@ O transporte público de Foz é limitado para fins turísticos. As atrações fi
 - **Agências de turismo:** Para o lado argentino e para quem quer roteiro organizado sem preocupação com logística, as agências locais oferecem pacotes com transporte porta a porta, incluso o processo de imigração para a Argentina. Custo médio: R$150–250 por pessoa por passeio.
 - **Carro alugado:** A melhor opção para quem quer liberdade total. As principais locadoras (Localiza, Movida, Unidas) têm balcão no aeroporto.
 
-## Roteiro sugerido por dias
+## 📅 Roteiro sugerido por dias
 
 **Dia 1 — Chegada + Cataratas lado brasileiro + Parque das Aves**
 Chegue de manhã. Vá diretamente ao Parque Nacional do Iguaçu (o aeroporto está a 17 km). Reserve 3h–4h para o parque. Ao sair, combine com o Parque das Aves, que fica na entrada do Parque Nacional. À noite, Marco das Três Fronteiras ao entardecer (espetáculo noturno às sextas e sábados).
@@ -30,7 +30,7 @@ Saída às 8h, retorno ~16h–17h. Leve RG com menos de 10 anos ou passaporte. C
 **Dia 3 — Itaipu + Ciudad del Este + área urbana**
 Visita a Itaipu de manhã. Tarde livre para a travessia ao Paraguai ou passeio urbano (Templo Budista, Mesquita, avenida comercial).
 
-## Melhor época para visitar
+## 📅 Melhor época para visitar
 
 **Março a novembro:** tecnicamente qualquer época serve, mas o regime de chuvas influencia muito a experiência. Nos períodos de cheia (especialmente março–maio, depois das chuvas de verão), o volume das Cataratas é espetacular e a névoa intensa — mas pode ser tão intensa que a visibilidade diminui. Nos períodos de seca (especialmente agosto–setembro), o volume cai e algumas quedas secundárias ficam com fio de água ou secam.
 
@@ -40,7 +40,7 @@ Visita a Itaipu de manhã. Tarde livre para a travessia ao Paraguai ou passeio u
 
 **Verão (dezembro–fevereiro):** muito quente (pode passar de 35°C), com chuvas intensas. As Cataratas ficam impressionantes com a cheia, mas as chuvas podem interromper passeios e a umidade é sufocante.
 
-## Documentos para a fronteira
+## 📑 Documentos para a fronteira
 
 **Para ir à Argentina (Cataratas lado argentino):**
 RG emitido há menos de 10 anos **ou** passaporte válido. CNH não é aceita para cruzar a fronteira internacional. Brasileiros não precisam de visto para a Argentina.
@@ -52,7 +52,7 @@ RG ou passaporte válido. CNH não é aceita. Brasileiros não precisam de visto
 
 **Para levar carro à Argentina:** É obrigatório ter o seguro **Carta Verde** — seguro específico para veículos brasileiros circulando no Mercosul. Pode ser contratado online ou em corretoras de seguros.
 
-## Segurança e dicas gerais
+## 🛡️ Segurança e dicas gerais
 
 Foz do Iguaçu é uma cidade de turismo massivo com os desafios que isso implica. Algumas atenções específicas:
 
@@ -61,7 +61,7 @@ Foz do Iguaçu é uma cidade de turismo massivo com os desafios que isso implica
 - **Câmeras nas quedas:** A névoa das Cataratas é suficiente para embassarças e molhar câmeras. Uma boa bolsa impermeável ou saco plástico de zip lock salva equipamentos.
 - **Ciudad del Este:** É uma cidade de comércio intenso e é possível encontrar oportunistas — vendedores que insistem muito, preços que sobem durante a negociação, produtos que não são o que parecem. Vá com paciência, bom senso e o coração aberto para uma experiência diferente.
 
-## Gastronomia
+## 🥘 Gastronomia
 
 Foz do Iguaçu não tem culinária típica bem definida — o que tem é uma mistura de influências que reflete a demografia da cidade:
 

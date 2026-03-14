@@ -1,8 +1,8 @@
-# Imperdíveis
+# 🚩 Imperdíveis
 
-> **Resumo:** Bratislava não tem a quantidade de grandes atrações de Viena ou Praga — e essa é precisamente sua graça. O que tem é concentrado, caminhável e denso em história: um castelo que domina o Danúbio, a catedral onde reis húngaros foram coroados por quase três séculos, uma Cidade Velha que cabe numa tarde e te surpreende a cada esquina, e uma ponte comunista futurista que se tornou o símbolo mais improvável da cidade.
+> **Resumo:** 🏰 Bratislava não tem a quantidade de grandes atrações de Viena ou Praga — e essa é precisamente sua graça. O que tem é concentrado, caminhável e denso em história: um castelo que domina o Danúbio, a catedral onde reis húngaros foram coroados por quase três séculos, uma Cidade Velha que cabe numa tarde e te surpreende a cada esquina, e uma ponte comunista futurista que se tornou o símbolo mais improvável da cidade. ✨🇸🇰🛳️
 
-## Castelo de Bratislava (*Bratislavský Hrad*)
+## 🏰 Castelo de Bratislava (*Bratislavský Hrad*)
 
 O castelo de quatro torres brancas que domina a colina sobre o Danúbio é o cartão-postal mais reconhecível de Bratislava — e também um dos edifícios com história mais acidentada da Europa Central. Celtas construíram aqui uma cidade fortificada. Romanos, um posto avançado. Eslavos, uma fortaleza do século IX. Os Habsburgos transformaram-no em residência real barroca. Em 1811, um incêndio deixou-o em ruínas por 140 anos. A reconstrução, concluída em 1968, restituiu ao castelo a forma da era de Maria Teresa — o que explica seu aspecto curiosamente novo para um monumento tão antigo.
 
@@ -14,7 +14,7 @@ Dica: suba pelo caminho pela rua Zámocké schody (Escada do Castelo), que parte
 
 ---
 
-## Catedral de São Martinho (*Katedrála svätého Martina*)
+## ⛪ Catedral de São Martinho (*Katedrála svätého Martina*)
 
 A Catedral de São Martinho é o monumento mais carregado de significado histórico de Bratislava — e um dos mais subestimados pelos turistas que passam pela cidade apressados. Construída a partir de 1221 numa localização que um dia foi parte da muralha romana da cidade, ganhou sua forma gótica entre os séculos XIV e XV. No topo de sua torre de 85 metros, uma réplica dourada da Coroa de Santo Estêvão — a coroa dos reis húngaros — pesa 300 quilos e é visível de longe.
 
@@ -26,7 +26,7 @@ A entrada na nave é gratuita (há uma pequena taxa para o tesouro e a cripta, ~
 
 ---
 
-## Cidade Velha (*Staré Mesto*) e a Rota das Estátuas
+## 🏘️ Cidade Velha (*Staré Mesto*) e a Rota das Estátuas
 
 A Cidade Velha de Bratislava é pequena o suficiente para ser percorrida a pé em duas horas — e rica o suficiente para que essas duas horas sejam constantemente interrompidas por descobertas. O núcleo é a **Praça Principal** (*Hlavné námestie*), com sua Fonte de Rolando do século XVI ao centro e edifícios barrocos e renascentistas nas bordas, incluindo a torre amarela da Antiga Câmara Municipal (hoje Museu da Cidade, com acesso ao terraço por ~€3).
 
@@ -42,7 +42,7 @@ Além das estátuas, percorra a **Rua Michalská** até o **Portão de São Migu
 
 ---
 
-## Ponte SNP e Torre UFO
+## 🛸 Ponte SNP e Torre UFO
 
 A Ponte SNP (*Most SNP* — "Most" significa ponte, "SNP" é a sigla do Levante Nacional Eslovaco de 1944) foi inaugurada em 1972, é uma das maiores pontes estaiadas do mundo e tem no topo de seu único mastro uma estrutura que parece saída de um filme de ficção científica dos anos 1970 — um disco elíptico a 95 metros de altura sobre o Danúbio, que abriga um restaurante (caro, reserva obrigatória) e uma plataforma de observação com vista de 360° (entrada ~€12–13).
 

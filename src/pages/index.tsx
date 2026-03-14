@@ -18,13 +18,13 @@ const featuredCities = [
     name: 'Berlim',
     country: 'Alemanha',
     image: BerlimHero,
-    link: '/destinos/europa/central/berlim/berlim',
+    link: '/destinos/europa/central/berlim/',
   },
   {
     name: 'Praga',
     country: 'República Tcheca',
     image: PragueHero,
-    link: '/destinos/europa/central/praga/praga',
+    link: '/destinos/europa/central/praga/',
   },
 ];
 

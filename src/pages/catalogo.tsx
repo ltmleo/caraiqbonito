@@ -12,6 +12,10 @@ import PragueImg from '@site/static/img/prague_hero.png';
 import BudapestImg from '@site/static/img/budapest_hero.png';
 import ViennaImg from '@site/static/img/vienna_hero.png';
 import FozImg from '@site/static/img/foz_hero.png';
+// Using placeholders for missing images
+const IstanbulImg = BerlimImg; 
+const BratislavaImg = ViennaImg;
+
 
 const catalogueData = [
   {
@@ -25,34 +29,41 @@ const catalogueData = [
             name: 'Berlim',
             country: 'Alemanha',
             image: BerlimImg,
-            link: '/destinos/europa/central/berlim/berlim',
+            link: '/destinos/europa/central/berlim',
             status: 'novo',
           },
           {
             name: 'Praga',
             country: 'República Tcheca',
             image: PragueImg,
-            link: '/destinos/europa/central/praga/praga',
+            link: '/destinos/europa/central/praga',
             status: 'novo',
           },
           {
             name: 'Budapeste',
             country: 'Hungria',
             image: BudapestImg,
-            link: '/destinos/europa/central/budapeste/budapeste',
+            link: '/destinos/europa/central/budapeste',
             status: 'novo',
           },
           {
             name: 'Viena',
             country: 'Áustria',
             image: ViennaImg,
-            link: '/destinos/europa/central/viena/viena',
+            link: '/destinos/europa/central/viena',
             status: 'novo',
           },
           {
             name: 'Bratislava',
             country: 'Eslováquia',
-            image: PragueImg, // Fallback
+            image: BratislavaImg,
+            link: '/destinos/europa/central/bratislava',
+            status: 'novo',
+          },
+          {
+            name: 'Munique',
+            country: 'Alemanha',
+            image: MunichImg,
             link: '#',
             status: 'em-breve',
           },
@@ -64,9 +75,9 @@ const catalogueData = [
           {
             name: 'Istambul',
             country: 'Turquia',
-            image: BerlimImg, // Fallback
-            link: '#',
-            status: 'em-breve',
+            image: IstanbulImg,
+            link: '/destinos/europa/oriental/istambul',
+            status: 'novo',
           },
         ],
       },
@@ -83,7 +94,7 @@ const catalogueData = [
             name: 'Foz do Iguaçu',
             country: 'Brasil',
             image: FozImg,
-            link: '/destinos/americas/brasil/foz-do-iguacu/foz-do-iguacu',
+            link: '/destinos/americas/brasil/foz-do-iguacu',
             status: 'novo',
           },
         ],

@@ -5,7 +5,9 @@ title: Praga
 
 # 🇨🇿 Praga
 
-> **Em poucas palavras:** Praga é uma cidade que parece ter escapado da história intacta por obra de algum feitiço — dez séculos de gótico, barroco e Art Nouveau convivendo nas mesmas ruas estreitas, às margens do rio Vltava, numa atmosfera que oscila entre o conto de fadas e o romance kafkiano. É a cidade que sobreviveu a duas guerras mundiais, a um regime nazista, à ocupação soviética e a uma revolução de veludo — e saiu de tudo isso com seus telhados de terracota praticamente intactos.
+> **Em poucas palavras:** 🏰 Praga é uma cidade que parece ter escapado da história intacta por obra de algum feitiço — dez séculos de gótico, barroco e Art Nouveau convivendo nas mesmas ruas estreitas, às margens do rio Vltava, numa atmosfera que oscila entre o conto de fadas e o romance kafkiano. É a cidade que sobreviveu a duas guerras mundiais, a um regime nazista, à ocupação soviética e a uma revolução de veludo — e saiu de tudo isso com seus telhados de terracota praticamente intactos. 🌉✨
+
+![Praga Hero](/img/prague_hero.png)
 
 Há algo desconcertante em Praga: a cidade é bela demais para parecer real. Quando você atravessa a Ponte Carlos ao amanhecer, com o Castelo iluminado do outro lado do Vltava e a névoa ainda pairando sobre o rio, é difícil acreditar que esse cenário não foi construído por um estúdio de cinema. E de certa forma, foi — só que ao longo de onze séculos, camada por camada, por reis, imperadores, arquitetos, revolucionários e alquimistas.
 
@@ -13,7 +15,7 @@ Praga foi capital do Sacro Império Romano-Germânico, berço de uma das univers
 
 O resultado de tudo isso é uma cidade em que cada esquina tem uma história, cada palácio barroco esconde uma traição medieval e cada pub centenário serve a melhor cerveja do mundo por um preço que envergonha qualquer capital europeia. Praga é densa, contraditória e generosa — exatamente o tipo de lugar que te faz querer voltar antes mesmo de ir embora.
 
-## Resumo histórico
+## 📜 Resumo histórico
 
 A cidade nasceu da lenda. Segundo a tradição, foi a princesa Libuše quem, num sonho profético, avistou do alto de Vyšehrad uma cidade cujo esplendor "alcançaria as estrelas". Ela mandou seus nobres à floresta em busca do homem que construiria essa cidade — e eles encontraram um lavrador humilde chamado Přemysl, trabalhando no umbral (*práh*, em tcheco) de sua porta. Daí veio o nome: Praha.
 
@@ -21,12 +23,12 @@ Da lenda ao fato histórico, a cidade cresceu ao redor do Castelo construído pe
 
 → [Leia a história completa](./history.md)
 
-## O que não perder
+## 📍 O que não perder
 
 - [Imperdíveis](./must-to-see.md) — O Castelo, a Ponte Carlos, o Relógio Astronômico e o Bairro Judaico
 - [Vale a Visita](./nice-to-see.md) — O Muro de John Lennon, a Casa Dançante, o Monte Petřín e mais
 
-## Para entrar no clima
+## 🎬 Para entrar no clima
 
 **Filmes:** *Amadeus* (1984, Miloš Forman) — filmado em Praga, conta a vida de Mozart com a cidade como cenário perfeito; *Kolya* (1996) — Oscar de Melhor Filme Estrangeiro, retrato íntimo da Praga pós-comunista; *The Unbearable Lightness of Being* (1988) — adaptação do romance de Milan Kundera, ambientado na Primavera de Praga
 

@@ -1,8 +1,8 @@
-# Dicas
+# 💡 Dicas
 
-> **Resumo:** Praga é uma das capitais europeias mais acessíveis em custo, mais compactas em distância e mais ricas em conteúdo — mas tem algumas especificidades que valem saber antes de chegar, especialmente em relação à moeda, ao transporte e às estações do ano.
+> **Resumo:** 💶 Praga é uma das capitais europeias mais acessíveis em custo, mais compactas em distância e mais ricas em conteúdo — mas tem algumas especificidades que valem saber antes de chegar, especialmente em relação à moeda (coroas!), ao transporte e às estações do ano. 🚆💰✨
 
-## Chegando e se locomovendo
+## 🚆 Chegando e se locomovendo
 
 O Aeroporto Internacional Václav Havel fica a cerca de 17 km do centro. A forma mais econômica de chegar é pelo **ônibus público linha 119** até a estação de metrô Nádraží Veleslavín (linha A, verde), de onde você pega o metrô direto para o centro — o trajeto total leva uns 40 minutos e custa apenas o preço de um bilhete normal de transporte público. Alternativas: táxi ou Uber (em torno de 500–600 CZK, uns 20–25 minutos), ou o serviço de transfer privado.
 
@@ -10,7 +10,7 @@ O **transporte público de Praga** é eficiente, barato e integrado: metrô (3 l
 
 O centro histórico é completamente **caminhável** — a Cidade Velha, o Bairro Judaico, a Malá Strana e o Castelo ficam a menos de 30 minutos a pé entre si. A principal exceção é o Castelo, que exige subir uma colina considerável: bonde até a Malostranské náměstí e depois a pé, ou funicular do Petřín.
 
-## Melhor época para visitar
+## 📅 Melhor época para visitar
 
 **Primavera (abril–junho):** A melhor combinação de clima, paisagem e movimento turístico suportável. Temperaturas entre 12°C e 22°C, jardins floridos, dias longos. Os preços ainda são mais baixos do que no verão.
 
@@ -20,7 +20,7 @@ O centro histórico é completamente **caminhável** — a Cidade Velha, o Bairr
 
 **Inverno (dezembro–fevereiro):** Frio sério — pode chegar a -10°C, com neve. As feiras de Natal de dezembro transformam a Praça da Cidade Velha num cenário de conto de fadas, e essa época atrai uma multidão específica de visitantes. Nos meses de janeiro e fevereiro, porém, a cidade é mais vazia, mais barata e ainda linda — só vista de dentro de pubs aquecidos com canecão na mão.
 
-## Dinheiro e pagamentos
+## 💶 Dinheiro e pagamentos
 
 A República Tcheca faz parte da União Europeia desde 2004, mas **não adotou o euro**. A moeda oficial é a **Coroa Tcheca (CZK ou Kč)**. Existe em notas de 100, 200, 500, 1.000, 2.000 e 5.000 CZK e em moedas de 1, 2, 5, 10, 20 e 50 CZK. **Não subestime as moedas** — elas têm valor real e você vai precisar delas para algumas bilheterias e máquinas.
 
@@ -28,13 +28,13 @@ Embora alguns estabelecimentos turísticos aceitem euros, a cotação que oferec
 
 Praga é uma das capitais europeias mais baratas: meio litro de cerveja custa entre 45 e 80 CZK (R$ 10–18), um almoço fora da área turística não passa de 200 CZK, e a maioria dos museus principais tem ingressos entre 100 e 300 CZK.
 
-## Idioma
+## 🗣️ Idioma
 
 O idioma oficial é o **tcheco**, uma língua eslava com um alfabeto repleto de diacríticos (č, š, ž, ř) e sons que não existem no português. Não se esqueça, no entanto, que Praga é uma cidade turística bastante desenvolvida: **o inglês funciona bem** em hotéis, restaurantes, atrações e lojas do centro. Fora das áreas turísticas, o inglês já não é garantido — o alemão e o russo têm presença histórica maior entre a geração mais velha.
 
 Algumas palavras úteis em tcheco: *dobrý den* (bom dia), *děkuji* (obrigado/a), *prosím* (por favor / de nada), *Kolik to stojí?* (Quanto custa?), *kde je...?* (onde fica...?), *Na zdraví!* (saúde! — ao brindar). Os tchecos, de modo geral, apreciam qualquer tentativa de falar a língua deles, mesmo desastrosa.
 
-## Segurança
+## 🛡️ Segurança
 
 Praga é uma cidade segura para turistas. Os crimes mais comuns são **furtos e batedores de carteira**, especialmente em locais lotados como a Ponte Carlos, a Praça da Cidade Velha, o metrô e os bondes turísticos. Segure bem sua bolsa nesses ambientes e não deixe celular e carteira em bolsos traseiros.
 

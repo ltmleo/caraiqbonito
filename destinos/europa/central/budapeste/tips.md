@@ -1,8 +1,8 @@
-# Dicas
+# 💡 Dicas
 
-> **Resumo:** Budapeste usa o florim húngaro — não o euro —, e essa é a dica mais importante desta página: quem não troca para a moeda local paga mais caro em quase tudo. Com o câmbio certo, a cidade é surpreendentemente acessível: termas, ópera, restaurantes tradicionais e até o metrô mais antigo da Europa saem por preços que envergonham outras capitais.
+> **Resumo:** 💶 Budapeste usa o florim húngaro — não o euro —, e essa é a dica mais importante: quem não troca para a moeda local paga mais caro. Com o câmbio certo, a cidade é surpreendentemente acessível. 🚆💰🇭🇺✨
 
-## Chegando e se locomovendo
+## 🚆 Chegando e se locomovendo
 
 O **Aeroporto Internacional Ferenc Liszt** (*Budapest Liszt Ferenc Nemzetközi Repülőtér*) fica a cerca de 20 km do centro. As principais opções:
 
@@ -19,7 +19,7 @@ Dentro da cidade, o **transporte público de Budapeste (BKK)** é integrado e co
 
 ⚠️ **ATENÇÃO — validação obrigatória:** Não há catracas na maioria dos acessos. Os bilhetes precisam ser **validados antes do embarque** nas caixinhas laranjas das estações ou nos validadores dentro dos veículos. Fiscais de uniforme e à paisana circulam constantemente e a multa por bilhete não validado é pesada — pode chegar a 16.000 HUF (~€40) na hora, com agravamento se pago depois.
 
-## Melhor época para visitar
+## 📅 Melhor época para visitar
 
 **Primavera (abril–junho):** Excelente. Temperaturas de 15°C a 24°C, jardins floridos, terraços de café ao ar livre, movimento turístico ainda suportável. O **Festival da Primavera de Budapeste** (abril) é um dos maiores festivais de artes clássicas da Europa.
 
@@ -29,7 +29,7 @@ Dentro da cidade, o **transporte público de Budapeste (BKK)** é integrado e co
 
 **Inverno (dezembro–março):** Frio real (pode chegar a -10°C com neve). Os **mercados de Natal** na Praça Vörösmarty e na Basílica são muito bonitos e aconchegantes. As termas ganham uma atmosfera completamente diferente no frio — o vapor subindo das piscinas externas com neve ao redor é uma das experiências mais memoráveis da cidade.
 
-## Dinheiro e pagamentos
+## 💶 Dinheiro e pagamentos
 
 A Hungria **não usa o euro**. A moeda oficial é o **Florim Húngaro (HUF ou Ft)**. Apesar de alguns estabelecimentos turísticos aceitarem euros, a cotação é invariavelmente desvantajosa. **Troque para florins.**
 
@@ -42,7 +42,7 @@ A melhor estratégia: leve euros do Brasil e troque em **casas de câmbio no cen
 - Ingresso Parlamento (tour guiado): ~8.000 HUF (~€20)
 - Ópera Estatal (ingresso de pé): a partir de ~1.500 HUF (~€4)
 
-## Idioma
+## 🗣️ Idioma
 
 O idioma oficial é o **húngaro** (*Magyar*) — língua fino-úgrica sem qualquer parentesco com o alemão, o eslovaco ou qualquer outra língua que você provavelmente conheça. É considerada uma das línguas mais difíceis para falantes de línguas indo-europeias.
 
@@ -50,7 +50,7 @@ O **inglês funciona bem** no centro de Budapeste, hotéis, restaurantes turíst
 
 Palavras úteis em húngaro: *Jó napot* (bom dia), *Köszönöm* (obrigado/a), *Kérem* (por favor), *Elnézést* (com licença), *Mennyibe kerül?* (quanto custa?), *Hol van...?* (onde fica...?), *Egészségedre!* (saúde! — ao brindar). Qualquer tentativa de falar húngaro é recebida com entusiasmo desproporcional pelos locais, que sabem que a língua é difícil.
 
-## Segurança
+## 🛡️ Segurança
 
 Budapeste é uma cidade razoavelmente segura para turistas, com alguns alertas específicos:
 

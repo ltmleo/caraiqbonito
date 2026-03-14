@@ -1,8 +1,8 @@
-# Vale a Visita
+# ✨ Vale a Visita
 
-> **Resumo:** Viena recompensa quem abandona o roteiro dos grandes palácios e se perde nos mercados, cafés históricos, bairros excêntricos e cemitérios onde a maior concentração de gênios musicais por metro quadrado do mundo dorme seu sono definitivo.
+> **Resumo:** 🌳 Viena recompensa quem abandona o roteiro dos grandes palácios e se perde nos mercados, cafés históricos, bairros excêntricos e cemitérios onde a maior concentração de gênios musicais por metro quadrado do mundo dorme seu sono definitivo. 🚶‍♂️☕🎻
 
-## Os Cafés Históricos — Patrimônio da UNESCO
+## ☕ Os Cafés Históricos — Patrimônio da UNESCO
 
 A cultura dos cafés vienenses (*Wiener Kaffeehauskultur*) foi declarada Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2011, com uma definição que captura tudo: "lugar onde o tempo e o espaço são consumidos, mas somente o café vai para a conta." É sério — você pode sentar, pedir um único *Melange* (o cappuccino vienense), abrir um jornal e ficar horas sem que ninguém te apresse.
 
@@ -14,7 +14,7 @@ Para algo mais autêntico e menos turístico, vá ao **Café Sperl** (Gumpendorf
 
 ---
 
-## Naschmarkt — O Mercado que é Aula de Viena
+## 🥗 Naschmarkt — O Mercado que é Aula de Viena
 
 O Naschmarkt é o maior e mais famoso mercado ao ar livre de Viena, estendendo-se por quase 1,5 quilômetro ao longo do canal do Rio Wien. Aberto desde o século XVI, hoje tem mais de 120 barracas vendendo frutas, legumes, especiarias, queijos, embutidos, frutos do mar, vinho e praticamente qualquer coisa comestível que existe.
 
@@ -26,7 +26,7 @@ Vale ir com fome. *Wiener Schnitzel* no restaurante Gasthaus Ubl (literalmente a
 
 ---
 
-## Hundertwasserhaus
+## 🎨 Hundertwasserhaus
 
 Em 1983, o artista Friedensreich Hundertwasser — o mais excêntrico dos austríacos, que jurara que nunca viveria nem trabalharia em edificios com linhas retas porque "a linha reta é instrumento do Diabo" — convenceu a prefeitura de Viena a deixá-lo projetar um complexo residencial popular. O resultado, inaugurado em 1986, é um prédio que parece ter brotado organicamente da terra: fachadas de cores vibrantes, janelas de formas irregulares, árvores crescendo para dentro dos apartamentos pelos balcões, chão ondulado ("direito do piso de se mover"), telhado coberto de grama.
 
@@ -36,7 +36,7 @@ O mais surpreendente não é o prédio em si, mas o fato de que é habitado por 
 
 ---
 
-## Cemitério Central (*Zentralfriedhof*)
+## 🪦 Cemitério Central (*Zentralfriedhof*)
 
 Viena tem a tradição peculiar de fazer do Cemitério Central um ponto turístico com entusiasmo genuíno — e quando você souber quem está lá enterrado, entenderá por quê. Beethoven, Brahms, Schubert, Johann Strauss pai e filho, Hugo Wolf, Arnold Schoenberg, Antonio Salieri: a **Seção 32A** (o "cantinho dos músicos") tem a maior concentração de compositores célebres por metro quadrado de qualquer lugar do planeta.
 
@@ -48,7 +48,7 @@ O cemitério tem 330 mil sepulturas em 2,5 quilômetros quadrados, com bondes el
 
 ---
 
-## MuseumsQuartier e o Museu Leopold
+## 🏛️ MuseumsQuartier e o Museu Leopold
 
 Os antigos estábulos imperiais do século XVIII foram transformados nos anos 1990 no maior complexo cultural da Europa, abrigando hoje cerca de 60 museus e instituições. O mais importante para quem quer entender a arte vienense do fim do século XIX e início do XX é o **Museu Leopold**, com a maior coleção de obras de Egon Schiele do mundo.
 

@@ -1,8 +1,8 @@
-# Dicas
+# 💡 Dicas
 
-> **Resumo:** Istambul usa a lira turca — e essa é a informação mais importante desta página. A moeda sofreu desvalorização intensa nos últimos anos, o que torna a cidade extraordinariamente acessível para quem chega com euros ou dólares — mas exige atenção: não dá para trocar reais na Turquia, e câmbio em aeroporto e hotel é sempre desvantajoso. Com a moeda certa e alguns alertas de segurança em mente, Istambul é uma das viagens mais ricas em experiência por real gasto que a Europa oferece.
+> **Resumo:** 💶 Istambul usa a lira turca — e essa é a informação mais importante. A cidade é extraordinariamente acessível, mas exige atenção ao câmbio e segurança. Com as dicas certas, sua experiência na "Grande Cidade" será inesquecível. 🚆💰🇹🇷✨
 
-## Chegando ao aeroporto e se locomovendo
+## 🚆 Chegando ao aeroporto e se locomovendo
 
 O **Aeroporto Internacional de Istambul** (*Istanbul Havalimanı*, código IST) é um dos maiores do mundo, inaugurado em 2018 na parte europeia da cidade, a cerca de 40 km do centro. É o hub da Turkish Airlines — que opera voos diretos de São Paulo (Guarulhos) para Istambul, com duração de aproximadamente 12 horas.
 
@@ -19,7 +19,7 @@ Dentro da cidade, o transporte público de Istambul cobre praticamente tudo com 
 
 **Istanbulkart:** o cartão de transporte integrado de Istambul. Funciona em metrô, bonde, ferry e ônibus. Compre nas máquinas ou guichês do aeroporto ou das estações — o depósito inicial custa alguns liras e depois você recarrega conforme necessário. Usar o Istanbulkart é sempre mais barato do que pagar individualmente em cada viagem.
 
-## Dinheiro — a informação mais importante
+## 💶 Dinheiro — a informação mais importante
 
 A moeda da Turquia é a **Lira Turca (TRY ou ₺)**. A lira passou por desvalorização intensa na última década, o que torna Istambul muito acessível para visitantes com moedas fortes — mas cria duas armadilhas importantes:
 
@@ -37,7 +37,7 @@ Cartões Revolut e Wise são a melhor alternativa ao câmbio em espécie — fun
 - Hammam básico: a partir de 600–800 TRY; hammams históricos de €50–110
 - Ferry público pelo Bósforo: ~50–100 TRY por trecho
 
-## Melhor época para visitar
+## 📅 Melhor época para visitar
 
 **Primavera (abril–maio):** A melhor época. Temperaturas de 15°C a 22°C, o Festival das Tulipas em abril enche os parques de cor, menos turistas do que no verão, dias longos. Ideal para caminhar pela cidade sem medo do calor.
 
@@ -47,7 +47,7 @@ Cartões Revolut e Wise são a melhor alternativa ao câmbio em espécie — fun
 
 **Inverno (novembro–março):** Frio (pode nevar), menos turistas, preços menores. Istambul com neve sobre as cúpulas das mesquitas é uma visão extraordinária. Muitos sites de museus têm horários reduzidos.
 
-## Idioma
+## 🗣️ Idioma
 
 O idioma oficial é o **turco** (*Türkçe*) — língua altaica, sem parentesco com árabe, persa ou qualquer língua europeia, embora use o alfabeto latino desde a reforma de Atatürk em 1928.
 
@@ -55,7 +55,7 @@ O **inglês funciona bem** nas áreas turísticas de Sultanahmet, Beyoğlu, hot�
 
 Palavras básicas em turco: *Merhaba* (olá), *Teşekkür ederim* (obrigado/a), *Lütfen* (por favor), *Evet / Hayır* (sim / não), *Ne kadar?* (quanto custa?), *Nerede?* (onde?), *Şerefe!* (saúde! — ao brindar). Qualquer tentativa de falar turco é recebida com desproporcionalmente boa vontade.
 
-## Vestimenta e etiqueta em mesquitas
+## 🕌 Vestimenta e etiqueta em mesquitas
 
 Istambul é uma cidade laica mas com maioria muçulmana praticante. Na rua, não há código de vestimenta — shorts e tops são totalmente comuns na temporada de calor. O código só se aplica ao entrar em mesquitas:
 
@@ -67,7 +67,7 @@ Istambul é uma cidade laica mas com maioria muçulmana praticante. Na rua, não
 
 Os horários de oração variam conforme a estação — vale verificar antes de sair. Há apps de horário de oração disponíveis gratuitamente.
 
-## Segurança
+## 🛡️ Segurança
 
 Istambul é geralmente segura para turistas nas áreas frequentadas, mas há golpes recorrentes que merecem atenção específica:
 

@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Budapeste
+# 🇭🇺 Budapeste
 
-> **Em poucas palavras:** Budapeste é a cidade mais dramática do Danúbio — duas metades opostas separadas por um rio e reunidas em 1873 num casamento que produziu um dos conjuntos urbanos mais bonitos da Europa. Buda é colinas, castelos e a melancolia das coisas que duraram; Pest é boulevards, cafés literários, ruin bars e a energia de uma cidade que sobreviveu a tudo e insiste em dançar. Juntas, formam uma capital que carrega o peso de celtas, romanos, otomanos, Habsburgos, nazistas e soviéticos — e chegou ao século XXI mais vibrante do que qualquer uma das forças que tentaram moldá-la.
+> **Em poucas palavras:** 🏰 Budapeste é a cidade mais dramática do Danúbio — duas metades opostas (Buda e Pest) separadas por um rio e reunidas em 1873 num casamento que produziu um dos conjuntos urbanos mais bonitos da Europa. Buda é colinas e melancolia; Pest é boulevards e energia vibrante. Juntas, formam uma capital que sobreviveu a tudo e insiste em encantar. 🌉⛴️🇭🇺
+
+![Budapeste Hero](/img/budapest_hero.png)
 
 Há uma cena que resume Budapeste melhor do que qualquer descrição: à noite, da margem de Pest, você olha para o outro lado do Danúbio e vê o Castelo de Buda iluminado em âmbar, o Bastião dos Pescadores recortando o céu como uma fantasia neogótica, e os arcos da Ponte das Correntes refletindo no rio escuro. Nenhuma fotografia faz justiça. É um daqueles momentos em que você para no meio da calçada, esquece o roteiro e simplesmente fica olhando — porque parece impossível que uma cidade assim exista de verdade.
 
@@ -14,7 +16,7 @@ O resultado de tudo isso é uma cidade que aprendeu a transformar a catástrofe 
 
 Budapeste não poupa o visitante. Mas também o recompensa com termas romanas sob cúpulas barrocas, com mercados lotados de páprica e salami, com o metrô mais antigo da Europa continental, com o maior Parlamento neogótico do mundo às margens de um rio que ainda parece imenso ao entardecer.
 
-## Resumo histórico
+## 📜 Resumo histórico
 
 A região foi habitada por celtas, depois pelos romanos — que fundaram aqui *Aquincum*, capital da Pannônia Inferior — e depois pelos magiares, que chegaram do leste no século IX e fundaram o Reino da Hungria no ano 1000, com o rei Estêvão I coroado pelo próprio papa. A Buda medieval tornou-se um dos centros do Renascimento humanista europeu sob Matias Corvino no século XV — antes de cair nas mãos otomanas em 1541 por 150 anos.
 
@@ -22,12 +24,12 @@ Os Habsburgos expulsaram os turcos em 1686 e reconstruíram a cidade, que alcan�
 
 → [Leia a história completa](./history.md)
 
-## O que não perder
+## 📍 O que não perder
 
 - [Imperdíveis](./must-to-see.md) — O Parlamento, o Castelo de Buda, as Termas Széchenyi, o Bastião dos Pescadores e os Sapatos no Danúbio
 - [Vale a Visita](./nice-to-see.md) — Os ruin bars, o Mercado Central, a Grande Sinagoga, a Casa do Terror e Szentendre
 
-## Para entrar no clima
+## 🎬 Para entrar no clima
 
 **Filmes:** *O Grande Hotel Budapeste* (2014, Wes Anderson) — é fictício, mas captura o espírito melancólico e elegante da Europa Central entre guerras de um jeito que nenhum documentário consegue; *Sunshine* (1999, István Szabó) — saga de uma família judaica húngara ao longo de três gerações, do Império Austro-Húngaro ao comunismo; *Kontroll* (2003) — noir húngaro ambientado inteiramente no metrô de Budapeste, visualmente deslumbrante
 
