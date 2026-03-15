@@ -8,6 +8,8 @@ O Parlamento de Budapeste é o maior edifício neogótico do mundo e, para muito
 
 A visita ao interior é obrigatória e exige ingresso pré-comprado (o limite diário é rígido) — o tour guiado leva cerca de 45 minutos e passa pela Escadaria Principal de mármore vermelho, pela Sala da Cúpula com as joias da coroa e pela Câmara de Deputados original, ainda preservada com os velhos assentos de madeira entalhada e os tapetes vermelhos. Ver o Parlamento iluminado à noite, refletido no Danúbio, de qualquer ponto da margem de Buda, é uma das experiências visuais mais memoráveis que a Europa tem para oferecer.
 
+![Parlamento Húngaro](https://images.unsplash.com/photo-1551882547-ff43c69e3c45?auto=format&fit=crop&q=80&w=1000)
+
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Parlamento+Hungaro+Budapeste+Orszaghaz)
 
 ---
@@ -17,6 +19,8 @@ A visita ao interior é obrigatória e exige ingresso pré-comprado (o limite di
 O Castelo de Buda ocupa toda a colina que domina o Danúbio no lado oeste — e foi, ao longo de oito séculos, o coração político da Hungria. O que existe hoje é basicamente a reconstrução pós-Segunda Guerra do palácio barroco que os Habsburgos ergueram no século XVIII: o castelo medieval de Matias Corvino foi destruído pelos turcos e o palácio barroco foi arrasado nos combates de 1944-1945. A reconstrução durou décadas.
 
 Dentro do complexo funcionam hoje a **Galeria Nacional Húngara** — com a maior coleção de arte húngara do Renascimento ao século XX, incluindo obras de Mihály Munkácsy, considerado o maior pintor húngaro; o **Museu de História de Budapeste**, com escavações arqueológicas que vão de Aquincum ao medieval; e a **Biblioteca Nacional Széchenyi**. O passeio pelos jardins e terraços externos é gratuito e oferece vistas deslumbrantes sobre Pest, o Danúbio e as pontes.
+
+![Castelo de Buda](https://images.unsplash.com/photo-1565426122392-28442998af81?auto=format&fit=crop&q=80&w=1000)
 
 Dica essencial: suba pelo **funicular histórico** (*Budavári Sikló*), inaugurado em 1870, que parte da Praça Adam Clark, junto à Ponte das Correntes, e sobe direto ao castelo em 3 minutos. É ao mesmo tempo transporte e atração — as vistas durante a subida são excelentes.
 
@@ -30,6 +34,8 @@ O Bastião dos Pescadores (*Halászbástya*) é tecnicamente um terraço-mirante
 
 O nome vem do fato de que os pescadores de Buda eram responsáveis por defender esse trecho das muralhas medievais da cidade — e o mercado de peixe ficava exatamente aqui. A parte inferior é de acesso gratuito; as torres superiores têm cobrança (~€3). Vale subir, especialmente ao entardecer, quando Pest começa a se iluminar e o Parlamento vira ouro.
 
+![Bastião dos Pescadores](https://images.unsplash.com/photo-1551124237-975949dbe718?auto=format&fit=crop&q=80&w=1000)
+
 Ao lado do Bastião fica a **Igreja de Matias** (*Mátyás-templom*) — formalmente a Igreja Paroquial de Nossa Senhora, mas apelidada em homenagem ao rei Matias Corvino, que casou aqui duas vezes e custeou boa parte de sua construção. O telhado de telhas coloridas em padrão geométrico é um dos mais fotografados da Hungria. A história da igreja é uma síntese perfeita da história de Budapeste: construída no século XIII, convertida em mesquita pelos turcos, restaurada pelos Habsburgos em barroco e redesenhada em neogótico no século XIX. Hoje é usada regularmente para concertos de música clássica com uma acústica extraordinária.
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Bastiao+Pescadores+Budapeste+Halaszbastya)
@@ -42,6 +48,8 @@ Budapeste está construída sobre uma das maiores reservas de água termal do mu
 
 As **Termas Széchenyi** são as maiores e mais famosas: construídas entre 1909 e 1913 num estilo neobarroco luxuoso dentro do Parque da Cidade (*Városliget*), têm 3 piscinas externas aquecidas (a maior a 38°C) e mais de 15 piscinas e saunas internas. No inverno, ver o vapor subindo das piscinas externas enquanto neve cai é uma das imagens mais surreais de Budapeste. No verão, as piscinas externas viram salões sociais onde húngaros jogam xadrez na água — sim, xadrez na água, numa tradição que remonta aos anos 1930 e continua até hoje.
 
+![Termas Széchenyi](https://images.unsplash.com/photo-1551124237-3367b6139158?auto=format&fit=crop&q=80&w=1000)
+
 Leve toalha, chinelo e roupa de banho. Locker e toalha podem ser alugados no local. Chegue cedo nos fins de semana — a fila pode ser longa. No verão, as noites de sábado têm o famoso "Sparty" — festa noturna nas piscinas com DJs, muito procurada por jovens viajantes.
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Termas+Szechenyi+Budapeste)
@@ -53,6 +61,8 @@ Leve toalha, chinelo e roupa de banho. Locker e toalha podem ser alugados no loc
 Sessenta pares de sapatos de ferro fundido enfileirados na calçada de pedra à beira do Danúbio, a poucos metros do Parlamento. Sapatos de homem, de mulher, de criança — de diferentes tamanhos e estilos, todos voltados para o rio. Criado em 2005 pelo escultor Can Togay e pelo diretor de cinema Gyula Pauer, o memorial marca o local onde, entre 1944 e 1945, membros das Cruzes de Ferro (*Nyilaskeresztesek*) — a milícia fascista húngara — alinhavam suas vítimas judias na margem do Danúbio, mandavam que tirassem os sapatos (que tinham valor e seriam reutilizados), e atiravam nelas. Os corpos caíam diretamente no rio.
 
 O memorial é deliberadamente discreto — sem letreiros, sem explicações, sem grandilosidade. Quem não sabe o que são pode passear por cima sem entender. Quem sabe para, fica em silêncio, e raramente esquece. Em datas comemorativas, as pessoas colocam flores e velas dentro dos sapatos.
+
+![Sapatos no Danúbio](https://images.unsplash.com/photo-1596489354064-0775d72c9182?auto=format&fit=crop&q=80&w=1000)
 
 Não é uma atração turística comum. É um ato de memória que a cidade decidiu colocar no seu caminho mais movimentado — para que ninguém passe sem ter a oportunidade de lembrar.
 

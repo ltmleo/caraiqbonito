@@ -8,6 +8,8 @@ O castelo de quatro torres brancas que domina a colina sobre o Danúbio é o car
 
 Hoje o castelo abriga o **Museu Nacional Eslovaco** (entrada ~€14), com coleções de história, artes decorativas e réplicas das joias da coroa húngara. Mas o que justifica a subida pela colina mesmo para quem não for ao museu são os jardins externos (entrada gratuita, abertos das 8h às 22h) e a vista: do terraço, você vê simultaneamente o centro histórico de Bratislava, o Danúbio, a Ponte SNP com seu disco voador, a planície húngara ao sul e, em dias claros, as colinas austríacas a oeste. São três países visíveis de um único ponto.
 
+![Castelo de Bratislava](https://images.unsplash.com/photo-1587823521029-236b306b453e?auto=format&fit=crop&q=80&w=1000)
+
 Dica: suba pelo caminho pela rua Zámocké schody (Escada do Castelo), que parte de perto da Catedral de São Martinho. É mais íngreme, mas passa por vielas medievais que poucos turistas percorrem.
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Castelo+Bratislava+Bratislavský+Hrad)
@@ -20,6 +22,8 @@ A Catedral de São Martinho é o monumento mais carregado de significado histór
 
 O que a torna única na Europa não é a arquitetura, que é sólida mas não extraordinária. É o que aconteceu dentro dela: entre 1563 e 1830, enquanto Bratislava era capital do Reino da Hungria, **19 monarcas foram coroados** nestas paredes — incluindo a própria Maria Teresa, em 1741, numa cerimônia que consolidou o poder dos Habsburgos sobre o reino. A catedral mantinha as joias da coroa húngara guardadas em suas dependências por longos períodos.
 
+![Catedral de São Martinho](https://images.unsplash.com/photo-1605335835619-f53835682855?auto=format&fit=crop&q=80&w=1000)
+
 A entrada na nave é gratuita (há uma pequena taxa para o tesouro e a cripta, ~€3–5). Atenção: a catedral é um templo ativo e pode estar fechada para visitantes durante missas — especialmente aos domingos de manhã. Chegando cedo nos dias de semana evita espera.
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Catedral+Sao+Martinho+Bratislava)
@@ -31,6 +35,8 @@ A entrada na nave é gratuita (há uma pequena taxa para o tesouro e a cripta, ~
 A Cidade Velha de Bratislava é pequena o suficiente para ser percorrida a pé em duas horas — e rica o suficiente para que essas duas horas sejam constantemente interrompidas por descobertas. O núcleo é a **Praça Principal** (*Hlavné námestie*), com sua Fonte de Rolando do século XVI ao centro e edifícios barrocos e renascentistas nas bordas, incluindo a torre amarela da Antiga Câmara Municipal (hoje Museu da Cidade, com acesso ao terraço por ~€3).
 
 O que torna o passeio especialmente divertido é a caça às **estátuas de bronze espalhadas pelas ruas** — uma tradição iniciada nos anos 1990 como forma de animar o centro histórico após décadas de austeridade comunista. As mais famosas:
+
+![Čumil - O Observador](https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?auto=format&fit=crop&q=80&w=1000)
 
 - **Čumil** (o Observador): um trabalhador do esgoto espreitando de uma tampa de bueiro, na esquina das ruas Laurinská e Panská. Criado em 1997, é a estátua mais fotografada de Bratislava. Uma plaquinha no chão avisa: *"Man at work"* — e mais de um turista já tropeçou nela sem ver.
 - **O Soldado de Napoleão**: figura de bronze debruçada num banco da Praça Principal, rememorando a ocupação francesa de 1809.
@@ -49,6 +55,8 @@ A Ponte SNP (*Most SNP* — "Most" significa ponte, "SNP" é a sigla do Levante 
 A ponte é um artefato que encarna todas as contradições do período comunista: foi construída com engenharia de ponta e ousadia estética genuína, enquanto ao mesmo tempo a sua construção exigiu a demolição de boa parte do bairro histórico judaico da cidade para abrir espaço para as rampas de acesso. O regime apagou séculos de história para exibir uma modernidade que não durou.
 
 Hoje a Torre UFO é o miradouro mais democrático de Bratislava — a vista abarca o castelo, o centro histórico, o rio e a planície até o horizonte. À noite, com a cidade iluminada e o Danúbio refletindo as luzes, é especialmente bonita.
+
+![Ponte SNP e Torre UFO](https://images.unsplash.com/photo-1549487922-beecb12389d4?auto=format&fit=crop&q=80&w=1000)
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Ponte+SNP+Torre+UFO+Bratislava)
 

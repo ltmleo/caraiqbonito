@@ -8,6 +8,8 @@ O Grande Bazar é o mercado coberto mais antigo do mundo ainda em funcionamento 
 
 Entrar no Grande Bazar é entrar num estado alterado de percepção. A luz vem de cima, através de cúpulas pintadas. O cheiro muda de corredor para corredor — especiarias, couro, chá, café. Os vendedores falam em seis ou sete línguas e têm olho clínico para identificar a nacionalidade do visitante antes que ele diga uma palavra. Tapetes turcos, joias em ouro e prata, lanternas coloridas, cerâmicas pintadas à mão, pashminas, especiarias a granel, bules de cobre, caixinhas de madeira incrustada — a oferta é virtualmente infinita.
 
+![Grande Bazar de Istambul](https://images.unsplash.com/photo-1540262997148-5b83572d13ff?auto=format&fit=crop&q=80&w=1000)
+
 Dica prática: a barganha é culturalmente aceita, mas tem seus limites — negociações muito abaixo do preço pedido são mal vistas. Um desconto de 15%–25% sobre o primeiro preço é razoável. Recusar um chá oferecido pelo vendedor antes de negociar é considerado grosseria — aceite, beba, e então decida se compra. Vá sem pressa; o bazar fecha às 19h, com pausas nos horários de oração. Aos domingos, está fechado.
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Grande+Bazar+Istambul+Kapalicarsi)
@@ -19,6 +21,8 @@ Dica prática: a barganha é culturalmente aceita, mas tem seus limites — nego
 Balat e Fener são os bairros mais antigos da margem europeia do Corno de Ouro — e os mais fotogênicos da cidade. Balat foi durante séculos o coração da comunidade judaica de Istambul (refugiados expulsos da Espanha pela Inquisição em 1492 foram acolhidos pelo sultão otomano e se instalaram aqui), enquanto Fener foi o bairro grego-ortodoxo, sede do Patriarcado Ecumênico de Constantinopla — que ainda funciona aqui, no mesmo endereço desde o século XVIII.
 
 Hoje os bairros são uma mistura improvável de história e hipsterismo: casas otomanas de madeira pintadas em rosa, amarelo e azul-marinho, com janelas salientes sobre ruas de paralelepípedo tão íngreme que às vezes parecem escadas. Há igrejas ortodoxas com iconostases dourados, sinagogas do século XVI ainda em uso, cafés de decoração vintage em antigas casas de comércio, ateliês de cerâmica, livrarias de segunda mão e gatos — muitos gatos, dormindo em qualquer superfície horizontal disponível.
+
+![Bairro de Balat](https://images.unsplash.com/photo-1524231757912-21f4fe3a7a93?auto=format&fit=crop&q=80&w=1000)
 
 A Igreja de São Salvador em Chora (*Kariye Camii*), a 15 minutos a pé de Balat, tem os mosaicos e afrescos bizantinos mais bem preservados do mundo — comparáveis ou superiores aos de Santa Sofia, e com apenas um décimo do movimento turístico.
 
@@ -32,6 +36,8 @@ A Torre de Gálata foi construída pelos genoveses em 1348 como o ponto mais alt
 
 Ao redor da Torre fica o bairro de Gálata, com suas ladeiras íngremes cobertas de lojas de instrumentos musicais, livrarias e cafés. Descendo em direção ao Bósforo, encontra-se Karaköy — o antigo porto de Galata que o comunismo... bem, que a estagnação econômica deixou em semiabandono por décadas, e que nos anos 2010 foi ocupado por galerias de arte, cafés de especialidade, restaurantes de peixe à beira-mar e ateliês. O resultado é um dos bairros mais interessantes de Istambul para simplesmente andar sem destino. A **Escadaria de Camondo** — uma bela escadaria de ferro art-nouveau do século XIX que liga Karaköy às ruas acima — é um detalhe de beleza inesperada que resume bem o bairro.
 
+![Torre de Gálata](https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&q=80&w=1000)
+
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Torre+Galata+Istambul+Galata+Kulesi)
 
 ---
@@ -41,6 +47,8 @@ Ao redor da Torre fica o bairro de Gálata, com suas ladeiras íngremes cobertas
 O *hammam* é um dos legados mais duradouros da civilização otomana, e fazer um em Istambul não é turismo — é participar de uma tradição de higiene, socialização e ritual que remonta ao século XVI. No auge do Império Otomano, a cidade tinha mais de 150 banhos públicos; hoje restam dezenas, dos quais vários funcionam em edifícios históricos de mármore projetados pelo arquiteto imperial Sinan.
 
 O ritual clássico consiste em entrar no *sıcaklık* — a sala central aquecida, com cúpula perfurada de estrelas por onde entra a luz — deitar sobre a pedra quente de mármore (*göbek taşı*) e ser submetido a uma esfoliação vigorosa com luva de crina (*kese*) seguida de ensaboamento e massagem. O processo inteiro leva 45 minutos a uma hora e deixa a pele com uma textura que qualquer produto de beleza caro fica devendo.
+
+![Hammam - Banho Turco](https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&q=80&w=1000)
 
 Hammams recomendados para visitantes:
 
@@ -59,6 +67,8 @@ Dica: banhos separados para homens e mulheres na maioria dos hammams históricos
 Do Cais de Eminönü, um ferry de 20 minutos atravessa o Bósforo e desembarca numa Istambul completamente diferente: Kadıköy, o principal bairro do lado asiático, é mais local, mais barato, mais tranquilo e, para muitos visitantes, mais agradável do que o centro histórico superlotado. Não tem grandes monumentos — tem mercados de comida esplêndidos, cafés independentes, bares de vinil, livrarias, restaurantes de peixe, o mercado de rua de Moda e o Parque Moda com vista para o estreito.
 
 O mercado coberto de Kadıköy (*Tarihi Kadıköy Çarşısı*) é o melhor lugar de Istambul para comer bem e barato: corredores inteiros de queijos turcos, azeitonas, embutidos, peixes, frutas secas, saleps e chás. Do mercado, siga para o bairro de Moda — a 20 minutos a pé — onde as avenidas arborizadas e as casas art-nouveau recordam uma cidade europeia de outro tempo.
+
+![Kadıköy - Lado Asiático](https://images.unsplash.com/photo-1524231757912-21f4fe3a7a93?auto=format&fit=crop&q=80&w=1000)
 
 Fazer a travessia no ferry ao entardecer, com o sol laranja sobre as mesquitas da Península Histórica, é uma das experiências mais baratas e mais bonitas que Istambul oferece.
 
