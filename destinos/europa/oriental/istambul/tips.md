@@ -81,7 +81,7 @@ Istambul é geralmente segura para turistas nas áreas frequentadas, mas há gol
 
 Esses alertas são para prevenção, não para alarme — a grande maioria dos turistas passa pela cidade sem nenhum problema.
 
-## Conectividade
+## 📶 Conectividade
 
 eSIMs internacionais (Airalo, Holafly) funcionam bem na Turquia. Cobertura 4G boa no centro e razoável nos bairros periféricos. Wi-Fi disponível em hotéis, cafés e restaurantes sem exceção.
 

@@ -59,7 +59,15 @@ Foz do Iguaçu é uma cidade de turismo massivo com os desafios que isso implica
 - **Quatis no parque:** os quatis (animais parecidos com guaxinins) são onipresentes nas trilhas do Parque Nacional e não têm medo de humanos. São proibidos de alimentar e podem ser agressivos se virem comida. Guarde lanches em mochilas fechadas e não estenda a mão na direção deles.
 - **Roupas para molhar nas Cataratas:** a névoa na passarela final do lado brasileiro e o passeio de barco do Macuco Safari molham — não um pouco, mas de verdade. Roupas extras na mochila são bem-vindas. Capas de chuva descartáveis são vendidas na entrada do parque por R$10–20.
 - **Câmeras nas quedas:** A névoa das Cataratas é suficiente para embassarças e molhar câmeras. Uma boa bolsa impermeável ou saco plástico de zip lock salva equipamentos.
-- **Ciudad del Este:** É uma cidade de comércio intenso e é possível encontrar oportunistas — vendedores que insistem muito, preços que sobem durante a negociação, produtos que não são o que parecem. Vá com paciência, bom senso e o coração aberto para uma experiência diferente.
+- **🛍️ Ciudad del Este:** É uma cidade de comércio intenso e é possível encontrar oportunistas — vendedores que insistem muito, preços que sobem durante a negociação, produtos que não são o que parecem. Vá com paciência, bom senso e o coração aberto para uma experiência diferente. 🇵🇾🛍️✨
+
+## 📶 Conectividade na fronteira
+
+Chips de operadoras brasileiras funcionam em toda a área urbana de Foz. No entanto, ao cruzar para a Argentina ou Paraguai, o **roaming internacional** é ativado automaticamente. 📶
+
+- **Roaming:** Verifique com sua operadora se o "Roaming Mercosul" está ativo no seu plano (muitos planos Pós e Controle incluem sem custo extra).
+- **Wi-Fi:** Disponível no Centro de Visitantes do Parque Nacional e em praticamente todos os hotéis e restaurantes de Foz.
+- **Dica:** O sinal de operadoras estrangeiras (Personal da Argentina ou Tigo do Paraguai) pode "vazar" para o lado brasileiro em áreas próximas aos rios. Fique atento para evitar cobranças indesejadas se seu celular estiver configurado para seleção automática de rede. 📱📵
 
 ## 🥘 Gastronomia
 

@@ -40,7 +40,7 @@ Praga é uma cidade segura para turistas. Os crimes mais comuns são **furtos e 
 
 Fique atento também a **táxis não credenciados** que cobram tarifas abusivas — prefira Uber ou Bolt, que têm preço fixo e rastreável. Na Praça da Cidade Velha, evite restaurantes com cardápios em 12 idiomas expostos na porta: são armadilhas para turistas, com preços multiplicados por três. Vá uma ou duas ruas para dentro e encontrará restaurantes locais bem melhores e mais baratos.
 
-## Conectividade
+## 📶 Conectividade
 
 Chips de operadoras europeias (ou internacionais como a Airalo) funcionam bem na República Tcheca. O Wi-Fi é disponível na maioria dos hotéis, restaurantes e cafés. Nos espaços públicos, a cobertura varia.
 
@@ -50,7 +50,7 @@ Chips de operadoras europeias (ou internacionais como a Airalo) funcionam bem na
 - *Uber* ou *Bolt* — transporte por aplicativo confiável
 - *Google Translate* com o idioma tcheco baixado offline
 
-## Cultura e etiqueta
+## 🎭 Cultura e etiqueta
 
 Os tchecos têm fama de reservados com estranhos, mas amigáveis com quem demonstra interesse genuíno pelo país e pela cultura. Não confunda a contenção com frieza — é mais uma herança histórica de décadas em que falar demais podia ser perigoso.
 

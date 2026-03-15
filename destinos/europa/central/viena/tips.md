@@ -54,7 +54,7 @@ Viena é consistentemente classificada como uma das cidades mais seguras do mund
 
 O metrô e os bondes são seguros em qualquer horário. As ruas do centro são movimentadas até tarde e não têm zonas problemáticas óbvias para turistas. Fora do centro, use o bom senso padrão de qualquer cidade grande europeia.
 
-## Conectividade
+## 📶 Conectividade
 
 eSIMs europeus (como Holafly ou Airalo) funcionam normalmente na Áustria. Wi-Fi é disponível em hotéis, cafés e restaurantes sem exceção. A cobertura 4G/5G no centro da cidade é excelente.
 
@@ -64,7 +64,7 @@ eSIMs europeus (como Holafly ou Airalo) funcionam normalmente na Áustria. Wi-Fi
 - *Uber* ou *Bolt* — transporte por app
 - *Wien.info* — app oficial de turismo com mapa e eventos
 
-## Cultura e etiqueta
+## 🎭 Cultura e etiqueta
 
 Os vienenses têm um estilo interpessoal mais formal do que os brasileiros estão acostumados — não é frieza, é protocolo. Cumprimentos formais (*Guten Tag* em vez de *Hallo* com estranhos), respeito a filas e horários, e a habilidade de sentar num café por horas sem pressa nem barulho são características locais que vale observar e imitar.
 

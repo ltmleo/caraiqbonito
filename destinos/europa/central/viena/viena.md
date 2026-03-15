@@ -40,4 +40,3 @@ O século XX chegou com a dissolução do império, o nazismo, os bombardeios da
 ---
 
 *Fontes: Wikipedia PT ([Viena](https://pt.wikipedia.org/wiki/Viena)); [Tudo Sobre Viena](https://www.tudosobreviena.com); [Guide Me To](https://www.guidemeto.com.br/pt-BR/article/detail/viena-todo-o-esplendor-da-antiga-capital-do-imperio-austro-hungaro); [História com Gosto](https://www.historiacomgosto.com.br/2016/11/viena-capital-dos-habsburgos.html)*
-odo-o-esplendor-da-antiga-capital-do-imperio-austro-hungaro); [História com Gosto](https://www.historiacomgosto.com.br/2016/11/viena-capital-dos-habsburgos.html)*

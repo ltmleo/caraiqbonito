@@ -62,7 +62,7 @@ Budapeste é uma cidade razoavelmente segura para turistas, com alguns alertas e
 
 Fora esses alertas específicos, Budapeste é segura para caminhar até tarde, inclusive para viajantes solos.
 
-## Conectividade
+## 📶 Conectividade
 
 eSIMs europeus (Airalo, Holafly) funcionam normalmente na Hungria. Wi-Fi disponível em hotéis, cafés e restaurantes sem exceção. Cobertura 4G/5G boa no centro e razoável nos bairros periféricos.
 
@@ -71,7 +71,7 @@ eSIMs europeus (Airalo, Holafly) funcionam normalmente na Hungria. Wi-Fi dispon�
 - *Bolt* — mais popular que Uber para transporte por app em Budapeste
 - *Google Maps* — funciona bem offline
 
-## Cultura e etiqueta
+## 🎭 Cultura e etiqueta
 
 Os húngaros têm uma fama histórica de melancolia (*"o húngaro chora mesmo quando ri"*, diz o ditado) que não se confirma totalmente no cotidiano — mas há uma reserva inicial com estranhos que dá lugar a hospitalidade genuína quando você passa da primeira impressão.
 

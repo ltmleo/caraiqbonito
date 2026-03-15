@@ -52,7 +52,7 @@ Bratislava é uma cidade muito segura — os eslovacos a descrevem como tranquil
 
 Um alerta específico: **beber álcool na rua pública é proibido** em Bratislava e pode resultar em multa. O consumo é liberado apenas em espaços licenciados (bares, restaurantes, esplanadas, eventos) — diferente de muitas outras cidades da Europa do Leste.
 
-## Conectividade
+## 📶 Conectividade
 
 eSIMs europeus funcionam normalmente na Eslováquia. Wi-Fi está disponível em hotéis, cafés e restaurantes sem exceção. A cobertura 4G/5G no centro é boa.
 
@@ -61,7 +61,7 @@ eSIMs europeus funcionam normalmente na Eslováquia. Wi-Fi está disponível em 
 - *Bolt* — mais popular que Uber em Bratislava para transporte por app
 - *Google Maps* — funciona bem offline
 
-## Cultura e etiqueta
+## 🎭 Cultura e etiqueta
 
 Os eslovacos são mais reservados com desconhecidos do que os brasileiros, mas calorosos com quem demonstra interesse genuíno no país. A piada que os próprios eslovacos contam sobre si mesmos é que são o povo mais subvalorizado da Europa — e que isso os agrada, porque significa que as coisas boas do país continuam para eles.
 
