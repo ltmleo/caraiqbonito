@@ -41,7 +41,14 @@ Cada pasta de cidade (ex: `berlim/`) deve conter os seguintes arquivos:
     -   **Função**: Fatos interessantes, históricos ou divertidos sobre o local.
     -   **Conteúdo**: Idealmente em formato de tópicos (bullet points).
 
-6.  **`tips.md`**:
+
+6. **`food.md`**:
+    - **Título**: Comida
+    -   **Função**: Comidas típicas da cidade.
+    -   **Conteúdo**: Lista de comidas típicas da cidade e do país.
+    -   **Observação**: Adicione fotos dos pratos como link para a web.
+
+7.  **`tips.md`**:
     - **Título**: Dicas
     -   **Função**: Dicas práticas para o viajante.
     -   **Conteúdo**: Transporte público, moeda, melhor época para visitar, idiomas, etc.
