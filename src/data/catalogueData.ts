@@ -6,7 +6,6 @@ import foz_do_iguacuImg from '@site/static/img/foz_hero.png';
 import istambulImg from '@site/static/img/istanbul_hero.png';
 import pragaImg from '@site/static/img/prague_hero.png';
 import vienaImg from '@site/static/img/vienna_hero.png';
-import wipImage from '@site/static/img/fundo.png';
 
 export const catalogueData = [
   {
@@ -32,7 +31,7 @@ export const catalogueData = [
           {
             "name": "El Calafate (e Arredores)",
             "country": "Argentina",
-            "image": wipImage,
+            "image": "",
             "link": "/destinos/americas/cone-sul/el-calafate",
             "status": "novo",
             "slug": "el-calafate"
@@ -59,7 +58,7 @@ export const catalogueData = [
           {
             "name": "Bratislava",
             "country": "Eslováquia",
-            "image": wipImage,
+            "image": bratislavaImg,
             "link": "/destinos/europa/central/bratislava",
             "status": "novo",
             "slug": "bratislava"
@@ -96,7 +95,7 @@ export const catalogueData = [
           {
             "name": "Istambul",
             "country": "Turquia",
-            "image": wipImage,
+            "image": istambulImg,
             "link": "/destinos/europa/oriental/istambul",
             "status": "novo",
             "slug": "istambul"

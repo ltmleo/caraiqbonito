@@ -5,6 +5,11 @@ title: Istambul
 
 # 🇹🇷 Istambul
 
+import DestinyCard from '@site/src/components/DestinyCard';
+import destinyData from './destiny.json';
+
+<DestinyCard data={destinyData} />
+
 > **Em poucas palavras:** 🕌 Istambul é a única cidade do mundo construída sobre dois continentes. Foi capital de três grandes impérios: Romano, Bizantino e Otomano. É um lugar onde nenhum horizonte concentra mais camadas de história humana. 🌍🕌⛴️✨
 
 ![Istambul Hero](/img/istanbul_hero.png)

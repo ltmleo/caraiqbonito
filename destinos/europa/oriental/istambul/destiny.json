@@ -1,0 +1,15 @@
+{
+  "name": "Istambul",
+  "country": "Turquia",
+  "population": "15.46 milhões",
+  "size": "5.343 km²",
+  "languages": ["Turco"],
+  "foundation": "660 a.C. (como Bizâncio)",
+  "flag": "🇹🇷",
+  "seasons": {
+    "summer": "Quente e úmido, perfeito para passeios de barco no Bósforo e jantar em terraços modernos.",
+    "winter": "Frio e às vezes com neve, criando uma atmosfera mágica nas mesquitas históricas e bazares.",
+    "autumn": "Clima ameno e cores vibrantes nos parques, ideal para explorar a pé sem o calor intenso.",
+    "spring": "Época das tulipas! A cidade fica florida, com temperaturas agradáveis para visitar monumentos."
+  }
+}
