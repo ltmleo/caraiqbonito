@@ -105,6 +105,11 @@ const config: Config = {
           label: 'Américas',
           position: 'left',
         },
+        {
+          label: 'Blog',
+          to: '/blog',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -138,14 +143,22 @@ const config: Config = {
               label: 'Foz do Iguaçu',
               to: '/destinos/americas/brasil/foz-do-iguacu/',
             },
+            {
+              label: 'El Calafate',
+              to: '/destinos/americas/cone-sul/el-calafate/',
+            },
           ],
         },
         {
           title: 'Social',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/ltmleo/caraiqbonito',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/caraiqbonito/',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@caraiqbonito',
             },
             {
               label: 'Blog',

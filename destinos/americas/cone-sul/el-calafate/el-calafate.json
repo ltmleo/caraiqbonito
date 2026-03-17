@@ -1,0 +1,40 @@
+{
+  "name": "El Calafate",
+  "country": "Argentina",
+  "flag": "🇦🇷",
+  "tagline": "A porta de entrada para a Patagônia gelada — onde o Glaciar Perito Moreno avança e range num silêncio que abala a alma.",
+  "heroImage": "https://cdn.americachip.com/wp-content/uploads/2024/01/el-calafate-1.jpg",
+  "currency": "$",
+  "stayDays": "3–5",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "26 mil" },
+    { "id": "area", "label": "Área", "value": "4.825 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Espanhol" },
+    { "id": "moeda", "label": "Moeda", "value": "Peso Argentino ($)", "sub": "1 ARS ≈ R$ 0,0037" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC–3", "sub": "Mesmo horário de Brasília (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "FTE", "sub": "Cmdt. Armando Tola" }
+  ],
+  "weather": {
+    "current": { "season": "Verão (Patagônia)", "temp": "15 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "5–15 °C", "desc": "Ventos fortes, flores silvestres" },
+      { "name": "Verão", "icon": "☀️", "temp": "10–22 °C", "desc": "Melhor época: dias longos" },
+      { "name": "Outono", "icon": "🍂", "temp": "2–14 °C", "desc": "Paisagem avermelhada e vazia" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-5–5 °C", "desc": "Muito frio, muitos parques fechados" }
+    ]
+  },
+  "idealMonths": [11, 12, 1, 2, 3],
+  "costs": {
+    "budget": 15000,
+    "mid": 30000,
+    "comfort": 60000,
+    "note": "Valores em ARS por pessoa/dia, incluindo hospedagem, alimentação e transporte local. Destino de alto custo logístico para brasileiros."
+  },
+  "tips": [
+    { "icon": "❄️", "text": "O <strong>Perito Moreno</strong> é um dos poucos glaciares do mundo que ainda avança — o espetáculo das rupturas (ruptura) é imprevisível, mas acontece com frequência." },
+    { "icon": "🥾", "text": "Reserve o <strong>trekking sobre o gelo (Minitrekking ou Big Ice)</strong> com antecedência — vagas limitadas e esgotam rápido na alta temporada." },
+    { "icon": "💵", "text": "Use <strong>dólares ou reais</strong> para câmbio no mercado informal — a cotação é muito mais vantajosa que o câmbio oficial do banco." },
+    { "icon": "🌬️", "text": "O <strong>vento patagônico</strong> é brutal e imprevisível; traga camadas e impermeável mesmo no verão." },
+    { "icon": "🦆", "text": "O <strong>Lago Argentino</strong> é o maior lago de água doce da Argentina — o passeio de barco entre icebergs ao redor do glaciar é de tirar o fôlego." }
+  ]
+}

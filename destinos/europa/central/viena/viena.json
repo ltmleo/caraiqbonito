@@ -1,0 +1,40 @@
+{
+  "name": "Viena",
+  "country": "Áustria",
+  "flag": "🇦🇹",
+  "tagline": "A capital dos impérios que transformou o poder em música, arte e café — e nunca mais parou.",
+  "heroImage": "https://cdn.americachip.com/wp-content/uploads/2023/10/viena-italia-ou-austria-1024x619.jpg?strip=all&lossy=1&quality=92&webp=92&ssl=1",
+  "currency": "€",
+  "stayDays": "3–5",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "1,9 milhão" },
+    { "id": "area", "label": "Área", "value": "415 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Alemão" },
+    { "id": "moeda", "label": "Moeda", "value": "Euro (€)", "sub": "1 EUR ≈ R$ 6,10" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+1 / +2", "sub": "–4h / –3h (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "VIE", "sub": "Vienna International" }
+  ],
+  "weather": {
+    "current": { "season": "Primavera", "temp": "13 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "8–20 °C", "desc": "Floração nos parques, ideal" },
+      { "name": "Verão", "icon": "☀️", "temp": "20–30 °C", "desc": "Festivais ao ar livre" },
+      { "name": "Outono", "icon": "🍂", "temp": "8–18 °C", "desc": "Temporada de ópera e museus" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-2–5 °C", "temp": "-2–5 °C", "desc": "Bailes e mercados de Natal" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 9, 10],
+  "costs": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 250,
+    "note": "Valores em EUR por pessoa/dia, incluindo hospedagem, alimentação e transporte local."
+  },
+  "tips": [
+    { "icon": "🎟️", "text": "A <strong>Vienna City Card</strong> cobre transporte ilimitado + descontos em museus. Essencial para 2+ dias." },
+    { "icon": "🎭", "text": "Ingressos de <strong>última hora na Ópera Estatal</strong> podem custar apenas €10–30 — fila no mesmo dia vale a pena." },
+    { "icon": "☕", "text": "Os <strong>cafés vienenses</strong> (Kaffeehäuser) são Patrimônio Cultural da UNESCO — sentar por horas com um café é costume, não abuso." },
+    { "icon": "🚇", "text": "O <strong>metrô (U-Bahn)</strong> é excepcional. Um bilhete único cobre metrô, bonde e ônibus — compre tiras de 8 para economizar." },
+    { "icon": "🏛️", "text": "Muitos <strong>museus estatais</strong> têm entrada gratuita às primeiras quintas do mês ou para menores de 19 anos." }
+  ]
+}

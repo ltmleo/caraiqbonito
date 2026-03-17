@@ -5,6 +5,11 @@ title: Praga
 
 # 🇨🇿 Praga
 
+import CityCard from '@site/src/components/DestinyCard';
+import praga from './praga.json';
+
+<CityCard city={praga} />
+
 > **Em poucas palavras:** 🏰 Praga é uma cidade que parece ter escapado da história intacta por obra de algum feitiço — dez séculos de gótico, barroco e Art Nouveau convivendo nas mesmas ruas estreitas, às margens do rio Vltava, numa atmosfera que oscila entre o conto de fadas e o romance kafkiano. É a cidade que sobreviveu a duas guerras mundiais, a um regime nazista, à ocupação soviética e a uma revolução de veludo — e saiu de tudo isso com seus telhados de terracota praticamente intactos. 🌉✨
 
 ![Praga Hero](/img/prague_hero.png)

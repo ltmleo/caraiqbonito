@@ -5,6 +5,11 @@ title: Foz do Iguaçu
 
 # 🇧🇷 Foz do Iguaçu
 
+import CityCard from '@site/src/components/DestinyCard';
+import foz from './foz-do-iguacu.json';
+
+<CityCard city={foz} />
+
 > **Em poucas palavras:** 🌊 Foz do Iguaçu é o destino natural mais espetacular do Brasil. Lar das 275 quedas d'água eleitas uma das Sete Maravilhas da Natureza, a cidade é um encontro vibrante entre Brasil, Argentina e Paraguai. 🌈💦🚢✨
 
 ![Foz do Iguaçu Hero](/img/foz_hero.png)

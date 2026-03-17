@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 🇭🇺 Budapeste
 
+import CityCard from '@site/src/components/DestinyCard';
+import budapeste from './budapeste.json';
+
+<CityCard city={budapeste} />
+
 > **Em poucas palavras:** 🏰 Budapeste é a cidade mais dramática do Danúbio — duas metades opostas (Buda e Pest) separadas por um rio e reunidas em 1873 num casamento que produziu um dos conjuntos urbanos mais bonitos da Europa. Buda é colinas e melancolia; Pest é boulevards e energia vibrante. Juntas, formam uma capital que sobreviveu a tudo e insiste em encantar. 🌉⛴️🇭🇺
 
 ![Budapeste Hero](/img/budapest_hero.png)

@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 🇦🇹 Viena
 
+import CityCard from '@site/src/components/DestinyCard';
+import viena from './viena.json';
+
+<CityCard city={viena} />
+
 > **Em poucas palavras:** 🏛️ Viena é a cidade que o século XIX construiu para a eternidade — palácios barrocos, bulevares imperiais, cafés onde Freud tomava seu cappuccino ao lado de futuros ditadores — e que chegou ao século XXI com uma autoconfiança tranquila, como quem sabe exatamente o quanto vale. É uma capital que perdeu seu império mas não perdeu sua grandeza: simplesmente transformou a opulência dos Habsburgos em museus, concertos e tortas de chocolate. 🍰🎻
 
 ![Viena Hero](/img/vienna_hero.png)

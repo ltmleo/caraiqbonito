@@ -1,0 +1,40 @@
+{
+  "name": "Istambul",
+  "country": "Turquia",
+  "flag": "🇹🇷",
+  "tagline": "A única cidade do mundo em dois continentes — onde o Bósforo divide a Europa da Ásia e une três mil anos de história.",
+  "heroImage": "https://cdn2.civitatis.com/turquia/estambul/galeria/vista-panoramica-istambul.jpg",
+  "currency": "₺",
+  "stayDays": "4–6",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "15,9 milhões" },
+    { "id": "area", "label": "Área", "value": "5.343 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Turco" },
+    { "id": "moeda", "label": "Moeda", "value": "Lira Turca (₺)", "sub": "1 TRY ≈ R$ 0,12" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+3", "sub": "–0h (mesmo BRT no verão)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "IST", "sub": "Istanbul Airport" }
+  ],
+  "weather": {
+    "current": { "season": "Primavera", "temp": "14 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "10–20 °C", "desc": "Ideal, clima ameno e agradável" },
+      { "name": "Verão", "icon": "☀️", "temp": "25–35 °C", "desc": "Quente e turístico" },
+      { "name": "Outono", "icon": "🍂", "temp": "12–22 °C", "desc": "Perfeito para explorar a pé" },
+      { "name": "Inverno", "icon": "❄️", "temp": "3–10 °C", "desc": "Frio, ocasionalmente neve" }
+    ]
+  },
+  "idealMonths": [4, 5, 9, 10, 11],
+  "costs": {
+    "budget": 600,
+    "mid": 1200,
+    "comfort": 2500,
+    "note": "Valores em TRY por pessoa/dia, incluindo hospedagem, alimentação e transporte local. Destino muito acessível para brasileiros."
+  },
+  "tips": [
+    { "icon": "🎟️", "text": "O <strong>Istanbulkart</strong> (cartão de transporte recarregável) funciona em metrô, bonde, ônibus e balsa — indispensável." },
+    { "icon": "🕌", "text": "Mesquitas são gratuitas para visitar, mas respeite os <strong>horários de oração</strong> (5x ao dia) — fecharão temporariamente." },
+    { "icon": "🛒", "text": "No <strong>Grande Bazar</strong>, pechinchar é esperado e culturalmente aceito — o primeiro preço nunca é o final." },
+    { "icon": "⛴️", "text": "Faça o <strong>cruzeiro pelo Bósforo</strong> no balsa local (şehir hatları), muito mais barato que os tours turísticos." },
+    { "icon": "🍡", "text": "Coma no <strong>nível da rua</strong>: simit, balık ekmek e kokoreç são deliciosos, baratos e autênticos." }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Foz do Iguaçu",
+  "country": "Brasil",
+  "flag": "🇧🇷",
+  "tagline": "As cataratas mais impressionantes do planeta — onde 275 quedas d'água rugem na tríplice fronteira entre Brasil, Argentina e Paraguai.",
+  "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9b/2d/ce/foz-do-iguacu.jpg?w=1100&h=1100&s=1",
+  "currency": "R$",
+  "stayDays": "3–4",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "260 mil" },
+    { "id": "area", "label": "Área", "value": "617 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Português" },
+    { "id": "moeda", "label": "Moeda", "value": "Real (R$)", "sub": "Destino doméstico" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC–3", "sub": "Mesmo horário de Brasília (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "IGU", "sub": "Cataratas International" }
+  ],
+  "weather": {
+    "current": { "season": "Verão", "temp": "29 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "18–28 °C", "desc": "Clima agradável, menos chuvas" },
+      { "name": "Verão", "icon": "☀️", "temp": "25–36 °C", "desc": "Quente, chuvas, cataratas cheias" },
+      { "name": "Outono", "icon": "🍂", "temp": "14–25 °C", "desc": "Ideal: clima seco e ameno" },
+      { "name": "Inverno", "icon": "❄️", "temp": "8–20 °C", "desc": "Frescor, menos turistas" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 7, 8, 9],
+  "costs": {
+    "budget": 200,
+    "mid": 380,
+    "comfort": 650,
+    "note": "Valores em BRL por pessoa/dia, incluindo hospedagem, alimentação e ingressos. Passeio à Argentina e Paraguai pode elevar o custo."
+  },
+  "tips": [
+    { "icon": "🌊", "text": "O lado <strong>argentino das cataratas</strong> é mais imersivo (Garganta del Diablo); o lado brasileiro oferece a melhor visão panorâmica. Visite os dois se possível." },
+    { "icon": "🌧️", "text": "Leve <strong>capa de chuva</strong> — você vai se molhar na trilha das cataratas, especialmente no lado argentino. É parte da experiência." },
+    { "icon": "🦋", "text": "O <strong>Parque das Aves</strong> é frequentemente subestimado pelos turistas, mas é um dos mais completos da América Latina — vale a visita." },
+    { "icon": "🏦", "text": "No lado paraguaio (<strong>Ciudad del Este</strong>), o câmbio com guarani pode ser muito favorável; verifique antes de trocar." },
+    { "icon": "🌅", "text": "Chegue ao parque na <strong>abertura (9h)</strong> para evitar as filas de ônibus e ver as cataratas com menos pessoas no início da manhã." }
+  ]
+}

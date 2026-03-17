@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 🇸🇰 Bratislava
 
+import CityCard from '@site/src/components/DestinyCard';
+import bratislava from './bratislava.json';
+
+<CityCard city={bratislava} />
+
 > **Em poucas palavras:** 🏰 Bratislava é a capital mais discreta da Europa Central — pequena, compacta e sem os clichês turísticos das vizinhas Viena e Praga —, mas carrega uma história extraordinariamente densa: foi capital do Reino da Hungria, palco de coroações imperiais, laboratório do comunismo e, em 1993, se tornou capital de um país que havia acabado de nascer. O que sobrou é uma cidade que se encontra no presente sem ter esquecido nada do passado. 🇸🇰🛳️🌅
 
 ![Bratislava Hero](/img/bratislava_hero.png)

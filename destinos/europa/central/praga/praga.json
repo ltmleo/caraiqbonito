@@ -1,0 +1,40 @@
+{
+  "name": "Praga",
+  "country": "República Tcheca",
+  "flag": "🇨🇿",
+  "tagline": "A cidade que sobreviveu a guerras e regimes sem perder uma única torre gótica — a mais bela da Europa Central.",
+  "heroImage": "https://cdn.americachip.com/wp-content/uploads/2023/03/Praga.jpg",
+  "currency": "Kč",
+  "stayDays": "3–5",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "1,3 milhão" },
+    { "id": "area", "label": "Área", "value": "496 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Tcheco" },
+    { "id": "moeda", "label": "Moeda", "value": "Coroa Tcheca (Kč)", "sub": "1 CZK ≈ R$ 0,25" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+1 / +2", "sub": "–4h / –3h (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "PRG", "sub": "Václav Havel" }
+  ],
+  "weather": {
+    "current": { "season": "Primavera", "temp": "10 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "5–18 °C", "desc": "Floração, menor multidão, ideal" },
+      { "name": "Verão", "icon": "☀️", "temp": "18–28 °C", "desc": "Temporada alta, muito turismo" },
+      { "name": "Outono", "icon": "🍂", "temp": "5–15 °C", "desc": "Dourado e fotogênico" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-3–4 °C", "desc": "Mercados de Natal encantadores" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 9, 10],
+  "costs": {
+    "budget": 900,
+    "mid": 1800,
+    "comfort": 3200,
+    "note": "Valores em CZK por pessoa/dia, incluindo hospedagem, alimentação e transporte local."
+  },
+  "tips": [
+    { "icon": "🍺", "text": "A <strong>cerveja tcheca</strong> é mais barata que água em muitos bares — a Pilsner Urquell original é obrigatória." },
+    { "icon": "🚶", "text": "Praga é <strong>muito caminhável</strong>. O metrô tem 3 linhas e cobre bem a cidade; compre passe de 24h por ~120 Kč." },
+    { "icon": "🏰", "text": "O <strong>Castelo de Praga</strong> abre às 6h e a visita gratuita ao pátio evita as filas do período da manhã." },
+    { "icon": "💶", "text": "Evite as <strong>casas de câmbio no centro</strong> — cobram taxas absurdas. Use ATMs de bancos locais ou pague em cartão." },
+    { "icon": "🌉", "text": "A <strong>Ponte Carlos</strong> fica lotada das 10h às 18h. Vá ao amanhecer para ter a vista (e as fotos) para você." }
+  ]
+}

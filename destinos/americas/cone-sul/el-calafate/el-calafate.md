@@ -2,7 +2,12 @@
 sidebar_position: 1
 ---
 
-# 🌍 El Calafate (e Arredores)
+# 🇦🇷 El Calafate
+
+import CityCard from '@site/src/components/DestinyCard';
+import elCalafate from './el-calafate.json';
+
+<CityCard city={elCalafate} />
 
 > **Em poucas palavras:** Uma cidadezinha patagônica de 25 mil habitantes que serve de portal para algumas das paisagens mais surreais do planeta — onde gelo com 18 mil anos de idade retumba como trovão ao cair no lago, e os picos de granito do Fitz Roy cortam o céu como facas.
 

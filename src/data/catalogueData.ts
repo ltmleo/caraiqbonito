@@ -29,7 +29,7 @@ export const catalogueData = [
         "name": "Cone Sul",
         "destinations": [
           {
-            "name": "El Calafate (e Arredores)",
+            "name": "El Calafate",
             "country": "Argentina",
             "image": "",
             "link": "/destinos/americas/cone-sul/el-calafate",

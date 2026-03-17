@@ -1,0 +1,40 @@
+{
+  "name": "Bratislava",
+  "country": "Eslováquia",
+  "flag": "🇸🇰",
+  "tagline": "A menor capital da UE que cabe numa tarde — e surpreende quem fica mais tempo.",
+  "heroImage": "https://www.civitatis.com/f/austria/viena/guia/bratislava-m.jpg",
+  "currency": "€",
+  "stayDays": "1–3",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "475 mil" },
+    { "id": "area", "label": "Área", "value": "368 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Eslovaco" },
+    { "id": "moeda", "label": "Moeda", "value": "Euro (€)", "sub": "1 EUR ≈ R$ 6,10" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+1 / +2", "sub": "–4h / –3h (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "BTS", "sub": "M. R. Štefánik" }
+  ],
+  "weather": {
+    "current": { "season": "Primavera", "temp": "11 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "8–20 °C", "desc": "Agradável, cidade despertando" },
+      { "name": "Verão", "icon": "☀️", "temp": "20–30 °C", "desc": "Quente, terraços abertos" },
+      { "name": "Outono", "icon": "🍂", "temp": "7–18 °C", "desc": "Vinhedos em colheita" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-3–5 °C", "desc": "Frio, clima medieval" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 7, 8, 9],
+  "costs": {
+    "budget": 50,
+    "mid": 90,
+    "comfort": 150,
+    "note": "Valores em EUR por pessoa/dia, incluindo hospedagem, alimentação e transporte local. Cidade mais barata que Viena ou Praga."
+  },
+  "tips": [
+    { "icon": "🚢", "text": "O <strong>barco de alta velocidade</strong> entre Viena e Bratislava faz o trajeto em 75 minutos — uma forma espetacular de chegar." },
+    { "icon": "🗺️", "text": "O <strong>centro histórico</strong> é minúsculo e completamente a pé — calçados confortáveis resolvem o city tour inteiro." },
+    { "icon": "🏰", "text": "O <strong>Castelo de Bratislava</strong> tem vista panorâmica gratuita do pátio; o interior do museu cobra entrada separada." },
+    { "icon": "🍷", "text": "A Eslováquia tem <strong>vinhos excelentes e baratos</strong> — a região de Malokarpatská fica a 20 min da cidade." },
+    { "icon": "🚶", "text": "Combine com <strong>Viena ou Budapeste</strong>: trem e ônibus conectam as três capitais em menos de 3 horas." }
+  ]
+}

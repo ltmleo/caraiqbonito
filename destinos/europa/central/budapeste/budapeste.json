@@ -1,0 +1,40 @@
+{
+  "name": "Budapeste",
+  "country": "Hungria",
+  "flag": "🇭🇺",
+  "tagline": "Duas cidades separadas por um rio e reunidas por uma história épica — a rainha do Danúbio.",
+  "heroImage": "https://vidacigana.com/wp-content/uploads/2018/06/o-que-fazer-em-budapeste-1.jpg",
+  "currency": "Ft",
+  "stayDays": "3–5",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "1,7 milhão" },
+    { "id": "area", "label": "Área", "value": "525 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Húngaro" },
+    { "id": "moeda", "label": "Moeda", "value": "Forint Húngaro (Ft)", "sub": "100 HUF ≈ R$ 1,58" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+1 / +2", "sub": "–4h / –3h (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "BUD", "sub": "Budapest Ferenc Liszt" }
+  ],
+  "weather": {
+    "current": { "season": "Primavera", "temp": "13 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "8–20 °C", "desc": "Clima suave, menos turistas" },
+      { "name": "Verão", "icon": "☀️", "temp": "22–32 °C", "desc": "Quente, festas nos jardins" },
+      { "name": "Outono", "icon": "🍂", "temp": "8–18 °C", "desc": "Dourado e muito agradável" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-3–5 °C", "desc": "Termas aquecidas e vin quente" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 9, 10],
+  "costs": {
+    "budget": 12000,
+    "mid": 22000,
+    "comfort": 40000,
+    "note": "Valores em HUF por pessoa/dia, incluindo hospedagem, alimentação e transporte local. Cidade mais barata que Viena e Praga."
+  },
+  "tips": [
+    { "icon": "♨️", "text": "As <strong>termas (fürdő)</strong> são a alma da cidade — Széchenyi e Gellért são as mais famosas; vá de manhã cedo para evitar filas." },
+    { "icon": "🍻", "text": "Os <strong>ruin bars</strong> (Szimpla Kert é o mais famoso) funcionam em prédios abandonados e são únicos no mundo — não pule." },
+    { "icon": "🚇", "text": "O metrô M1 (amarelo) é o <strong>segundo mais antigo da Europa continental</strong> e patrimônio da UNESCO — vale o bilhete só pela história." },
+    { "icon": "🌉", "text": "A <strong>Ponte das Correntes</strong> iluminada à noite é de tirar o fôlego. Caminhe de Buda para Pest ao anoitecer." },
+    { "icon": "💶", "text": "Pague em <strong>forints</strong>, não em euros — estabelecimentos que aceitam euros cobram câmbio desfavorável." }
+  ]
+}
