@@ -1,5 +1,4 @@
 ---
-title: Cone Sul
 sidebar_position: 1
 ---
 
