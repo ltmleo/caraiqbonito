@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-title: Foz do Iguaçu
 ---
 
 # 🇧🇷 Foz do Iguaçu
