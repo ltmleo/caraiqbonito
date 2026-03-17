@@ -3,6 +3,11 @@ sidebar_position: 1
 title: Berlim
 ---
 
+import CityCard from '@site/src/components/DestinyCard';
+import berlim from './destiny.json';
+
+<CityCard city={berlim} />
+
 # 🇩🇪 Berlim
 
 > **Em poucas palavras:** 🏙️ Berlim não é uma cidade que se visita para ver monumentos estáticos, mas para testemunhar a força do tempo sobre a pedra. É a capital da reinvenção — um lugar que foi o nervo exposto do século XX, dividido por um muro e retalhado pela história, e que emergiu como a metrópole mais livre, criativa e vibrante da Europa. Aqui, a grandiosidade prussiana convive com cicatrizes de guerra, e discotecas em antigas fábricas dividem espaço com museus que guardam tesouros da humanidade.

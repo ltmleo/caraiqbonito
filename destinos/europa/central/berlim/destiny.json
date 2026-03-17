@@ -1,0 +1,40 @@
+{
+  "name": "Berlim",
+  "country": "Alemanha",
+  "flag": "🇩🇪",
+  "tagline": "A cidade que foi dividida por um muro e reerguida como símbolo da liberdade europeia.",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg",
+  "currency": "€",
+  "stayDays": "4–6",
+  "stats": [
+    { "id": "populacao", "label": "População", "value": "3,7 milhões" },
+    { "id": "area", "label": "Área", "value": "892 km²" },
+    { "id": "idioma", "label": "Idioma", "value": "Alemão" },
+    { "id": "moeda", "label": "Moeda", "value": "Euro (€)", "sub": "1 EUR ≈ R$ 6,10" },
+    { "id": "fuso", "label": "Fuso horário", "value": "UTC+1 / +2", "sub": "–4h / –3h (BRT)" },
+    { "id": "aeroporto", "label": "Aeroporto", "value": "BER", "sub": "Berlin Brandenburg" }
+  ],
+  "weather": {
+    "current": { "season": "Verão", "temp": "22 °C" },
+    "seasons": [
+      { "name": "Primavera", "icon": "🌸", "temp": "8–18 °C", "desc": "Radiante, floração dos parques" },
+      { "name": "Verão", "icon": "☀️", "temp": "18–28 °C", "desc": "Dias longos, festivais ao ar livre" },
+      { "name": "Outono", "icon": "🍂", "temp": "6–16 °C", "desc": "Dourado e ventoso" },
+      { "name": "Inverno", "icon": "❄️", "temp": "-2–4 °C", "desc": "Frio intenso, mercados de Natal" }
+    ]
+  },
+  "idealMonths": [4, 5, 6, 7, 8],
+  "costs": {
+    "budget": 80,
+    "mid": 130,
+    "comfort": 200,
+    "note": "Valores em EUR por pessoa/dia, incluindo hospedagem, alimentação e transporte local."
+  },
+  "tips": [
+    { "icon": "🎟️", "text": "<strong>Berlin Welcome Card</strong> cobre transporte ilimitado + descontos em museus. Vale a pena para 3+ dias." },
+    { "icon": "🏛️", "text": "O <strong>Reichstag</strong> é gratuito, mas exige reserva antecipada no site oficial — faça com 2–3 semanas de antecedência." },
+    { "icon": "💶", "text": "Muitos bares e mercados aceitam <strong>apenas dinheiro</strong>. Leve alguns euros em espécie sempre." },
+    { "icon": "🚲", "text": "Bicicleta é o meio de transporte mais prático no centro. Aluguel diário sai por ~€15." },
+    { "icon": "🌙", "text": "A vida noturna começa <strong>após meia-noite</strong>. Berghain tem dress code e fila seletiva — pesquise antes." }
+  ]
+}
