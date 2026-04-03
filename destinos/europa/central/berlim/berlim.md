@@ -39,6 +39,8 @@ A queda do muro em 9 de novembro de 1989 marcou não apenas a reunificação ale
 
 **Músicas:** "Heroes" (David Bowie) — gravada em Berlim e inspirada no muro; "99 Luftballons" (Nena) — o hino pop da Guerra Fria; Marlene Dietrich — a voz clássica que personifica a Berlim dourada e melancólica.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1ON-fJgblaAMGSNd3Z_5oGt0VwJrlmXA&ehbc=2E312F" width="640" height="480"></iframe>
+
 ---
 
 *Fontes: Wikipedia PT ([Berlim](https://pt.wikipedia.org/wiki/Berlim)); [Tudo Sobre Berlim](https://www.tudosobreberlim.com); [Visit Berlin](https://www.visitberlin.de/pt); [Gallas Disperati — Berlim no Cinema](https://gallasdisperati.com.br/berlim-filmes-series/)*
