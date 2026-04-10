@@ -31,9 +31,16 @@ Dentro da cidade, o **transporte público de Budapeste (BKK)** é integrado e co
 
 ## 💶 Dinheiro e pagamentos
 
-A Hungria **não usa o euro**. A moeda oficial é o **Florim Húngaro (HUF ou Ft)**. Apesar de alguns estabelecimentos turísticos aceitarem euros, a cotação é invariavelmente desvantajosa. **Troque para florins.**
+A Hungria **não usa o euro**. A moeda oficial é o **Florim Húngaro (HUF ou Ft)**.
 
-A melhor estratégia: leve euros do Brasil e troque em **casas de câmbio no centro de Budapeste** — as da Rua Váci e arredores têm taxas razoáveis. Evite máquinas de câmbio de aeroportos e hotéis. Para quem tem cartão Revolut ou Wise, o saque em ATM com esses cartões costuma ter a melhor taxa de conversão e taxas mínimas.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Wise e Nomad:** São fundamentais em Budapeste. A aceitação é alta, mas a moeda local (HUF) tem números grandes que podem confundir.
+*   **Dica:** Sempre pague em **HUF** na maquininha. Nunca aceite a conversão para Euro ou BRL que a máquina oferecer (DCC).
+*   **Dinheiro vivo:** É bom ter uns 5.000-10.000 HUF para mercados locais e alguns "ruin pubs" menores.
+
+### 🏧 Saques e ATMs
+*   **FUJA dos ATMs da Euronet:** Eles são "pragas" turísticas em Budapeste com taxas e conversões absurdas.
+*   **Onde sacar:** Use caixas de bancos oficiais como **OTP Bank**, **Erste** ou **Raiffeisen**.
 
 **Referência de preços:**
 - Cerveja (0,5 l num bar local): 600–900 HUF (~€1,50–2,30)

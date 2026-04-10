@@ -21,13 +21,15 @@ Dentro da cidade, o transporte público de Istambul cobre praticamente tudo com 
 
 ## 💶 Dinheiro — a informação mais importante
 
-A moeda da Turquia é a **Lira Turca (TRY ou ₺)**. A lira passou por desvalorização intensa na última década, o que torna Istambul muito acessível para visitantes com moedas fortes — mas cria duas armadilhas importantes:
+A moeda da Turquia é a **Lira Turca (TRY ou ₺)**. Devido à inflação volátil, os preços podem mudar rápido.
 
-**Armadilha 1 — Não dá para trocar reais na Turquia.** Praticamente nenhuma casa de câmbio em Istambul aceita real brasileiro. Leve euros ou dólares e troque em Istambul (não no Brasil). As melhores taxas estão nas casas de câmbio (*döviz bürosu*) do centro, especialmente no bairro de Kapalıçarşı (arredores do Grande Bazar) e em Beyoğlu. Evite câmbio no aeroporto e em hotéis.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Wise e Nomad:** Funcionam bem em lojas, shoppings e restaurantes maiores. É a forma mais segura e barata de pagar.
+*   **Dica:** Praticamente nenhuma casa de câmbio em Istambul aceita Real (BRL). Se precisar de espécie, leve **Euros ou Dólares** e troque lá, ou saque Liras diretamente do ATM com o Wise.
 
-**Armadilha 2 — Cartão nem sempre funciona.** Estabelecimentos menores, mercados, táxis e parte dos vendedores de rua só aceitam dinheiro. Tenha sempre liras em mãos para o dia a dia.
-
-Cartões Revolut e Wise são a melhor alternativa ao câmbio em espécie — funcionam bem em Istambul com taxas próximas ao câmbio comercial.
+### 💵 Onde o dinheiro é essencial
+*   **Cash is King:** Mercados (Bazar das Especiarias, Grande Bazar), pequenas lojas, comidas de rua e táxis preferem (ou só aceitam) dinheiro vivo. Tenha sempre liras na carteira.
+*   **ATMs:** Procure bancos como **Halkbank**, **Ziraat Bankasi** ou **Türkiye İş Bankası**.
 
 **Referência de preços (sujeito a variação pela inflação turca):**
 - *Simit* (pão de gergelim na rua): 5–10 TRY (~R$1,50–3)

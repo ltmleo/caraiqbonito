@@ -8,9 +8,9 @@ O castelo de quatro torres brancas que domina a colina sobre o Danúbio é o car
 
 Hoje o castelo abriga o **Museu Nacional Eslovaco** (entrada ~€14), com coleções de história, artes decorativas e réplicas das joias da coroa húngara. Mas o que justifica a subida pela colina mesmo para quem não for ao museu são os jardins externos (entrada gratuita, abertos das 8h às 22h) e a vista: do terraço, você vê simultaneamente o centro histórico de Bratislava, o Danúbio, a Ponte SNP com seu disco voador, a planície húngara ao sul e, em dias claros, as colinas austríacas a oeste. São três países visíveis de um único ponto.
 
-![Castelo de Bratislava](https://images.unsplash.com/photo-1587823521029-236b306b453e?auto=format&fit=crop&q=80&w=1000)
-
 Dica: suba pelo caminho pela rua Zámocké schody (Escada do Castelo), que parte de perto da Catedral de São Martinho. É mais íngreme, mas passa por vielas medievais que poucos turistas percorrem.
+
+![Castelo de Bratislava](https://upload.wikimedia.org/wikipedia/commons/b/b4/Bratislava_-_Burg_%28b%29.JPG)
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Castelo+Bratislava+Bratislavský+Hrad)
 

@@ -27,9 +27,12 @@ Dentro da cidade, **o centro histórico é 100% caminhável** — todas as atra�
 
 ## 💶 Dinheiro e pagamentos
 
-A Eslováquia **usa o euro (€)** desde 2009 — sem complicações de câmbio. Bratislava é visivelmente mais barata do que Viena ou Praga: cerveja em pubs locais por €1,50–2,50, menu de almoço por €5–9, jantar completo num bom restaurante por €15–25 por pessoa.
+A Eslováquia **usa o euro (€)** desde 2009 — sem complicações de câmbio.
 
-Cartões são aceitos na maioria dos estabelecimentos do centro. Tenha algum espécie para pubs menores, mercados e transporte público. Caixas eletrônicos estão por toda a Cidade Velha.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Melhores opções:** Wise e Nomad são perfeitos aqui. A aceitação de cartões é alta no centro e em shoppings.
+*   **Dinheiro vivo:** Bratislava é mais barata que suas vizinhas, mas alguns pubs "raiz" ou bancas de mercado ainda preferem dinheiro. Tenha sempre uns €20 em notas pequenas.
+*   **ATMs:** Use caixas de bancos oficiais (como VÚB, Tatra banka ou Slovenská sporiteľna) para evitar taxas extras de saque.
 
 **Comparação rápida de preços:**
 - Cerveja (0,5 l num pub): €1,50–2,50

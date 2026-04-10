@@ -50,7 +50,18 @@ RG ou passaporte válido. CNH não é aceita. Brasileiros não precisam de visto
 
 **Cota de compras no Paraguai:** A Receita Federal brasileira permite trazer de volta R$300 (ou US$300) em produtos por pessoa sem tributação. Acima disso, há cobrança de imposto de 50% sobre o excedente. A fiscalização na Ponte da Amizade é real e frequente nos fins de semana. Declarar as compras é obrigatório acima da cota.
 
-**Para levar carro à Argentina:** É obrigatório ter o seguro **Carta Verde** — seguro específico para veículos brasileiros circulando no Mercosul. Pode ser contratado online ou em corretoras de seguros.
+## 💰 Dinheiro e Câmbio nas Fronteiras
+
+Lidar com três moedas (**Real, Peso Argentino e Guarani**) exige estratégia.
+
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Na Argentina (Puerto Iguazú):** Use seu Wise ou Nomad. Graças ao câmbio MEP, a conversão é excelente e automática. É muito melhor que levar pesos do Brasil.
+*   **No Paraguai (Ciudad del Este):** A moeda de referência para eletrônicos é o **Dólar (USD)**. Você pode pagar com Wise/Nomad, mas as lojas cobram uma taxa (fee) de 3% a 7% para uso de cartão. Calcule se vale a pena. 
+*   **No Brasil (Foz):** Cartão de débito/crédito comum e **Pix** são aceitos em absolutamente todo lugar.
+
+### 💵 Dinheiro vivo
+*   **Paraguai:** Se for comprar muito, levar Dólares em espécie (notas impecáveis!) economiza as taxas do cartão. Reais são aceitos, mas a cotação das lojas costuma ser ruim.
+*   **Argentina:** Se preferir dinheiro vivo, a melhor opção para brasileiros nas Cataratas argentinas costuma ser pagar em **Reais** diretamente (muitos lugares aceitam a uma taxa razoável) ou usar Western Union.
 
 ## 🛡️ Segurança e dicas gerais
 

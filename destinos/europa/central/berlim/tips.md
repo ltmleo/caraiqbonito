@@ -42,10 +42,16 @@ Se você não quiser usar o aplicativo, pode comprar bilhetes físicos em vário
 
 ## 💶 Dinheiro e Pagamento
 
-Embora a situação tenha melhorado após a pandemia, Berlim continua sendo uma cidade onde o dinheiro em espécie (*Barzahlung*) é rei. 💰
+Embora a situação tenha melhorado após a pandemia, Berlim continua sendo uma cidade onde o dinheiro em espécie (*Barzahlung*) é rei em muitos locais pequenos. 💰
 
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Wise e Nomad:** Funcionam perfeitamente para 90% dos gastos (restaurantes maiores, supermercados, atrações).
+*   **Apple Pay / Google Pay:** São amplamente aceitos onde o cartão é aceito.
+*   **Dica:** Sempre selecione **Euro** na maquininha se houver opção de conversão.
+
+### 💵 Onde o dinheiro ainda manda
 *   **Tenha Euros:** Muitos bares pequenos (*Kneipen*), cafés de bairro e lojas de kebab aceitam apenas dinheiro. Sempre verifique se há o aviso "Nur Bares" (Apenas Dinheiro) na porta. 🫰
-*   **Gorjetas:** Em restaurantes, a gorjeta não vem incluída na conta. O costume é arredondar o valor ou deixar cerca de 5% a 10% se o serviço foi bom. 💵
+*   **Gorjetas:** Em restaurantes, o costume é arredondar o valor ou deixar cerca de 5% a 10% se o serviço foi bom. 💵
 
 ## 🥘 O que Comer
 

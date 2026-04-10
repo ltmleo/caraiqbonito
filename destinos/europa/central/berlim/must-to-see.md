@@ -84,6 +84,8 @@ A Potsdamer Platz é o maior símbolo da renovação urbana de Berlim após a re
   * 🎥 **Berlinale:** O coração do Festival Internacional de Cinema de Berlim, com tapetes vermelhos anuais.
   * 🚠 **Panoramapunkt:** Um elevador ultraveloz que leva ao 24º andar para uma vista 360° da cidade.
 
+![Potsdamer Platz](https://www.tripsavvy.com/thmb/Rau8fYauBloJQxxYIy1_6uia1Lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PotsdamerPlatz4-1f345bcab5aa4ac2a80d4e6e19725591.jpg)
+
 📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/%4052.509663,13.3759441,17z)
 
 -----
@@ -99,7 +101,24 @@ Frequentemente chamada de "Champs-Élysées de Berlim", a Kurfürstendamm é a a
   * ☕ **Cultura de Café:** Repleta de terraços e cafés históricos que remetem à era de ouro dos intelectuais de Berlim.
   * 🎭 **Teatros e Cinema:** Lar do histórico *Astor Film Lounge*, um dos cinemas mais luxuosos da Europa.
 
+![Kurfürstendamm](https://simplesmenteberlim.com/wp-content/uploads/2023/03/Kudamm_LojasGrife.jpg)
+
 📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/%4052.5020164,13.3134608,15z)
+
+## ⛪ **Gedächtniskirche (Igreja Memorial Imperador Guilherme)**
+
+<AttractionInfo paid={false} duration="30min" note="Entrada gratuita · Doações sugeridas" />
+
+Localizada no coração do lado ocidental (Breitscheidplatz), a Gedächtniskirche é um dos monumentos mais emocionantes de Berlim. A torre original foi severamente danificada por bombardeios em 1943 e mantida em ruínas como um memorial contra a guerra. Ao lado, uma nova capela moderna foi construída, criando um contraste arquitetônico impressionante entre o antigo e o novo.
+
+  * 💔 **A "Dente Oco":** Apelido carinhoso dado pelos berlinenses à torre destruída (*Hohler Zahn*).
+  * 💙 **Azul Profundo:** A nova igreja possui mais de 20.000 painéis de vidro azul que criam uma atmosfera mística.
+  * 🕯️ **Cruz de Coventry:** Um símbolo de reconciliação entre as cidades bombardeadas na Segunda Guerra Mundial.
+  * 📍 **Kurfürstendamm:** Situada na principal avenida comercial da antiga Berlim Ocidental.
+
+![Gedächtniskirche](https://static99.evangelisch.de/get/?daid=6UVxeEyScV4J8_SWI6iSYWg200264226&dfid=i-311)
+
+📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Ged%C3%A4chtniskirche%2BBerlin)
 
 ## 🛂 Checkpoint Charlie
 

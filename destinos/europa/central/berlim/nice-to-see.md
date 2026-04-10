@@ -8,7 +8,7 @@
 
 O maior e mais belo palácio de Berlim. Construído no final do século XVII como residência de verão para a rainha Sofia Carlota, o palácio é um exemplo magnífico do estilo barroco e rococó. Seus jardins, que misturam os estilos francês e inglês, são gratuitos e perfeitos para um passeio relaxante, oferecendo um contraste tranquilo com o ritmo urbano da cidade. 🌷
 
-![Palácio de Charlottenburg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OpernhausZuerich-msu-3150.jpg/250px-OpernhausZuerich-msu-3150.jpg)
+![Palácio de Charlottenburg](https://www.civitatis.com/f/alemania/berlin/guia/palacio-charlottenburg-m.jpg)
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Palacio+de+Charlottenburg+Berlim)
 
@@ -20,7 +20,7 @@ O maior e mais belo palácio de Berlim. Construído no final do século XVII com
 
 Esta catedral monumental, com sua icônica cúpula esverdeada, é a principal igreja protestante da cidade. Localizada no coração da Ilha dos Museus, seu interior é ricamente decorado e abriga a cripta da família Hohenzollern. ✨ A subida à cúpula (270 degraus) oferece uma das melhores vistas panorâmicas do centro histórico de Berlim. 🔭
 
-![Catedral de Berlim](https://upload.wikimedia.org/wikipedia/commons/8/84/141227_Berliner_Dom.jpg)
+![Catedral de Berlim](https://www.berlim.tur.br/wp-content/uploads/2024/06/berlin-4860600_1280-1140x979.jpg)
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Berliner+Dom+Catedral+Berlim)
 
@@ -32,7 +32,7 @@ Esta catedral monumental, com sua icônica cúpula esverdeada, é a principal ig
 
 Muitas vezes descrita como a praça mais bonita de Berlim, o Gendarmenmarkt é cercado por três edifícios arquitetônicos notáveis: a Casa de Concertos (*Konzerthaus*) e as Catedrais Gêmeas (a Francesa e a Alemã). É um lugar de elegância clássica, famoso por sediar alguns dos mercados de Natal mais charmosos da Europa em dezembro. 🎄
 
-![Gendarmenmarkt](https://upload.wikimedia.org/wikipedia/commons/2/24/Gendarmenmarkt_Panorama.jpg)
+![Gendarmenmarkt](https://www.berlin.de/binaries/asset/image_assets/9292428/source/1763542050/1000x500/)
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Gendarmenmarkt+Berlim)
 
@@ -75,6 +75,8 @@ O que ver: Uma das maiores coleções de esculturas do mundo (da Idade Média ao
 
 Aqui está o seu guia detalhado sobre esses marcos fundamentais de Berlim, combinando o peso da história com a vibrante cultura atual da capital alemã.
 
+![Ilha dos Museus](https://upload.wikimedia.org/wikipedia/commons/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg)
+
 -----
 
 ## 🏗️ **Flakturm Humboldthain**
@@ -88,7 +90,7 @@ O Humboldthain abriga as ruínas imponentes de uma das gigantescas torres de def
   * 🦇 **Santuário de Inverno:** Atualmente, o interior das ruínas serve como abrigo para colônias de morcegos.
   * 🌳 **Parque Vibrante:** Rodeado por um jardim de rosas e áreas de lazer frequentadas por moradores locais.
 
-📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Flakturm%2BHumboldthain%2BBerlin)
+📸 [Fotos no Google Maps](https://the-passenger.de/wp-content/uploads/2023/07/img_0590-2000x1200.jpg)
 
 -----
 
@@ -102,6 +104,8 @@ Considerado o "pulmão verde" de Berlim, o Tiergarten é para a cidade o que o C
   * 🕊️ **Coluna da Vitória:** O icônico monumento *Siegessäule* ergue-se majestosamente no centro do parque.
   * ☕ **Café am Neuen See:** Um popular jardim de cerveja (Biergarten) à beira do lago.
   * 🏛️ **Proximidade Política:** Localizado ao lado do Reichstag e da Chancelaria Federal.
+
+![Großer Tiergarten]https://berlin.fritzguide.com/wp-content/uploads/2021/02/Grosser_Tiergarten_Berlin.jpg)
 
 📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Gro%C3%9Fer%2BTiergarten%2BBerlin)
 
@@ -118,22 +122,10 @@ O "Parque do Muro" está localizado onde antigamente ficava a "faixa da morte" q
   * 🛍️ **Flohmarkt:** Um dos mercados de antiguidades e artesanato mais famosos da Europa.
   * 🎸 **Músicos de Rua:** O parque é um palco constante para talentos de todas as partes do mundo.
 
+![Mauerpark](https://www.mauerpark.info/wp-content/uploads/2020/06/mauerpark-erweiterung_DJI_0612.jpg)
+
 📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Mauerpark%2BBerlin)
 
------
-
-## ⛪ **Gedächtniskirche (Igreja Memorial Imperador Guilherme)**
-
-<AttractionInfo paid={false} duration="30min" note="Entrada gratuita · Doações sugeridas" />
-
-Localizada no coração do lado ocidental (Breitscheidplatz), a Gedächtniskirche é um dos monumentos mais emocionantes de Berlim. A torre original foi severamente danificada por bombardeios em 1943 e mantida em ruínas como um memorial contra a guerra. Ao lado, uma nova capela moderna foi construída, criando um contraste arquitetônico impressionante entre o antigo e o novo.
-
-  * 💔 **A "Dente Oco":** Apelido carinhoso dado pelos berlinenses à torre destruída (*Hohler Zahn*).
-  * 💙 **Azul Profundo:** A nova igreja possui mais de 20.000 painéis de vidro azul que criam uma atmosfera mística.
-  * 🕯️ **Cruz de Coventry:** Um símbolo de reconciliação entre as cidades bombardeadas na Segunda Guerra Mundial.
-  * 📍 **Kurfürstendamm:** Situada na principal avenida comercial da antiga Berlim Ocidental.
-
-📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Ged%C3%A4chtniskirche%2BBerlin)
 
 -----
 
@@ -147,6 +139,8 @@ Este museu memorial está situado no local exato onde funcionavam as sedes da Ge
   * 🧱 **Muro de Berlim:** O local também preserva uma das seções originais mais longas do Muro de Berlim.
   * 🔍 **Escavações:** É possível ver as fundações das antigas celas de interrogatório da Gestapo.
   * ⚖️ **Educação e Memória:** Um espaço essencial para entender as cicatrizes políticas da Alemanha moderna.
+
+![Topographie des Terrors](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/0e/90/fc/topography-of-terror.jpg?w=900&h=500&s=1)
 
 📸 [Fotos no Google Maps](https://www.google.com/search?q=https://www.google.com/maps/search/Topography%2Bof%2BTerror%2BBerlin)
 

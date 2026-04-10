@@ -22,9 +22,16 @@ O centro histórico é completamente **caminhável** — a Cidade Velha, o Bairr
 
 ## 💶 Dinheiro e pagamentos
 
-A República Tcheca faz parte da União Europeia desde 2004, mas **não adotou o euro**. A moeda oficial é a **Coroa Tcheca (CZK ou Kč)**. Existe em notas de 100, 200, 500, 1.000, 2.000 e 5.000 CZK e em moedas de 1, 2, 5, 10, 20 e 50 CZK. **Não subestime as moedas** — elas têm valor real e você vai precisar delas para algumas bilheterias e máquinas.
+A República Tcheca faz parte da União Europeia desde 2004, mas **não adotou o euro**. A moeda oficial é a **Coroa Tcheca (CZK ou Kč)**.
 
-Embora alguns estabelecimentos turísticos aceitem euros, a cotação que oferecem costuma ser desvantajosa. O ideal é **levar euros ou dólares do Brasil e trocar em casas de câmbio em Praga** — evite as câmbios no aeroporto e nas áreas mais turísticas, que cobram comissões altas. Uma boa opção: a Praha Exchange na rua Havelská, 6. Cartões internacionais são amplamente aceitos em restaurantes, hotéis e atrações, mas tenha sempre algum dinheiro em espécie para pubs menores, feiras e transporte público.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Wise e Nomad:** São as melhores opções. A aceitação de cartões por aproximação é onipresente em Praga.
+*   **Dica de Ouro:** Ao pagar, se a maquininha perguntar se quer pagar em "BRL" ou "CZK", **escolha sempre CZK**. Isso evita taxas de conversão abusivas (DCC).
+*   **Dinheiro vivo:** Tenha sempre uns 200-500 CZK em espécie para pequenos gastos, banheiros ou feiras.
+
+### 🏧 Saques e ATMs
+*   **Evite ATMs da Euronet:** Suas taxas são abusivas e as cotações péssimas.
+*   **Onde sacar:** Prefira ATMs de bancos como **AirBank**, **Moneta**, **Česká spořitelna** ou **KB**.
 
 Praga é uma das capitais europeias mais baratas: meio litro de cerveja custa entre 45 e 80 CZK (R$ 10–18), um almoço fora da área turística não passa de 200 CZK, e a maioria dos museus principais tem ingressos entre 100 e 300 CZK.
 

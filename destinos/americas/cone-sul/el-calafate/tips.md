@@ -20,13 +20,19 @@ O **outono** (março–abril) tem uma carta extra na manga: a paisagem explode e
 
 O **inverno** (junho–agosto) é rigoroso — temperaturas abaixo de zero, neve, dias curtos. Alguns hotéis e restaurantes fecham. Os glaciares continuam lá (não vão a lugar nenhum), mas o Perito Moreno tem menos espetáculo de desprendimento e El Chaltén perde boa parte do apelo. Só para quem gosta de frio mesmo.
 
-## 💸 Dinheiro e pagamentos
+A Argentina vive uma situação cambial única. Você ouvirá falar de várias cotações para o Peso (ARS).
 
-A moeda argentina, o peso (ARS), tem passado por instabilidade histórica. O câmbio na Argentina funciona de forma diferente da maioria dos países — existe uma diferença significativa entre o câmbio oficial e o câmbio paralelo. Pesquise as condições no momento da sua viagem e consulte blogs especializados (como viajenaviagem.com) para a estratégia mais atualizada.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Dólar MEP (Cartão):** Ao usar Wise, Nomad ou cartões de crédito internacionais, você paga a cotação "MEP", que é muito próxima à do câmbio paralelo e bem melhor que a oficial. É a forma mais prática de pagar tudo em Calafate.
+*   **Vantagem:** Você não precisa andar com montes de dinheiro vivo e ganha segurança. Quase todos os restaurantes e agências aceitam.
 
-Cartões de crédito são amplamente aceitos em hotéis, restaurantes e agências. Para conseguir preço menor nos passeios, pague em pesos em dinheiro (*efectivo*). Há caixas eletrônicos em El Calafate, mas saques têm limites e taxas. Em El Chaltén há apenas 2 ATMs, que frequentemente ficam sem dinheiro na alta temporada — saque antes de ir.
+### 💵 Dinheiro Vivo (Dólar Blue) e Western Union
+*   **Dólar Blue:** É a cotação do câmbio paralelo. Levar **Dólares em espécie** (notas novas de 100) e trocar em "cuevas" ou lojas locais pode render um pouco mais que o MEP, mas exige cuidado.
+*   **Western Union:** Muito usado por brasileiros. Você faz um Pix no app da WU e retira em espécie em Calafate. Note que as filas podem ser longas e o dinheiro pode acabar no fim do dia.
 
-Gorjeta não é obrigatória, mas é habitual deixar 10% em restaurantes.
+### 🏧 Saques e Gorjetas
+*   **Evite saques em ATMs:** As taxas bancárias argentinas são altíssimas para estrangeiros.
+*   **Gorjeta:** 10% é o padrão esperado em restaurantes.
 
 ## 🗣️ Idioma
 

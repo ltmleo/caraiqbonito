@@ -30,9 +30,12 @@ Dentro da cidade, o **transporte público (VOR)** é integrado e excelente: o **
 
 ## 💶 Dinheiro e pagamentos
 
-A Áustria usa o **euro (€)**. Viena não é a cidade mais cara da Europa, mas está claramente acima da média — calcule ao menos €80 por dia para alimentação + transporte + passeios moderados. Hospedagem e ingressos de museus vêm por cima.
+A Áustria usa o **euro (€)**. Viena está acima da média de custo da região — calcule ao menos €80-100 por dia para gastos básicos.
 
-Cartões internacionais são aceitos em praticamente todo lugar, incluindo a maioria dos transportes, museus e restaurantes. **Tenha sempre algum dinheiro em espécie** para barracas de mercado, pequenos cafés de bairro e táxis eventuais. Caixas eletrônicos (ATMs) estão em todo canto; evite as máquinas de câmbio de aeroportos e locais turísticos com taxas predatórias.
+### 💳 Cartões e Câmbio (Wise e Nomad)
+*   **Wise e Nomad:** Funcionam em 99% dos lugares turísticos, hotéis e grandes lojas.
+*   **Dinheiro vivo:** É essencial para os famosos cafés históricos e mercados como o Naschmarkt. Alguns lugares tradicionais resistem ao cartão.
+*   **ATMs:** Evite caixas eletrônicos de rua sem marca de banco (como os azuis da Euronet). Use ATMs dentro de agências bancárias (Erste Bank, Raiffeisen, Bank Austria).
 
 Alguns **truques para economizar:**
 - Ingressos de pé (*Stehplätze*) na Ópera: €4–9 para apresentações completas de primeiro nível
