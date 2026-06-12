@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Link from '@docusaurus/Link';
 import data from './data.json';
 import styles from './styles.module.css';
 

@@ -439,7 +439,8 @@
         "price": "€ 14",
         "priceNote": "Terrenos: gratuitos. Bratislava CARD: entrada grátis",
         "rating": "4.6",
-        "stars": "★★★★½"
+        "stars": "★★★★½",
+        "link": "/destinos/europa/central/bratislava/atracoes/castelo-de-bratislava"
       },
       {
         "name": "Igreja Azul (Igreja de Santa Isabel)",
@@ -469,7 +470,8 @@
         "hours": "Seg–Sáb 09h–11h30 / 13h–17h. Dom: tarde",
         "price": "≈ €5",
         "rating": "4.4",
-        "stars": "★★★★"
+        "stars": "★★★★",
+        "link": "/destinos/europa/central/bratislava/atracoes/catedral-de-sao-martinho"
       },
       {
         "name": "Portal de Michael (Michalská brána)",
@@ -500,7 +502,8 @@
         "price": "≈ €9",
         "priceNote": "Ingresso revertido em consumação no restaurante",
         "rating": "4.5",
-        "stars": "★★★★"
+        "stars": "★★★★",
+        "link": "/destinos/europa/central/bratislava/atracoes/ponte-snp-e-torre-ufo"
       },
       {
         "name": "Castelo de Devín",
@@ -510,7 +513,8 @@
         "hours": "Ter–Dom 10h–17h. Fechado segundas-feiras",
         "price": "≈ €8–10",
         "rating": "4.5",
-        "stars": "★★★★"
+        "stars": "★★★★",
+        "link": "/destinos/europa/central/bratislava/atracoes/castelo-de-devin"
       },
       {
         "name": "Palácio de Grassalkovich",
@@ -531,7 +535,8 @@
         "hours": "Diário 09h–19h (verão)",
         "price": "Gratuito",
         "rating": "4.4",
-        "stars": "★★★★"
+        "stars": "★★★★",
+        "link": "/destinos/europa/central/bratislava/atracoes/memorial-slavin"
       }
     ]
   },
@@ -698,7 +703,8 @@
         "price": "≈ €9",
         "priceNote": "Acesso ao terraço principal: gratuito de manhã cedo",
         "rating": "4.8",
-        "stars": "★★★★★"
+        "stars": "★★★★★",
+        "link": "/destinos/europa/central/budapeste/atracoes/bastiao-dos-pescadores-e-igreja-de-matias"
       },
       {
         "name": "Castelo de Buda",
@@ -709,7 +715,8 @@
         "price": "Distrito: Grátis",
         "priceNote": "Museus internos: ≈ €9 cada",
         "rating": "4.7",
-        "stars": "★★★★½"
+        "stars": "★★★★½",
+        "link": "/destinos/europa/central/budapeste/atracoes/castelo-de-buda"
       },
       {
         "name": "Termas Széchenyi",
@@ -720,7 +727,8 @@
         "price": "≈ €30–47",
         "priceNote": "Balcão: ≈ €30 | Fast track online: ≈ €44–47",
         "rating": "4.7",
-        "stars": "★★★★½"
+        "stars": "★★★★½",
+        "link": "/destinos/europa/central/budapeste/atracoes/termas-szechenyi"
       },
       {
         "name": "Ponte das Correntes (Széchenyi lánchíd)",
@@ -761,7 +769,8 @@
         "hours": "Acessível 24h",
         "price": "Gratuito",
         "rating": "4.8",
-        "stars": "★★★★½"
+        "stars": "★★★★½",
+        "link": "/destinos/europa/central/budapeste/atracoes/sapatos-no-danubio"
       },
       {
         "name": "Ruin Bars — Szimpla Kert",
@@ -772,7 +781,8 @@
         "price": "Entrada gratuita",
         "priceNote": "Consumação a partir de €2 (cervejas)",
         "rating": "4.7",
-        "stars": "★★★★½"
+        "stars": "★★★★½",
+        "link": "/destinos/europa/central/budapeste/atracoes/ruin-bars-do-distrito-judaico-romkocsmak"
       },
       {
         "name": "Colina Gellért & Cidadela",
