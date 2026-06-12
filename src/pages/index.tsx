@@ -13,7 +13,13 @@ import BerlimHero from '@site/static/img/berlim_hero.png';
 import MunichHero from '@site/static/img/munich_hero.png';
 import PragueHero from '@site/static/img/prague_hero.png';
 
-const featuredCities = [
+const featuredCities: {
+  name: string;
+  country: string;
+  image: any;
+  link: string;
+  comingSoon?: boolean;
+}[] = [
   {
     name: 'Berlim',
     country: 'Alemanha',
