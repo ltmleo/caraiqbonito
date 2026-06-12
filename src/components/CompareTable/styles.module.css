@@ -1,0 +1,232 @@
+/* Estilos para o Componente de Guia Comparativo */
+
+.wrap {
+  padding: 1.5rem 0;
+  color: var(--ifm-font-color-base);
+}
+
+.cityTabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 2rem;
+}
+
+.tabBtn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  border: 1px solid var(--ifm-border-color);
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.tabBtn:hover {
+  background: var(--ifm-color-primary-lightest);
+  border-color: var(--ifm-color-primary-light);
+  transform: translateY(-1px);
+}
+
+[data-theme='dark'] .tabBtn:hover {
+  background: rgba(196, 98, 45, 0.2);
+  border-color: var(--ifm-color-primary-light);
+}
+
+.tabBtnActive {
+  background: var(--ifm-color-primary) !important;
+  color: #ffffff !important;
+  border-color: var(--ifm-color-primary) !important;
+  font-weight: 600;
+  box-shadow: 0 4px 10px rgba(196, 98, 45, 0.3);
+}
+
+.flag {
+  font-size: 16px;
+}
+
+.citySection {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.cityHeader {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--ifm-border-color);
+  padding-bottom: 1rem;
+}
+
+.cityTitle {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.citySub {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.summaryBar {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.summaryPill {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--ifm-border-color);
+  background: var(--ifm-background-surface-color);
+}
+
+.tableWrap {
+  overflow-x: auto;
+  border: 1px solid var(--ifm-border-color);
+  border-radius: var(--ifm-global-radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  background: var(--ifm-background-color);
+  margin-bottom: 1.5rem;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  min-width: 800px;
+}
+
+.thead th {
+  background: var(--ifm-background-surface-color);
+  padding: 14px 16px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 2px solid var(--ifm-border-color);
+  opacity: 0.9;
+}
+
+.tbody tr {
+  border-bottom: 1px solid var(--ifm-border-color);
+  transition: background-color 0.15s ease;
+}
+
+.tbody tr:last-child {
+  border-bottom: none;
+}
+
+.tbody tr:hover {
+  background-color: var(--ifm-background-surface-color);
+}
+
+.tbody td {
+  padding: 14px 16px;
+  vertical-align: top;
+  line-height: 1.6;
+}
+
+.colName { width: 20%; }
+.colDesc { width: 32%; }
+.colHours { width: 18%; }
+.colPrice { width: 16%; }
+.colRating { width: 14%; }
+
+.attrName {
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 6px;
+  color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .attrName {
+  color: var(--ifm-color-primary-light);
+}
+
+.attrBadge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+  margin-top: 4px;
+}
+
+.badgePaid {
+  background-color: #e2f0fd;
+  color: #165aab;
+}
+
+[data-theme='dark'] .badgePaid {
+  background-color: rgba(22, 90, 171, 0.2);
+  color: #93c5fd;
+}
+
+.badgeFree {
+  background-color: #e6f4ea;
+  color: #137333;
+}
+
+[data-theme='dark'] .badgeFree {
+  background-color: rgba(19, 115, 51, 0.2);
+  color: #81c784;
+}
+
+.badgeNeutral {
+  background-color: #fef3c7;
+  color: #b45309;
+}
+
+[data-theme='dark'] .badgeNeutral {
+  background-color: rgba(180, 83, 9, 0.2);
+  color: #fcd34d;
+}
+
+.desc {
+  font-size: 13px;
+  opacity: 0.9;
+}
+
+.hours {
+  font-size: 13px;
+}
+
+.price {
+  font-weight: 600;
+}
+
+.stars {
+  color: #ef9f27;
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+}
+
+.starsNum {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.note {
+  font-size: 11px;
+  opacity: 0.7;
+  margin-top: 4px;
+  font-style: italic;
+}

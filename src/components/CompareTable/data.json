@@ -1,0 +1,811 @@
+{
+  "istanbul": {
+    "name": "Istambul",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "sub": "14 atrações · Moeda local: Lira Turca (TRY) · Valores convertidos para € (referência alta temporada 2026)",
+    "summary": {
+      "free": "5 gratuitas",
+      "priceRange": "💶 Pagas: €8 – €45",
+      "avgRating": "⭐ Nota média: 4.7"
+    },
+    "attractions": [
+      {
+        "name": "Hagia Sophia (Basílica de Santa Sofia)",
+        "category": "Monumento",
+        "paid": true,
+        "desc": "Obra-prima do séc. VI que foi catedral, museu e mesquita. Cúpula de 31m, mosaicos bizantinos e fusão única de símbolos cristãos e islâmicos.",
+        "hours": "Diário, 08h30–17h00. Fecha para visitantes durante as orações (sex. 12h–14h30)",
+        "price": "€ 25",
+        "priceNote": "Crianças -8 anos: grátis",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Mesquita Azul (Sultan Ahmed)",
+        "category": "Entrada gratuita",
+        "paid": false,
+        "desc": "Única mesquita de Istambul com 6 minaretes. Interior revestido com 20.000 azulejos İznik azul-celestes. Ícone absoluto da skyline da Sultanahmet.",
+        "hours": "Diário exceto sex. (fechada na oração do meio-dia) 08h30–11h30 / 13h00–14h30 / 15h30–17h00",
+        "price": "Gratuito",
+        "priceNote": "Traje modesto obrigatório; lenço fornecido",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Palácio Topkapi",
+        "category": "Museu",
+        "paid": true,
+        "desc": "Sede do poder otomano por 400 anos. Harem, joias imperiais, o Diamante do Colhereiro e vista panorâmica do Bósforo de dentro do palácio.",
+        "hours": "09h00–18h00. Fechado às terças-feiras",
+        "price": "≈ €45",
+        "priceNote": "Ingresso combinado Palácio + Harem + Hagia Irene",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Grande Bazar (Kapalı Çarşı)",
+        "category": "Entrada gratuita",
+        "paid": false,
+        "desc": "Um dos maiores mercados cobertos do mundo: 4.000 lojas, tapetes, especiarias, joias e cerâmicas. Experiência sensorial e cultural insubstituível.",
+        "hours": "Seg–Sáb 08h30–19h00. Fechado domingos e feriados religiosos",
+        "price": "Gratuito",
+        "rating": "4.7",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Cisterna da Basílica",
+        "category": "Patrimônio",
+        "paid": true,
+        "desc": "Reservatório subterrâneo do séc. VI com 336 colunas iluminadas e as misteriosas cabeças de Medusa. Ambiente único e muito fotogênico.",
+        "hours": "Diário 09h00–22h00. Última entrada 21h00",
+        "price": "≈ €17",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Cruzeiro pelo Bósforo",
+        "category": "Passeio",
+        "paid": true,
+        "desc": "Única cidade do mundo em dois continentes: o cruzeiro revela palácios, fortalezas, pontes e a transição entre Europa e Ásia pelo estreito.",
+        "hours": "Embarcações ao longo do dia a partir de Eminönü. Opções de 1h30 a tour completo de 6h",
+        "price": "€ 10–25",
+        "priceNote": "Ferry público da şehir hatları ≈ €3",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Torre de Gálata",
+        "category": "Mirante",
+        "paid": true,
+        "desc": "Torre medieval de 67m no bairro de Beyoğlu. Vista panorâmica 360° de Istambul e do Bósforo, especialmente mágica ao pôr do sol.",
+        "hours": "Diário 08h30–22h00",
+        "price": "≈ €20",
+        "rating": "4.5",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Palácio Dolmabahçe",
+        "category": "Palácio",
+        "paid": true,
+        "desc": "Palácio neoclássico à beira do Bósforo com 285 salas e o maior lustre de cristal do mundo. Residência final de Atatürk, que faleceu aqui em 1938.",
+        "hours": "09h00–16h00. Fechado seg. e sex. de manhã",
+        "price": "≈ €22",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Bazar das Especiarias (Mısır Çarşısı)",
+        "category": "Entrada gratuita",
+        "paid": false,
+        "desc": "Mercado coberto do séc. XVII junto ao porto. Aromas intensos de chás, temperos, Turkish Delight e dried fruits. Mais compacto e autêntico que o Grande Bazar.",
+        "hours": "Diário 08h00–19h30",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Lado Asiático — Kadıköy & Moda",
+        "category": "Bairro",
+        "paid": false,
+        "desc": "Istambul além do turismo: bairros boêmios com mercados de rua, cafés independentes, art déco e a atmosfera que os locais realmente vivem. Ferry imperdível.",
+        "hours": "Bairro acessível 24h. Ferry de Eminönü ≈ €1",
+        "price": "Gratuito",
+        "priceNote": "Custo do ferry ≈ €1",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Bairros de Balat & Fener",
+        "category": "Bairro histórico",
+        "paid": false,
+        "desc": "Bairros à beira do Corno de Ouro com casas coloridas, igrejas ortodoxas, sinagogas e mesquitas lado a lado. O Istambul multicultural e fotogênico.",
+        "hours": "Bairro aberto 24h. Melhor visitado de manhã cedo",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Mesquita de Süleymaniye",
+        "category": "Entrada gratuita",
+        "paid": false,
+        "desc": "Obra-prima do arquiteto Sinan (séc. XVI), considerada a mais bela de Istambul. Vista deslumbrante do Corno de Ouro. Muito menos lotada que a Mesquita Azul.",
+        "hours": "Diário (exceto durante orações) 08h30–17h00",
+        "price": "Gratuito",
+        "priceNote": "Traje modesto obrigatório",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Colina de Pierre Loti",
+        "category": "Teleférico pago",
+        "paid": true,
+        "desc": "Vista panorâmica do Corno de Ouro a partir de uma colina arborizada com cafés tradicionais. O teleférico é parte do charme. Perfeito para o fim do dia.",
+        "hours": "Teleférico: 08h00–22h00",
+        "price": "≈ €1",
+        "priceNote": "Teleférico (Eyüp Sultan)",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Mesquita de Ortaköy",
+        "category": "Entrada gratuita",
+        "paid": false,
+        "desc": "Pequena mesquita neobizantina à beira-mar com a Ponte do Bósforo ao fundo — a foto mais icônica de Istambul moderna. Bairro vibrante ao redor.",
+        "hours": "Diário (exceto durante orações)",
+        "price": "Gratuito",
+        "rating": "4.5",
+        "stars": "★★★★½"
+      }
+    ]
+  },
+  "berlin": {
+    "name": "Berlim",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "sub": "11 atrações · Moeda: Euro (€) · Alta temporada: abril–outubro",
+    "summary": {
+      "free": "7 gratuitas",
+      "priceRange": "💶 Pagas: €8 – €24",
+      "avgRating": "⭐ Nota média: 4.7"
+    },
+    "attractions": [
+      {
+        "name": "Portão de Brandemburgo",
+        "category": "Monumento / gratuito",
+        "paid": false,
+        "desc": "Símbolo máximo da reunificação alemã e da Europa. Marco histórico por onde o Muro de Berlim corria. Impactante de dia e à noite, iluminado.",
+        "hours": "Acessível 24h / 7 dias",
+        "price": "Gratuito",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Reichstag — Cúpula de Vidro",
+        "category": "Reserva obrigatória",
+        "paid": false,
+        "desc": "Parlamento alemão com cúpula de vidro projetada por Norman Foster. Vista 360° de Berlim e metáfora da transparência democrática. Experiência gratuita única.",
+        "hours": "Diário 08h00–00h00. Última entrada 21h45 — reserva antecipada OBRIGATÓRIA",
+        "price": "Gratuito",
+        "priceNote": "Cadastro online obrigatório em bundestag.de",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Memorial do Muro de Berlim (Gedenkstätte Berliner Mauer)",
+        "category": "Memorial / gratuito",
+        "paid": false,
+        "desc": "O único trecho preservado autêntico do Muro com a \"faixa da morte\" intacta na Bernauer Straße. Centro de documentação com histórias reais de fuga.",
+        "hours": "Área externa: 24h. Centro doc.: Ter–Dom 10h–18h",
+        "price": "Gratuito",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "East Side Gallery",
+        "category": "Arte / gratuito",
+        "paid": false,
+        "desc": "1,3 km de murais pintados por artists de 21 países diretamente no Muro original após a queda. O maior monumento ao ar livre de Berlim, incluindo o famoso \"Beijo\".",
+        "hours": "Acessível 24h",
+        "price": "Gratuito",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Ilha dos Museus (Museumsinsel)",
+        "category": "Museus",
+        "paid": true,
+        "desc": "5 museus Património UNESCO: Neues Museum (Nefertiti), Altes Museum, Alte Nationalgalerie, Bode-Museum e Pergamon (em renovação até 2027 — Das Panorama aberto).",
+        "hours": "Ter–Dom 10h–18h. Pergamon Das Panorama: Ter–Dom 10h–18h",
+        "price": "€ 24",
+        "priceNote": "day ticket. Pergamon Panorama isolado: €14",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Checkpoint Charlie",
+        "category": "Memorial histórico",
+        "paid": false,
+        "desc": "Antigo posto de controle americano durante a Guerra Fria. Ponto onde tanques soviéticos e americanos se confrontaram em 1961. Memorial e museu no local.",
+        "hours": "Memorial: 24h. Museu: 09h00–22h00 diário",
+        "price": "Memorial: gratuito",
+        "priceNote": "Museu Mauermuseum: ≈€15",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Memorial aos Judeus Mortos da Europa",
+        "category": "Memorial / gratuito",
+        "paid": false,
+        "desc": "2.711 estelas de concreto de alturas variadas formam labirinto perturbador. Um dos memoriais ao Holocausto mais poderosos do mundo, projetado por Peter Eisenman.",
+        "hours": "Estelas: 24h. Centro de Informações: Ter–Dom 10h–20h",
+        "price": "Gratuito",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Torre de TV (Fernsehturm)",
+        "category": "Mirante",
+        "paid": true,
+        "desc": "368m de altura — a mais alta da Alemanha. Mirante e restaurante giratório com vista de 360° sobre toda Berlim. Símbolo da ex-Berlim Oriental.",
+        "hours": "Mar–Out: 09h00–23h00. Última entrada 22h30",
+        "price": "≈ €22–26",
+        "priceNote": "Recomenda-se reserva antecipada online",
+        "rating": "4.5",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Tempelhofer Feld",
+        "category": "Parque / gratuito",
+        "paid": false,
+        "desc": "Antigo aeroporto de Tempelhof (1923) transformado em parque urbano gigante. Berlinenses andam de bicicleta, voam pipas e fazem piquenique nas pistas originais.",
+        "hours": "Aberto do amanhecer ao anoitecer",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Palácio de Charlottenburg",
+        "category": "Palácio",
+        "paid": true,
+        "desc": "O maior palácio de Berlim, barroco e rodeado de jardins. Apartamentos de Frederico o Grande, porcelanas prussianas e o charmoso Pavilhão de Chá à beira do lago.",
+        "hours": "Ter–Dom 10h–17h30. Fechado segundas-feiras",
+        "price": "€ 8–14",
+        "priceNote": "Depende das alas visitadas",
+        "rating": "4.5",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Igreja Memorial Kaiser Wilhelm & Mauerpark",
+        "category": "Monumento + Mercado",
+        "paid": false,
+        "desc": "As ruínas da Igreja Kaiser Wilhelm (1895) preservadas como memorial antiguerra, no coração da Ku'damm. Mauerpark: mercado de pulgas dominical e karaokê ao ar livre.",
+        "hours": "Igreja: Seg–Sáb 10h–18h (gratuita). Mauerpark: domingo, manhã–16h",
+        "price": "Gratuito",
+        "rating": "4.5",
+        "stars": "★★★★"
+      }
+    ]
+  },
+  "prague": {
+    "name": "Praga",
+    "country": "República Checa",
+    "flag": "🇨🇿",
+    "sub": "11 atrações · Moeda: Coroa Tcheca (CZK) · Valores convertidos para € (câmbio ≈ 1€ = 25 CZK)",
+    "summary": {
+      "free": "5 gratuitas",
+      "priceRange": "💶 Pagas: €5 – €18",
+      "avgRating": "⭐ Nota média: 4.7"
+    },
+    "attractions": [
+      {
+        "name": "Castelo de Praga",
+        "category": "Complexo histórico",
+        "paid": true,
+        "desc": "Maior complexo de castelos antigos do mundo, Património UNESCO. Reúne a Catedral de São Vito, Palácio Real, Basílica de São Jorge e a Rua Dourada numa só visita.",
+        "hours": "Abr–Out: 09h00–17h00 diário. Terrenos externos: 06h–22h",
+        "price": "≈ €14–18",
+        "priceNote": "Circuito B (principal). Terrenos: gratuitos",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Ponte Carlos (Charles Bridge)",
+        "category": "Monumento / gratuito",
+        "paid": false,
+        "desc": "Ponte gótica do séc. XIV com 30 estátuas barrocas sobre o Rio Moldava. Ao amanhecer, é quase mágica — sem as multidões do dia. A mais fotogênica de Praga.",
+        "hours": "Aberta 24h. Torres da ponte: 09h–20h30 (verão) / €5",
+        "price": "Gratuito",
+        "priceNote": "Torre Velha da Cidade: ≈ €8",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Praça da Cidade Velha & Relógio Astronômico",
+        "category": "Praça histórica",
+        "paid": false,
+        "desc": "Coração medieval de Praga. O Relógio Astronômico de 1410 exibe seu espetáculo de figuras a cada hora cheia. Em volta: igrejas barrocas, casas renascentistas e mercados.",
+        "hours": "Praça: 24h | Relógio: espetáculo a cada hora. Torre do Relógio: 09h–21h (€14)",
+        "price": "Praça: gratuita",
+        "priceNote": "Torre do Relógio: ≈ €14",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Catedral de São Vito",
+        "category": "Catedral gótica",
+        "paid": true,
+        "desc": "Catedral gótica dentro do Castelo de Praga, com as joias da coroa da Boêmia e vitais janelas de vitrais Art Nouveau criados por Alfons Mucha. Obra de 600 anos.",
+        "hours": "Abr–Out: 09h00–17h00 (incluída no ingresso do Castelo)",
+        "price": "Incluída no Castelo",
+        "priceNote": "Castelo: ≈ €14–18",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Bairro Judeu — Josefov",
+        "category": "Patrimônio",
+        "paid": true,
+        "desc": "Um dos guetos judeus mais bem preservados da Europa: 6 sinagogas históricas, o Velho Cemitério Judeu com lápides sobrepostas por séculos e a conexão com a lenda do Golem.",
+        "hours": "Dom–Sex 09h–18h. Fechado aos sábados (Shabat) e feriados judeus",
+        "price": "≈ €16",
+        "priceNote": "Bilhete conjunto para todas as sinagogas",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Torre de Petřín",
+        "category": "Mirante",
+        "paid": true,
+        "desc": "Miniatura da Torre Eiffel (60m) no topo de uma colina verde. Com funicular histórico e jardins floridos, oferece a melhor vista panorâmica de Praga sem multidões excessivas.",
+        "hours": "Diário 09h00–21h00. Funicular: 09h–23h20",
+        "price": "≈ €8",
+        "priceNote": "Funicular incluso no bilhete de transporte público",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Muro de John Lennon",
+        "category": "Monumento / gratuito",
+        "paid": false,
+        "desc": "Muro coberto de grafite e letras de música dos Beatles, símbolo de resistência pacífica durante o comunismo. Vive em constante renovação pelos visitantes — traga uma caneta!",
+        "hours": "Acessível 24h",
+        "price": "Gratuito",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Casa Dançante (Tančící dům)",
+        "category": "Arquitetura",
+        "paid": false,
+        "desc": "Edifício desconstrucionista de Frank Gehry (1996), apelidado de \"Fred & Ginger\". Contraste marcante com a arquitetura Art Nouveau vizinha — e há um bar no topo.",
+        "hours": "Vista exterior: 24h. Bar no topo: 10h–23h",
+        "price": "Exterior: Gratuito",
+        "priceNote": "Bar no topo: consumação livre",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Fortaleza de Vyšehrad",
+        "category": "Fortaleza / gratuita",
+        "paid": false,
+        "desc": "Cidadela medieval com cemitério nacional (Smetana, Dvořák enterrados aqui), basílica românica e vistas do Rio Moldava sem turistas. A Praga que os locais preferem.",
+        "hours": "Terrenos: 24h. Igrejas: 09h30–18h",
+        "price": "Gratuito",
+        "priceNote": "Galerias internas: ≈ €4",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Mosteiro de Strahov / Biblioteca Klementinum",
+        "category": "Biblioteca histórica",
+        "paid": true,
+        "desc": "Biblioteca Barroca e Filosófica do Mosteiro de Strahov: uma das mais belas do mundo, com globos históricos e tetos pintados. Klementinum: salão barroco igualmente deslumbrante.",
+        "hours": "Diário 09h–17h (Strahov). Klementinum: visitas guiadas a cada hora",
+        "price": "Strahov: ≈ €7",
+        "priceNote": "Klementinum: ≈ €12",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Parque Letná",
+        "category": "Parque / gratuito",
+        "paid": false,
+        "desc": "Parque no alto de uma falésia com a vista mais bonita da Cidade Velha e dos telhados de Praga. Beer garden ao ar livre amado pelos locais. Relaxante e autêntico.",
+        "hours": "Parque: 24h. Beer garden: 11h–22h (verão)",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      }
+    ]
+  },
+  "bratislava": {
+    "name": "Bratislava",
+    "country": "Eslováquia",
+    "flag": "🇸🇰",
+    "sub": "10 atrações · Moeda: Euro (€) · Cidade compacta e ideal para um dia a pé",
+    "summary": {
+      "free": "5 gratuitas",
+      "priceRange": "💶 Pagas: €5 – €14",
+      "avgRating": "⭐ Nota média: 4.5"
+    },
+    "attractions": [
+      {
+        "name": "Castelo de Bratislava",
+        "category": "Castelo",
+        "paid": true,
+        "desc": "Fortaleza em forma de mesa invertida, 80m acima do Danúbio. Vista de três países (Eslováquia, Áustria, Hungria). Museu Nacional Eslovaco com história medieval no interior.",
+        "hours": "Museu: Qua–Dom 10h–18h. Terrenos: 08h–22h (gratuitos)",
+        "price": "€ 14",
+        "priceNote": "Terrenos: gratuitos. Bratislava CARD: entrada grátis",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Igreja Azul (Igreja de Santa Isabel)",
+        "category": "Igreja / gratuita",
+        "paid": false,
+        "desc": "Igreja Art Nouveau de 1913 inteiramente revestida de azul-bebê — azulejos, paredes, cúpula e ornamentos. Uma das construções mais fofinhas e fotogênicas da Europa Central.",
+        "hours": "Seg–Sáb 07h30–19h. Dom 08h30–20h (missas)",
+        "price": "Gratuito",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Centro Histórico & Estátua Čumil",
+        "category": "Centro histórico",
+        "paid": false,
+        "desc": "Casco antigo compacto com ruelas pitorescas, cafés, palacianos barrocos e a famosa estátua Čumil (\"Man at Work\") espiando da sarjeta. Bratislava tem humor. Explore a pé.",
+        "hours": "Acessível 24h",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Catedral de São Martinho",
+        "category": "Catedral gótica",
+        "paid": true,
+        "desc": "Catedral gótica do séc. XIV onde 11 reis e rainhas da Hungria foram coroados. Coroa no topo da torre e interior de mármore negro contrastante. A principal catedral da cidade.",
+        "hours": "Seg–Sáb 09h–11h30 / 13h–17h. Dom: tarde",
+        "price": "≈ €5",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Portal de Michael (Michalská brána)",
+        "category": "Torre medieval",
+        "paid": true,
+        "desc": "Única das 4 portas medievais originais ainda de pé. Subir a torre com coleção de armas e ver a Rua Michalská — uma das mais charmosas de Bratislava — é programa clássico.",
+        "hours": "Ter–Sex 10h–17h. Sáb–Dom 10h–18h",
+        "price": "≈ €5",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Palácio Primacial",
+        "category": "Palácio barroco",
+        "paid": true,
+        "desc": "Palácio neoclássico onde Napoleão e o Imperador Francisco II assinaram a Paz de Pressburg (1805). Galeria com as mais antigas tapeçarias inglesas em museu no mundo.",
+        "hours": "Ter–Dom 10h–17h",
+        "price": "≈ €5",
+        "rating": "4.3",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Torre UFO (Nový Most)",
+        "category": "Mirante",
+        "paid": true,
+        "desc": "Plataforma de observação em forma de disco voador no topo da Ponte Nova (84m). Vista 360° do Danúbio, do Castelo e da cidade. Há restaurante; o ingresso inclui consumação.",
+        "hours": "Diário 10h–23h",
+        "price": "≈ €9",
+        "priceNote": "Ingresso revertido em consumação no restaurante",
+        "rating": "4.5",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Castelo de Devín",
+        "category": "Ruínas medievais",
+        "paid": true,
+        "desc": "Ruínas dramáticas de um castelo romano e eslavo no penhasco acima da confluência do Danúbio e do Morava. Vista de três países. A 12 km do centro, vale o passeio.",
+        "hours": "Ter–Dom 10h–17h. Fechado segundas-feiras",
+        "price": "≈ €8–10",
+        "rating": "4.5",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Palácio de Grassalkovich",
+        "category": "Palácio / exterior",
+        "paid": false,
+        "desc": "Residência oficial do Presidente da Eslováquia. Palácio barroco rodeado de jardins abertos ao público — passeio gratuito e pitoresco, perto do centro histórico.",
+        "hours": "Jardins: Seg–Sex 08h–20h (verão)",
+        "price": "Jardins: gratuitos",
+        "priceNote": "Interior fechado ao público",
+        "rating": "4.3",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Memorial Slavín",
+        "category": "Memorial / gratuito",
+        "paid": false,
+        "desc": "Cemitério e memorial soviético no alto de uma colina arborizada com estátua imponente. Panorama de toda Bratislava e silêncio absoluto. Emocionante ao pôr do sol.",
+        "hours": "Diário 09h–19h (verão)",
+        "price": "Gratuito",
+        "rating": "4.4",
+        "stars": "★★★★"
+      }
+    ]
+  },
+  "vienna": {
+    "name": "Viena",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "sub": "11 atrações · Moeda: Euro (€) · Alta temporada: maio–setembro",
+    "summary": {
+      "free": "4 gratuitas",
+      "priceRange": "💶 Pagas: €14 – €44",
+      "avgRating": "⭐ Nota média: 4.7"
+    },
+    "attractions": [
+      {
+        "name": "Palácio de Schönbrunn",
+        "category": "Palácio",
+        "paid": true,
+        "desc": "Residência de verão dos Habsburgos com 1.441 salas. Jardins barrocos imensos, vista da Gloriette, labirinto e o zoológico mais antigo do mundo. Patrimônio UNESCO.",
+        "hours": "Palácio: 08h30–17h30 (Jun). Jardins: 06h30–21h (Mai–Jun)",
+        "price": "€ 22–44",
+        "priceNote": "Tour Grand (40 salas): €22 | All-inclusive verão: €44",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Catedral de São Estêvão (Stephansdom)",
+        "category": "Catedral gótica",
+        "paid": false,
+        "desc": "Ícone absoluto de Viena: telhado de telhas coloridas formando o brasão imperial, torres assimétricas, interior gótico com 3 naves e catacumbas com ossadas medievais.",
+        "hours": "Catedral: 06h00–22h00. Torres/catacumbas: a partir de 09h (pago)",
+        "price": "Nave: Grátis",
+        "priceNote": "Torres e catacumbas: €6–14 cada",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Palácio Hofburg",
+        "category": "Palácio imperial",
+        "paid": true,
+        "desc": "Sede invernal dos Habsburgos por 600 anos: Museu Sisi, Apartamentos Imperiais e a Coleção de Prata. Também abriga o Picadeiro Espanhol e a Biblioteca Nacional.",
+        "hours": "Diário 09h–17h30",
+        "price": "≈ €20",
+        "priceNote": "Sisi Museum + Aptos. Imperiais + Prata",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Palácio Belvedere (Upper Belvedere)",
+        "category": "Museu de arte",
+        "paid": true,
+        "desc": "Palácio barroco do séc. XVIII com a maior coleção de Gustav Klimt do mundo, incluindo \"O Beijo\" (1907–08). Jardins formais franceses e vista do horizonte de Viena.",
+        "hours": "Diário 09h–18h. Peak season até 19h",
+        "price": "€ 23–27",
+        "priceNote": "Upper Belvedere (inclui coleção permanente)",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Ópera Estatal de Viena (Wiener Staatsoper)",
+        "category": "Ópera",
+        "paid": true,
+        "desc": "Uma das mais prestigiadas casas de ópera do mundo. O edifício neorrenascentista de 1869 é uma visita por si só. Visitas guiadas diárias — e ingressos da \"standing area\" por €3–5!",
+        "hours": "Visitas guiadas: diário, vários horários. Temporada: set–jun. Visitas: o ano todo",
+        "price": "Visita: ≈ €15",
+        "priceNote": "Espetáculo (standing area): a partir de €3–5!",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Parque Prater & Roda-Gigante Histórica",
+        "category": "Parque",
+        "paid": true,
+        "desc": "Enorme parque público com a famosa Riesenrad (1897), roda-gigante de madeira com vistas de Viena. Cenário de \"O Terceiro Homem\" (1949). A Hauptallee tem 5km de castanheiros.",
+        "hours": "Parque: 24h (gratuito). Roda-gigante: 10h–22h",
+        "price": "Parque: Grátis",
+        "priceNote": "Roda-gigante (Riesenrad): ≈ €13",
+        "rating": "4.5",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Museu de História da Arte (KHM)",
+        "category": "Museu de arte",
+        "paid": true,
+        "desc": "Um dos maiores museus de arte do mundo: Velázquez, Vermeer, Rubens, Cellini, e a maior coleção de Bruegel. O edifício neoclássico é tão impressionante quanto as obras.",
+        "hours": "Ter–Dom 10h–18h. Qui até 21h",
+        "price": "≈ €21",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Hundertwasserhaus",
+        "category": "Arquitetura / exterior",
+        "paid": false,
+        "desc": "Prédio residencial projetado por Friedensreich Hundertwasser — sem linhas retas, cheio de cores, árvores crescendo dentro das janelas. Arte viva habitada por 200 famílias.",
+        "hours": "Vista exterior: 24h. Hundertwasser Village (loja): 10h–18h",
+        "price": "Gratuito",
+        "priceNote": "Interior privado, não visitável",
+        "rating": "4.4",
+        "stars": "★★★★"
+      },
+      {
+        "name": "Mercado Naschmarkt",
+        "category": "Mercado / gratuito",
+        "paid": false,
+        "desc": "O maior mercado de alimentos de Viena, com 120 bancas ao longo de 1,5 km. Queijos austríacos, vinhos, especiarias do mundo todo e restaurantes. Sábados: feira de antiguidades.",
+        "hours": "Seg–Sex 06h–19h30. Sáb 06h–18h (fechado domingos)",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Karlskirche (Igreja de São Carlos Borromeu)",
+        "category": "Igreja barroca",
+        "paid": true,
+        "desc": "Obra-prima barroca com colunas inspiradas na Coluna de Trajano. O elevador panorâmico DENTRO da cúpula (com os afrescos de Johann Rottmayr ao lado) é experiência única.",
+        "hours": "Seg–Sáb 09h–18h. Dom 12h–18h",
+        "price": "≈ €8",
+        "priceNote": "Inclui acesso ao elevador panorâmico",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "MuseumsQuartier (MQ)",
+        "category": "Complexo cultural",
+        "paid": false,
+        "desc": "Um dos maiores complexos culturais do mundo: MUMOK (arte moderna), Leopold Museum (Egon Schiele), Kunsthalle e espaços ao ar livre onde os vienenses relaxam nas \"enzis\" coloridas.",
+        "hours": "Complexo: 24h. Museus: geralmente 10h–18h",
+        "price": "Pátio: Grátis",
+        "priceNote": "Museus internos: €12–17 cada",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      }
+    ]
+  },
+  "budapest": {
+    "name": "Budapeste",
+    "country": "Hungria",
+    "flag": "🇭🇺",
+    "sub": "12 atrações · Moeda: Forint Húngaro (HUF) · Câmbio ≈ 1€ = 400 HUF",
+    "summary": {
+      "free": "6 gratuitas",
+      "priceRange": "💶 Pagas: €9 – €40",
+      "avgRating": "⭐ Nota média: 4.7"
+    },
+    "attractions": [
+      {
+        "name": "Parlamento de Budapeste",
+        "category": "Monumento",
+        "paid": true,
+        "desc": "Terceiro maior parlamento do mundo e o mais bonito do Danúbio — fachada neogótica de 691 salas iluminada ao pôr do sol. Interior com joias da coroa, escadaria e afrescos dourados.",
+        "hours": "Abr–Out: 08h–18h. Visitas guiadas obrigatórias; reserva antecipada recomendada",
+        "price": "≈ €35",
+        "priceNote": "Fora da UE. Cidadãos da UE: ≈ €17",
+        "rating": "4.9",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Bastião dos Pescadores",
+        "category": "Mirante",
+        "paid": true,
+        "desc": "Terraço neogótico com 7 torres (uma por tribo fundadora da Hungria). Vista mais icônica de Budapeste: o Parlamento, o Danúbio e as pontes. Ao lado da Igreja Matias.",
+        "hours": "Diário 09h–23h (terreno principal). Torres superiores: 09h–20h",
+        "price": "≈ €9",
+        "priceNote": "Acesso ao terraço principal: gratuito de manhã cedo",
+        "rating": "4.8",
+        "stars": "★★★★★"
+      },
+      {
+        "name": "Castelo de Buda",
+        "category": "Complexo histórico",
+        "paid": false,
+        "desc": "Palácio real medieval na colina de Buda, com museus dentro (Galeria Nacional e Museu de História). O Distrito do Castelo ao redor — com paralelepípedos e passeios — é o maior atrativo.",
+        "hours": "Distrito: 24h (gratuito). Museus internos: Ter–Dom 10h–18h",
+        "price": "Distrito: Grátis",
+        "priceNote": "Museus internos: ≈ €9 cada",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Termas Széchenyi",
+        "category": "Spa termal",
+        "paid": true,
+        "desc": "O maior complexo termal da Europa: 18 piscinas (3 externas) dentro de um palácio neorrococó de 1913. Águas minerais a 38°C, saunas, xadrez flutuante. Símbolo de Budapeste.",
+        "hours": "Diário 06h–22h (piscinas fecham às 20h, sex. até 22h)",
+        "price": "≈ €30–47",
+        "priceNote": "Balcão: ≈ €30 | Fast track online: ≈ €44–47",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Ponte das Correntes (Széchenyi lánchíd)",
+        "category": "Monumento / gratuita",
+        "paid": false,
+        "desc": "A ponte mais famosa da Hungria (1849), ligando Buda e Pest sobre o Danúbio. Guardada pelos famosos leões de pedra. Iluminada à noite com reflexo no rio — absolutamente cinematográfica.",
+        "hours": "Aberta 24h para pedestres",
+        "price": "Gratuito",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Basílica de Santo Estêvão",
+        "category": "Basílica",
+        "paid": false,
+        "desc": "A maior igreja de Budapeste (cúpula de 96m). Guarda a relíquia da mão mumificada do rei Santo Estêvão. Panorama da cidade do terraço da cúpula e shows de órgão regulares.",
+        "hours": "Seg–Sex 09h–17h. Cúpula: 10h–18h (pago)",
+        "price": "Nave: Grátis",
+        "priceNote": "Cúpula (terraço): ≈ €8",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Grande Mercado Municipal (Nagyvásárcsarnok)",
+        "category": "Mercado / gratuito",
+        "paid": false,
+        "desc": "Mercado coberto de 1897 com telhado de azulejos coloridos Zsolnay. Térreo: frutas, embutidos, páprica e doces. Andar superior: bares de comida, langos e souvenirs. O melhor da culinária húngara.",
+        "hours": "Seg 06h–17h | Ter–Sex 06h–18h. Sáb 06h–15h (fechado dom.)",
+        "price": "Gratuito",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Memorial dos Sapatos no Danúbio",
+        "category": "Memorial / gratuito",
+        "paid": false,
+        "desc": "60 pares de sapatos de ferro enferrujados na beira do Danúbio marcam o local onde judeus foram fuzilados pelos fascistas Arrow Cross em 1944–45. Memorial simples e devastador.",
+        "hours": "Acessível 24h",
+        "price": "Gratuito",
+        "rating": "4.8",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Ruin Bars — Szimpla Kert",
+        "category": "Cultura / bar",
+        "paid": false,
+        "desc": "Fenômeno cultural único: bares instalados em prédios em ruína do bairro judeu (VII Distrito). Szimpla Kert é o mais famoso do mundo. Arte, plantas, carros velhos e cervejas artesanais.",
+        "hours": "Szimpla: Seg–Qui 12h–04h. Sex–Sáb 12h–06h | Dom (mercado): 09h–14h",
+        "price": "Entrada gratuita",
+        "priceNote": "Consumação a partir de €2 (cervejas)",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Colina Gellért & Cidadela",
+        "category": "Mirante / gratuito",
+        "paid": false,
+        "desc": "Colina de 235m com a Estátua da Liberdade dourada no topo. Vista mais completa de Budapeste: dois lados do Danúbio, todas as pontes, o Parlamento e o Castelo de Buda.",
+        "hours": "Acessível 24h (a pé ou táxi)",
+        "price": "Gratuito",
+        "rating": "4.7",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Ilha Margarida (Margit-sziget)",
+        "category": "Parque / gratuito",
+        "paid": false,
+        "desc": "Ilha verde de 2,5 km no meio do Danúbio: jardins, ruínas medievais, fontes musicais, piscinas termais e ciclismo. O pulmão de Budapeste, amado pelos locais e invisível aos guias rápidos.",
+        "hours": "Parque: 24h. Fontes musicais: 21h (noite)",
+        "price": "Acesso: gratuito",
+        "priceNote": "Piscinas termais da ilha: ≈ €10",
+        "rating": "4.6",
+        "stars": "★★★★½"
+      },
+      {
+        "name": "Castelo de Vajdahunyad",
+        "category": "Castelo / gratuito",
+        "paid": false,
+        "desc": "Castelo eclético no Parque da Cidade construído para a exposição do Milênio (1896), misturando estilos românico, gótico, renascentista e barroco. Conto de fadas de tijolos junto ao lago.",
+        "hours": "Exterior: 24h (gratuito). Museu de Agricultura interior: Ter–Dom 10h–17h",
+        "price": "Exterior: gratuito",
+        "priceNote": "Museu interior: ≈ €5",
+        "rating": "4.6",
+        "stars": "★★★★"
+      }
+    ]
+  }
+}

@@ -1,0 +1,715 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--font-sans); }
+  .wrap { padding: 1rem 0; }
+  .city-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1.5rem; }
+  .tab-btn {
+    padding: 7px 14px; border-radius: 999px; border: 0.5px solid var(--color-border-secondary);
+    background: var(--color-background-primary); color: var(--color-text-secondary);
+    font-size: 13px; cursor: pointer; transition: all 0.15s;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .tab-btn:hover { background: var(--color-background-secondary); color: var(--color-text-primary); }
+  .tab-btn.active { background: var(--color-background-info); color: var(--color-text-info); border-color: var(--color-border-info); font-weight: 500; }
+  .flag { font-size: 15px; }
+  .city-section { display: none; }
+  .city-section.active { display: block; }
+  .city-header { margin-bottom: 1rem; }
+  .city-title { font-size: 18px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 4px; }
+  .city-sub { font-size: 13px; color: var(--color-text-secondary); }
+  .table-wrap { overflow-x: auto; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 700px; }
+  thead th {
+    background: var(--color-background-secondary); padding: 10px 12px;
+    text-align: left; font-weight: 500; font-size: 12px; color: var(--color-text-secondary);
+    border-bottom: 0.5px solid var(--color-border-tertiary); text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  tbody tr { border-bottom: 0.5px solid var(--color-border-tertiary); transition: background 0.1s; }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--color-background-secondary); }
+  tbody td { padding: 10px 12px; vertical-align: top; color: var(--color-text-primary); line-height: 1.5; }
+  .attr-name { font-weight: 500; font-size: 13px; margin-bottom: 2px; }
+  .attr-badge { display: inline-block; font-size: 10px; padding: 2px 7px; border-radius: 999px; margin-top: 3px; }
+  .badge-free { background: #EAF3DE; color: #3B6D11; }
+  .badge-paid { background: #E6F1FB; color: #185FA5; }
+  .badge-tip { background: #FAEEDA; color: #854F0B; }
+  .stars { color: #EF9F27; font-size: 13px; }
+  .stars-num { font-size: 12px; color: var(--color-text-secondary); margin-left: 2px; }
+  .price { font-weight: 500; }
+  .price-free { color: #3B6D11; }
+  .price-paid { color: var(--color-text-primary); }
+  .desc { font-size: 12px; color: var(--color-text-secondary); line-height: 1.5; }
+  .hours { font-size: 12px; color: var(--color-text-secondary); }
+  .note { font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px; font-style: italic; }
+  .summary-bar { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 1.25rem; }
+  .summary-pill { font-size: 12px; padding: 4px 12px; border-radius: 999px; border: 0.5px solid var(--color-border-tertiary); color: var(--color-text-secondary); background: var(--color-background-secondary); }
+  .col-name { width: 18%; }
+  .col-desc { width: 30%; }
+  .col-hours { width: 18%; }
+  .col-price { width: 18%; }
+  .col-nota { width: 16%; }
+</style>
+
+<div class="wrap">
+  <h2 class="sr-only">Guia turístico interativo: Istambul, Berlim, Praga, Bratislava, Viena e Budapeste</h2>
+  <div class="city-tabs">
+    <button class="tab-btn active" onclick="show('istanbul')"><span class="flag">🇹🇷</span> Istambul</button>
+    <button class="tab-btn" onclick="show('berlin')"><span class="flag">🇩🇪</span> Berlim</button>
+    <button class="tab-btn" onclick="show('prague')"><span class="flag">🇨🇿</span> Praga</button>
+    <button class="tab-btn" onclick="show('bratislava')"><span class="flag">🇸🇰</span> Bratislava</button>
+    <button class="tab-btn" onclick="show('vienna')"><span class="flag">🇦🇹</span> Viena</button>
+    <button class="tab-btn" onclick="show('budapest')"><span class="flag">🇭🇺</span> Budapeste</button>
+  </div>
+
+  <!-- ISTANBUL -->
+  <div class="city-section active" id="istanbul">
+    <div class="city-header">
+      <div class="city-title">🇹🇷 Istambul, Turquia</div>
+      <div class="city-sub">14 atrações · Moeda local: Lira Turca (TRY) · Valores convertidos para € (referência alta temporada 2026)</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 5 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €8 – €45</span>
+      <span class="summary-pill">⭐ Nota média: 4.7</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Hagia Sophia (Basílica de Santa Sofia)</div><span class="attr-badge badge-paid">Monumento</span></td>
+            <td><div class="desc">Obra-prima do séc. VI que foi catedral, museu e mesquita. Cúpula de 31m, mosaicos bizantinos e fusão única de símbolos cristãos e islâmicos.</div></td>
+            <td><div class="hours">Diário, 08h30–17h00<br><span class="note">Fecha para visitantes durante as orações (sex. 12h–14h30)</span></div></td>
+            <td><div class="price price-paid">€ 25</div><div class="note">Crianças -8 anos: grátis</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Mesquita Azul (Sultan Ahmed)</div><span class="attr-badge badge-free">Entrada gratuita</span></td>
+            <td><div class="desc">Única mesquita de Istambul com 6 minaretes. Interior revestido com 20.000 azulejos İznik azul-celestes. Ícone absoluto da skyline da Sultanahmet.</div></td>
+            <td><div class="hours">Diário exceto sex. (fechada na oração do meio-dia)<br>08h30–11h30 / 13h00–14h30 / 15h30–17h00</div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Traje modesto obrigatório; lenço fornecido</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio Topkapi</div><span class="attr-badge badge-paid">Museu</span></td>
+            <td><div class="desc">Sede do poder otomano por 400 anos. Harem, joias imperiais, o Diamante do Colhereiro e vista panorâmica do Bósforo de dentro do palácio.</div></td>
+            <td><div class="hours">09h00–18h00<br><span class="note">Fechado às terças-feiras</span></div></td>
+            <td><div class="price price-paid">≈ €45</div><div class="note">Ingresso combinado Palácio + Harem + Hagia Irene</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Grande Bazar (Kapalı Çarşı)</div><span class="attr-badge badge-free">Entrada gratuita</span></td>
+            <td><div class="desc">Um dos maiores mercados cobertos do mundo: 4.000 lojas, tapetes, especiarias, joias e cerâmicas. Experiência sensorial e cultural insubstituível.</div></td>
+            <td><div class="hours">Seg–Sáb 08h30–19h00<br><span class="note">Fechado domingos e feriados religiosos</span></div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Cisterna da Basílica</div><span class="attr-badge badge-paid">Patrimônio</span></td>
+            <td><div class="desc">Reservatório subterrâneo do séc. VI com 336 colunas iluminadas e as misteriosas cabeças de Medusa. Ambiente único e muito fotogênico.</div></td>
+            <td><div class="hours">Diário 09h00–22h00<br><span class="note">Última entrada 21h00</span></div></td>
+            <td><div class="price price-paid">≈ €17</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Cruzeiro pelo Bósforo</div><span class="attr-badge badge-paid">Passeio</span></td>
+            <td><div class="desc">Única cidade do mundo em dois continentes: o cruzeiro revela palácios, fortalezas, pontes e a transição entre Europa e Ásia pelo estreito.</div></td>
+            <td><div class="hours">Embarcações ao longo do dia a partir de Eminönü<br><span class="note">Opções de 1h30 a tour completo de 6h</span></div></td>
+            <td><div class="price price-paid">€ 10–25</div><div class="note">Ferry público da şehir hatları ≈ €3</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Torre de Gálata</div><span class="attr-badge badge-paid">Mirante</span></td>
+            <td><div class="desc">Torre medieval de 67m no bairro de Beyoğlu. Vista panorâmica 360° de Istambul e do Bósforo, especialmente mágica ao pôr do sol.</div></td>
+            <td><div class="hours">Diário 08h30–22h00</div></td>
+            <td><div class="price price-paid">≈ €20</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio Dolmabahçe</div><span class="attr-badge badge-paid">Palácio</span></td>
+            <td><div class="desc">Palácio neoclássico à beira do Bósforo com 285 salas e o maior lustre de cristal do mundo. Residência final de Atatürk, que faleceu aqui em 1938.</div></td>
+            <td><div class="hours">09h00–16h00<br><span class="note">Fechado seg. e sex. de manhã</span></div></td>
+            <td><div class="price price-paid">≈ €22</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Bazar das Especiarias (Mısır Çarşısı)</div><span class="attr-badge badge-free">Entrada gratuita</span></td>
+            <td><div class="desc">Mercado coberto do séc. XVII junto ao porto. Aromas intensos de chás, temperos, Turkish Delight e dried fruits. Mais compacto e autêntico que o Grande Bazar.</div></td>
+            <td><div class="hours">Diário 08h00–19h30</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Lado Asiático — Kadıköy & Moda</div><span class="attr-badge badge-free">Bairro</span></td>
+            <td><div class="desc">Istambul além do turismo: bairros boêmios com mercados de rua, cafés independentes, art déco e a atmosfera que os locais realmente vivem. Ferry imperdível.</div></td>
+            <td><div class="hours">Bairro acessível 24h<br><span class="note">Ferry de Eminönü ≈ €1</span></div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Custo do ferry ≈ €1</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Bairros de Balat & Fener</div><span class="attr-badge badge-free">Bairro histórico</span></td>
+            <td><div class="desc">Bairros à beira do Corno de Ouro com casas coloridas, igrejas ortodoxas, sinagogas e mesquitas lado a lado. O Istambul multicultural e fotogênico.</div></td>
+            <td><div class="hours">Bairro aberto 24h<br><span class="note">Melhor visitado de manhã cedo</span></div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Mesquita de Süleymaniye</div><span class="attr-badge badge-free">Entrada gratuita</span></td>
+            <td><div class="desc">Obra-prima do arquiteto Sinan (séc. XVI), considerada a mais bela de Istambul. Vista deslumbrante do Corno de Ouro. Muito menos lotada que a Mesquita Azul.</div></td>
+            <td><div class="hours">Diário (exceto durante orações)<br>08h30–17h00</div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Traje modesto obrigatório</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Colina de Pierre Loti</div><span class="attr-badge badge-tip">Teleférico pago</span></td>
+            <td><div class="desc">Vista panorâmica do Corno de Ouro a partir de uma colina arborizada com cafés tradicionais. O teleférico é parte do charme. Perfeito para o fim do dia.</div></td>
+            <td><div class="hours">Teleférico: 08h00–22h00</div></td>
+            <td><div class="price price-paid">≈ €1</div><div class="note">Teleférico (Eyüp Sultan)</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Mesquita de Ortaköy</div><span class="attr-badge badge-free">Entrada gratuita</span></td>
+            <td><div class="desc">Pequena mesquita neobizantina à beira-mar com a Ponte do Bósforo ao fundo — a foto mais icônica de Istambul moderna. Bairro vibrante ao redor.</div></td>
+            <td><div class="hours">Diário (exceto durante orações)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.5</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- BERLIN -->
+  <div class="city-section" id="berlin">
+    <div class="city-header">
+      <div class="city-title">🇩🇪 Berlim, Alemanha</div>
+      <div class="city-sub">11 atrações · Moeda: Euro (€) · Alta temporada: abril–outubro</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 7 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €8 – €24</span>
+      <span class="summary-pill">⭐ Nota média: 4.7</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Portão de Brandemburgo</div><span class="attr-badge badge-free">Monumento / gratuito</span></td>
+            <td><div class="desc">Símbolo máximo da reunificação alemã e da Europa. Marco histórico por onde o Muro de Berlim corria. Impactante de dia e à noite, iluminado.</div></td>
+            <td><div class="hours">Acessível 24h / 7 dias</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Reichstag — Cúpula de Vidro</div><span class="attr-badge badge-free">Reserva obrigatória</span></td>
+            <td><div class="desc">Parlamento alemão com cúpula de vidro projetada por Norman Foster. Vista 360° de Berlim e metáfora da transparência democrática. Experiência gratuita única.</div></td>
+            <td><div class="hours">Diário 08h00–00h00<br><span class="note">Última entrada 21h45 — reserva antecipada OBRIGATÓRIA</span></div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Cadastro online obrigatório em bundestag.de</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Memorial do Muro de Berlim (Gedenkstätte Berliner Mauer)</div><span class="attr-badge badge-free">Memorial / gratuito</span></td>
+            <td><div class="desc">O único trecho preservado autêntico do Muro com a "faixa da morte" intacta na Bernauer Straße. Centro de documentação com histórias reais de fuga.</div></td>
+            <td><div class="hours">Área externa: 24h<br>Centro doc.: Ter–Dom 10h–18h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">East Side Gallery</div><span class="attr-badge badge-free">Arte / gratuito</span></td>
+            <td><div class="desc">1,3 km de murais pintados por artistas de 21 países diretamente no Muro original após a queda. O maior monumento ao ar livre de Berlim, incluindo o famoso "Beijo".</div></td>
+            <td><div class="hours">Acessível 24h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ilha dos Museus (Museumsinsel)</div><span class="attr-badge badge-paid">Museus</span></td>
+            <td><div class="desc">5 museus Património UNESCO: Neues Museum (Nefertiti), Altes Museum, Alte Nationalgalerie, Bode-Museum e Pergamon (em renovação até 2027 — Das Panorama aberto).</div></td>
+            <td><div class="hours">Ter–Dom 10h–18h<br><span class="note">Pergamon Das Panorama: Ter–Dom 10h–18h</span></div></td>
+            <td><div class="price price-paid">€ 24 (day ticket)</div><div class="note">Pergamon Panorama isolado: €14</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Checkpoint Charlie</div><span class="attr-badge badge-free">Memorial histórico</span></td>
+            <td><div class="desc">Antigo posto de controle americano durante a Guerra Fria. Ponto onde tanques soviéticos e americanos se confrontaram em 1961. Memorial e museu no local.</div></td>
+            <td><div class="hours">Memorial: 24h<br>Museu: 09h00–22h00 diário</div></td>
+            <td><div class="price price-free">Memorial: gratuito</div><div class="note">Museu Mauermuseum: ≈€15</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Memorial aos Judeus Mortos da Europa</div><span class="attr-badge badge-free">Memorial / gratuito</span></td>
+            <td><div class="desc">2.711 estelas de concreto de alturas variadas formam labirinto perturbador. Um dos memoriais ao Holocausto mais poderosos do mundo, projetado por Peter Eisenman.</div></td>
+            <td><div class="hours">Estelas: 24h<br>Centro de Informações: Ter–Dom 10h–20h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Torre de TV (Fernsehturm)</div><span class="attr-badge badge-paid">Mirante</span></td>
+            <td><div class="desc">368m de altura — a mais alta da Alemanha. Mirante e restaurante giratório com vista de 360° sobre toda Berlim. Símbolo da ex-Berlim Oriental.</div></td>
+            <td><div class="hours">Mar–Out: 09h00–23h00<br><span class="note">Última entrada 22h30</span></div></td>
+            <td><div class="price price-paid">≈ €22–26</div><div class="note">Recomenda-se reserva antecipada online</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Tempelhofer Feld</div><span class="attr-badge badge-free">Parque / gratuito</span></td>
+            <td><div class="desc">Antigo aeroporto de Tempelhof (1923) transformado em parque urbano gigante. Berlinenses andam de bicicleta, voam pipas e fazem piquenique nas pistas originais.</div></td>
+            <td><div class="hours">Aberto do amanhecer ao anoitecer</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio de Charlottenburg</div><span class="attr-badge badge-paid">Palácio</span></td>
+            <td><div class="desc">O maior palácio de Berlim, barroco e rodeado de jardins. Apartamentos de Frederico o Grande, porcelanas prussianas e o charmoso Pavilhão de Chá à beira do lago.</div></td>
+            <td><div class="hours">Ter–Dom 10h–17h30<br><span class="note">Fechado segundas-feiras</span></div></td>
+            <td><div class="price price-paid">€ 8–14</div><div class="note">Depende das alas visitadas</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Igreja Memorial Kaiser Wilhelm & Mauerpark</div><span class="attr-badge badge-free">Monumento + Mercado</span></td>
+            <td><div class="desc">As ruínas da Igreja Kaiser Wilhelm (1895) preservadas como memorial antiguerra, no coração da Ku'damm. Mauerpark: mercado de pulgas dominical e karaokê ao ar livre.</div></td>
+            <td><div class="hours">Igreja: Seg–Sáb 10h–18h (gratuita)<br>Mauerpark: domingo, manhã–16h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.5</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- PRAGUE -->
+  <div class="city-section" id="prague">
+    <div class="city-header">
+      <div class="city-title">🇨🇿 Praga, República Checa</div>
+      <div class="city-sub">11 atrações · Moeda: Coroa Tcheca (CZK) · Valores convertidos para € (câmbio ≈ 1€ = 25 CZK)</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 5 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €5 – €18</span>
+      <span class="summary-pill">⭐ Nota média: 4.7</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Castelo de Praga</div><span class="attr-badge badge-paid">Complexo histórico</span></td>
+            <td><div class="desc">Maior complexo de castelos antigos do mundo, Património UNESCO. Reúne a Catedral de São Vito, Palácio Real, Basílica de São Jorge e a Rua Dourada numa só visita.</div></td>
+            <td><div class="hours">Abr–Out: 09h00–17h00 diário<br>Terrenos externos: 06h–22h</div></td>
+            <td><div class="price price-paid">≈ €14–18</div><div class="note">Circuito B (principal). Terrenos: gratuitos</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ponte Carlos (Charles Bridge)</div><span class="attr-badge badge-free">Monumento / gratuito</span></td>
+            <td><div class="desc">Ponte gótica do séc. XIV com 30 estátuas barrocas sobre o Rio Moldava. Ao amanhecer, é quase mágica — sem as multidões do dia. A mais fotogênica de Praga.</div></td>
+            <td><div class="hours">Aberta 24h<br><span class="note">Torres da ponte: 09h–20h30 (verão) / €5</span></div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Torre Velha da Cidade: ≈ €8</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Praça da Cidade Velha & Relógio Astronômico</div><span class="attr-badge badge-free">Praça histórica</span></td>
+            <td><div class="desc">Coração medieval de Praga. O Relógio Astronômico de 1410 exibe seu espetáculo de figuras a cada hora cheia. Em volta: igrejas barrocas, casas renascentistas e mercados.</div></td>
+            <td><div class="hours">Praça: 24h | Relógio: espetáculo a cada hora<br>Torre do Relógio: 09h–21h (€14)</div></td>
+            <td><div class="price price-free">Praça: gratuita</div><div class="note">Torre do Relógio: ≈ €14</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Catedral de São Vito</div><span class="attr-badge badge-paid">Catedral gótica</span></td>
+            <td><div class="desc">Catedral gótica dentro do Castelo de Praga, com as joias da coroa da Boêmia e vitais janelas de vitrais Art Nouveau criados por Alfons Mucha. Obra de 600 anos.</div></td>
+            <td><div class="hours">Abr–Out: 09h00–17h00<br>(incluída no ingresso do Castelo)</div></td>
+            <td><div class="price price-paid">Incluída no ingresso do Castelo (≈€14–18)</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Bairro Judeu — Josefov</div><span class="attr-badge badge-paid">Patrimônio</span></td>
+            <td><div class="desc">Um dos guetos judeus mais bem preservados da Europa: 6 sinagogas históricas, o Velho Cemitério Judeu com lápides sobrepostas por séculos e a conexão com a lenda do Golem.</div></td>
+            <td><div class="hours">Dom–Sex 09h–18h<br><span class="note">Fechado aos sábados (Shabat) e feriados judeus</span></div></td>
+            <td><div class="price price-paid">≈ €16</div><div class="note">Bilhete conjunto para todas as sinagoras</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Torre de Petřín</div><span class="attr-badge badge-paid">Mirante</span></td>
+            <td><div class="desc">Miniatura da Torre Eiffel (60m) no topo de uma colina verde. Com funicular histórico e jardins floridos, oferece a melhor vista panorâmica de Praga sem multidões excessivas.</div></td>
+            <td><div class="hours">Diário 09h00–21h00<br>Funicular: 09h–23h20</div></td>
+            <td><div class="price price-paid">≈ €8</div><div class="note">Funicular incluso no bilhete de transporte público</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Muro de John Lennon</div><span class="attr-badge badge-free">Monumento / gratuito</span></td>
+            <td><div class="desc">Muro coberto de grafite e letras de música dos Beatles, símbolo de resistência pacífica durante o comunismo. Vive em constante renovação pelos visitantes — traga uma caneta!</div></td>
+            <td><div class="hours">Acessível 24h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Casa Dançante (Tančící dům)</div><span class="attr-badge badge-free">Arquitetura</span></td>
+            <td><div class="desc">Edifício desconstrucionista de Frank Gehry (1996), apelidade de "Fred & Ginger". Contraste marcante com a arquitetura Art Nouveau vizinha — e há um bar no topo.</div></td>
+            <td><div class="hours">Vista exterior: 24h<br>Bar no topo: 10h–23h</div></td>
+            <td><div class="price price-free">Vista exterior: gratuita</div><div class="note">Bar no topo: consumação livre</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Fortaleza de Vyšehrad</div><span class="attr-badge badge-free">Fortaleza / gratuita</span></td>
+            <td><div class="desc">Cidadela medieval com cemitério nacional (Smetana, Dvořák enterrados aqui), basílica românica e vistas do Rio Moldava sem turistas. A Praga que os locais preferem.</div></td>
+            <td><div class="hours">Terrenos: 24h<br>Igrejas: 09h30–18h</div></td>
+            <td><div class="price price-free">Gratuito</div><div class="note">Galerias internas: ≈ €4</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Mosteiro de Strahov / Biblioteca Klementinum</div><span class="attr-badge badge-paid">Biblioteca histórica</span></td>
+            <td><div class="desc">Biblioteca Barroca e Filosófica do Mosteiro de Strahov: uma das mais belas do mundo, com globos históricos e tetos pintados. Klementinum: salão barroco igualmente deslumbrante.</div></td>
+            <td><div class="hours">Diário 09h–17h (Strahov)<br>Klementinum: visitas guiadas a cada hora</div></td>
+            <td><div class="price price-paid">Strahov: ≈ €7<br>Klementinum: ≈ €12</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Parque Letná</div><span class="attr-badge badge-free">Parque / gratuito</span></td>
+            <td><div class="desc">Parque no alto de uma falésia com a vista mais bonita da Cidade Velha e dos telhados de Praga. Beer garden ao ar livre amado pelos locais. Relaxante e autêntico.</div></td>
+            <td><div class="hours">Parque: 24h<br>Beer garden: 11h–22h (verão)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- BRATISLAVA -->
+  <div class="city-section" id="bratislava">
+    <div class="city-header">
+      <div class="city-title">🇸🇰 Bratislava, Eslováquia</div>
+      <div class="city-sub">10 atrações · Moeda: Euro (€) · Cidade compacta e ideal para um dia a pé</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 5 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €5 – €14</span>
+      <span class="summary-pill">⭐ Nota média: 4.5</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Castelo de Bratislava</div><span class="attr-badge badge-paid">Castelo</span></td>
+            <td><div class="desc">Fortaleza em forma de mesa invertida, 80m acima do Danúbio. Vista de três países (Eslováquia, Áustria, Hungria). Museu Nacional Eslovaco com história medieval no interior.</div></td>
+            <td><div class="hours">Museu: Qua–Dom 10h–18h<br>Terrenos: 08h–22h (gratuitos)</div></td>
+            <td><div class="price price-paid">€ 14</div><div class="note">Terrenos: gratuitos. Bratislava CARD: entrada grátis</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Igreja Azul (Igreja de Santa Isabel)</div><span class="attr-badge badge-free">Igreja / gratuita</span></td>
+            <td><div class="desc">Igreja Art Nouveau de 1913 inteiramente revestida de azul-bebê — azulejos, paredes, cúpula e ornamentos. Uma das construções mais fofinhas e fotogênicas da Europa Central.</div></td>
+            <td><div class="hours">Seg–Sáb 07h30–19h<br>Dom 08h30–20h (missas)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Centro Histórico & Estátua Čumil</div><span class="attr-badge badge-free">Centro histórico</span></td>
+            <td><div class="desc">Casco antigo compacto com ruelas pitorescas, cafés, palacianos barrocos e a famosa estátua Čumil ("Man at Work") espiando da sarjeta. Bratislava tem humor. Explore a pé.</div></td>
+            <td><div class="hours">Acessível 24h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Catedral de São Martinho</div><span class="attr-badge badge-paid">Catedral gótica</span></td>
+            <td><div class="desc">Catedral gótica do séc. XIV onde 11 reis e rainhas da Hungria foram coroados. Coroa no topo da torre e interior de mármore negro contrastante. A principal catedral da cidade.</div></td>
+            <td><div class="hours">Seg–Sáb 09h–11h30 / 13h–17h<br>Dom: tarde</div></td>
+            <td><div class="price price-paid">≈ €5</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Portal de Michael (Michalská brána)</div><span class="attr-badge badge-paid">Torre medieval</span></td>
+            <td><div class="desc">Única das 4 portas medievais originais ainda de pé. Subir a torre com coleção de armas e ver a Rua Michalská — uma das mais charmosas de Bratislava — é programa clássico.</div></td>
+            <td><div class="hours">Ter–Sex 10h–17h<br>Sáb–Dom 10h–18h</div></td>
+            <td><div class="price price-paid">≈ €5</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio Primacial</div><span class="attr-badge badge-paid">Palácio barroco</span></td>
+            <td><div class="desc">Palácio neoclássico onde Napoleão e o Imperador Francisco II assinaram a Paz de Pressburg (1805). Galeria com as mais antigas tapeçarias inglesas em museu no mundo.</div></td>
+            <td><div class="hours">Ter–Dom 10h–17h</div></td>
+            <td><div class="price price-paid">≈ €5</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.3</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Torre UFO (Nový Most)</div><span class="attr-badge badge-paid">Mirante</span></td>
+            <td><div class="desc">Plataforma de observação em forma de disco voador no topo da Ponte Nova (84m). Vista 360° do Danúbio, do Castelo e da cidade. Há restaurante; o ingresso inclui consumação.</div></td>
+            <td><div class="hours">Diário 10h–23h</div></td>
+            <td><div class="price price-paid">≈ €9</div><div class="note">Ingresso revertido em consumação no restaurante</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Castelo de Devín</div><span class="attr-badge badge-paid">Ruínas medievais</span></td>
+            <td><div class="desc">Ruínas dramáticas de um castelo romano e eslavo no penhasco acima da confluência do Danúbio e do Morava. Vista de três países. A 12 km do centro, vale o passeio.</div></td>
+            <td><div class="hours">Ter–Dom 10h–17h<br><span class="note">Fechado segundas-feiras</span></div></td>
+            <td><div class="price price-paid">≈ €8–10</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio de Grassalkovich</div><span class="attr-badge badge-free">Palácio / exterior</span></td>
+            <td><div class="desc">Residência oficial do Presidente da Eslováquia. Palácio barroco rodeado de jardins abertos ao público — passeio gratuito e pitoresco, perto do centro histórico.</div></td>
+            <td><div class="hours">Jardins: Seg–Sex 08h–20h (verão)</div></td>
+            <td><div class="price price-free">Jardins: gratuitos</div><div class="note">Interior fechado ao público</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.3</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Memorial Slavín</div><span class="attr-badge badge-free">Memorial / gratuito</span></td>
+            <td><div class="desc">Cemitério e memorial soviético no alto de uma colina arborizada com estátua imponente. Panorama de toda Bratislava e silêncio absoluto. Emocionante ao pôr do sol.</div></td>
+            <td><div class="hours">Diário 09h–19h (verão)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- VIENNA -->
+  <div class="city-section" id="vienna">
+    <div class="city-header">
+      <div class="city-title">🇦🇹 Viena, Áustria</div>
+      <div class="city-sub">11 atrações · Moeda: Euro (€) · Alta temporada: maio–setembro</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 4 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €14 – €44</span>
+      <span class="summary-pill">⭐ Nota média: 4.7</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Palácio de Schönbrunn</div><span class="attr-badge badge-paid">Palácio</span></td>
+            <td><div class="desc">Residência de verão dos Habsburgos com 1.441 salas. Jardins barrocos imensos, vista da Gloriette, labirinto e o zoológico mais antigo do mundo. Patrimônio UNESCO.</div></td>
+            <td><div class="hours">Palácio: 08h30–17h30 (Jun)<br>Jardins: 06h30–21h (Mai–Jun)</div></td>
+            <td><div class="price price-paid">€ 22–44</div><div class="note">Tour Grand (40 salas): €22 | All-inclusive verão: €44</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Catedral de São Estêvão (Stephansdom)</div><span class="attr-badge badge-free">Catedral gótica</span></td>
+            <td><div class="desc">Ícone absoluto de Viena: telhado de telhas coloridas formando o brasão imperial, torres assimétrica, interior gótico com 3 naves e catacumbas com ossadas medievais.</div></td>
+            <td><div class="hours">Catedral: 06h00–22h00<br>Torres/catacumbas: a partir de 09h (pago)</div></td>
+            <td><div class="price price-free">Nave central: gratuita</div><div class="note">Torres e catacumbas: €6–14 cada</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio Hofburg</div><span class="attr-badge badge-paid">Palácio imperial</span></td>
+            <td><div class="desc">Sede invernal dos Habsburgos por 600 anos: Museu Sisi, Apartamentos Imperiais e a Coleção de Prata. Também abriga o Picadeiro Espanhol e a Biblioteca Nacional.</div></td>
+            <td><div class="hours">Diário 09h–17h30</div></td>
+            <td><div class="price price-paid">≈ €20</div><div class="note">Sisi Museum + Aptos. Imperiais + Prata</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Palácio Belvedere (Upper Belvedere)</div><span class="attr-badge badge-paid">Museu de arte</span></td>
+            <td><div class="desc">Palácio barroco do séc. XVIII com a maior coleção de Gustav Klimt do mundo, incluindo "O Beijo" (1907–08). Jardins formais franceses e vista do horizonte de Viena.</div></td>
+            <td><div class="hours">Diário 09h–18h<br><span class="note">Peak season até 19h</span></div></td>
+            <td><div class="price price-paid">€ 23–27</div><div class="note">Upper Belvedere (inclui coleção permanente)</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ópera Estatal de Viena (Wiener Staatsoper)</div><span class="attr-badge badge-paid">Ópera</span></td>
+            <td><div class="desc">Uma das mais prestigiadas casas de ópera do mundo. O edifício neorrenascentista de 1869 é uma visita por si só. Visitas guiadas diárias — e ingressos da "standing area" por €3–5!</div></td>
+            <td><div class="hours">Visitas guiadas: diário, vários horários<br><span class="note">Temporada: set–jun. Visitas: o ano todo</span></div></td>
+            <td><div class="price price-paid">Visita guiada: ≈ €15</div><div class="note">Espetáculo (standing area): a partir de €3–5!</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Parque Prater & Roda-Gigante Histórica</div><span class="attr-badge badge-paid">Parque</span></td>
+            <td><div class="desc">Enorme parque público com a famosa Riesenrad (1897), roda-gigante de madeira com vistas de Viena. Cenário de "O Terceiro Homem" (1949). A Hauptallee tem 5km de castanheiros.</div></td>
+            <td><div class="hours">Parque: 24h (gratuito)<br>Roda-gigante: 10h–22h</div></td>
+            <td><div class="price price-free">Parque: gratuito</div><div class="note">Roda-gigante (Riesenrad): ≈ €13</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.5</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Museu de História da Arte (KHM)</div><span class="attr-badge badge-paid">Museu de arte</span></td>
+            <td><div class="desc">Um dos maiores museus de arte do mundo: Velázquez, Vermeer, Rubens, Cellini, e a maior coleção de Bruegel. O edifício neoclássico é tão impressionante quanto as obras.</div></td>
+            <td><div class="hours">Ter–Dom 10h–18h<br>Qui até 21h</div></td>
+            <td><div class="price price-paid">≈ €21</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Hundertwasserhaus</div><span class="attr-badge badge-free">Arquitetura / exterior</span></td>
+            <td><div class="desc">Prédio residencial projetado por Friedensreich Hundertwasser — sem linhas retas, cheio de cores, árvores crescendo dentro das janelas. Arte viva habitada por 200 famílias.</div></td>
+            <td><div class="hours">Vista exterior: 24h<br>Hundertwasser Village (loja): 10h–18h</div></td>
+            <td><div class="price price-free">Exterior: gratuito</div><div class="note">Interior privado, não visitável</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.4</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Mercado Naschmarkt</div><span class="attr-badge badge-free">Mercado / gratuito</span></td>
+            <td><div class="desc">O maior mercado de alimentos de Viena, com 120 bancas ao longo de 1,5 km. Queijos austríacos, vinhos, especiarias do mundo todo e restaurantes. Sábados: feira de antiguidades.</div></td>
+            <td><div class="hours">Seg–Sex 06h–19h30<br>Sáb 06h–18h (fechado domingos)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Karlskirche (Igreja de São Carlos Borromeu)</div><span class="attr-badge badge-paid">Igreja barroca</span></td>
+            <td><div class="desc">Obra-prima barroca com colunas inspiradas na Coluna de Trajano. O elevador panorâmico DENTRO da cúpula (com os afrescos de Johann Rottmayr ao lado) é experiência única.</div></td>
+            <td><div class="hours">Seg–Sáb 09h–18h<br>Dom 12h–18h</div></td>
+            <td><div class="price price-paid">≈ €8</div><div class="note">Inclui acesso ao elevador panorâmico</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">MuseumsQuartier (MQ)</div><span class="attr-badge badge-free">Complexo cultural</span></td>
+            <td><div class="desc">Um dos maiores complexos culturais do mundo: MUMOK (arte moderna), Leopold Museum (Egon Schiele), Kunsthalle e espaços ao ar livre onde os vienenses relaxam nas "enzis" coloridas.</div></td>
+            <td><div class="hours">Complexo: 24h<br>Museus: geralmente 10h–18h</div></td>
+            <td><div class="price price-free">Pátio externo: gratuito</div><div class="note">Museus internos: €12–17 cada</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- BUDAPEST -->
+  <div class="city-section" id="budapest">
+    <div class="city-header">
+      <div class="city-title">🇭🇺 Budapeste, Hungria</div>
+      <div class="city-sub">12 atrações · Moeda: Forint Húngaro (HUF) · Câmbio ≈ 1€ = 400 HUF</div>
+    </div>
+    <div class="summary-bar">
+      <span class="summary-pill">🆓 6 gratuitas</span>
+      <span class="summary-pill">💶 Pagas: €9 – €40</span>
+      <span class="summary-pill">⭐ Nota média: 4.7</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>
+          <th class="col-name">Atração</th>
+          <th class="col-desc">Por que é imperdível</th>
+          <th class="col-hours">Horário (alta temp.)</th>
+          <th class="col-price">Ingresso (€)</th>
+          <th class="col-nota">Avaliação</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td><div class="attr-name">Parlamento de Budapeste</div><span class="attr-badge badge-paid">Monumento</span></td>
+            <td><div class="desc">Terceiro maior parlamento do mundo e o mais bonito do Danúbio — fachada neogótica de 691 salas iluminada ao pôr do sol. Interior com joias da coroa, escadaria e afrescos dourados.</div></td>
+            <td><div class="hours">Abr–Out: 08h–18h<br><span class="note">Visitas guiadas obrigatórias; reserva antecipada recomendada</span></div></td>
+            <td><div class="price price-paid">≈ €35</div><div class="note">Fora da UE. Cidadãos da UEE: ≈ €17</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.9</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Bastião dos Pescadores</div><span class="attr-badge badge-paid">Mirante</span></td>
+            <td><div class="desc">Terraço neogótico com 7 torres (uma por tribo fundadora da Hungria). Vista mais icônica de Budapeste: o Parlamento, o Danúbio e as pontes. Ao lado da Igreja Matias.</div></td>
+            <td><div class="hours">Diário 09h–23h (terreno principal)<br>Torres superiores: 09h–20h</div></td>
+            <td><div class="price price-paid">≈ €9</div><div class="note">Acesso ao terraço principal: gratuito de manhã cedo</div></td>
+            <td><div class="stars">★★★★★</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Castelo de Buda</div><span class="attr-badge badge-free">Complexo histórico</span></td>
+            <td><div class="desc">Palácio real medieval na colina de Buda, com museus dentro (Galeria Nacional e Museu de História). O Distrito do Castelo ao redor — com paralelepípedos e passeios — é o maior atrativo.</div></td>
+            <td><div class="hours">Distrito: 24h (gratuito)<br>Museus internos: Ter–Dom 10h–18h</div></td>
+            <td><div class="price price-free">Distrito externo: gratuito</div><div class="note">Museus internos: ≈ €9 cada</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Termas Széchenyi</div><span class="attr-badge badge-paid">Spa termal</span></td>
+            <td><div class="desc">O maior complexo termal da Europa: 18 piscinas (3 externas) dentro de um palácio neorrococó de 1913. Águas minerais a 38°C, saunas, xadrez flutuante. Símbolo de Budapeste.</div></td>
+            <td><div class="hours">Diário 06h–22h<br>(piscinas fecham às 20h, sex. até 22h)</div></td>
+            <td><div class="price price-paid">≈ €30–47</div><div class="note">Balcão: ≈ €30 | Fast track online: ≈ €44–47</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ponte das Correntes (Széchenyi lánchíd)</div><span class="attr-badge badge-free">Monumento / gratuita</span></td>
+            <td><div class="desc">A ponte mais famosa da Hungria (1849), ligando Buda e Pest sobre o Danúbio. Guardiada pelos famosos leões de pedra. Iluminada à noite com reflexo no rio — absolutamente cinematográfica.</div></td>
+            <td><div class="hours">Aberta 24h para pedestres</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Basílica de Santo Estêvão</div><span class="attr-badge badge-free">Basílica</span></td>
+            <td><div class="desc">A maior igreja de Budapeste (cúpula de 96m). Guarda a relíquia da mão mumificada do rei Santo Estêvão. Panorama da cidade do terraço da cúpula e shows de órgão regulares.</div></td>
+            <td><div class="hours">Seg–Sex 09h–17h<br>Cúpula: 10h–18h (pago)</div></td>
+            <td><div class="price price-free">Nave: gratuita</div><div class="note">Cúpula (terraço): ≈ €8</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Grande Mercado Municipal (Nagyvásárcsarnok)</div><span class="attr-badge badge-free">Mercado / gratuito</span></td>
+            <td><div class="desc">Mercado coberto de 1897 com telhado de azulejos coloridos Zsolnay. Térreo: frutas, embutidos, páprica e lace. Andar superior: bares de comida, langos e souvenirs. O melhor da culinária húngara.</div></td>
+            <td><div class="hours">Seg 06h–17h | Ter–Sex 06h–18h<br>Sáb 06h–15h (fechado dom.)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Memorial dos Sapatos no Danúbio</div><span class="attr-badge badge-free">Memorial / gratuito</span></td>
+            <td><div class="desc">60 pares de sapatos de ferro enferrujados na beira do Danúbio marcam o local onde judeus foram fuzilados pelos fascistas Arrow Cross em 1944–45. Memorial simples e devastador.</div></td>
+            <td><div class="hours">Acessível 24h</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.8</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ruin Bars — Szimpla Kert</div><span class="attr-badge badge-free">Cultura / bar</span></td>
+            <td><div class="desc">Fenômeno cultural único: bares instalados em prédios em ruína do bairro judeu (VII Distrito). Szimpla Kert é o mais famoso do mundo. Arte, plantas, carros velhos e cervejas artesanais.</div></td>
+            <td><div class="hours">Szimpla: Seg–Qui 12h–04h<br>Sex–Sáb 12h–06h | Dom (mercado): 09h–14h</div></td>
+            <td><div class="price price-free">Entrada gratuita</div><div class="note">Consumação a partir de €2 (cervejas)</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Colina Gellért & Cidadela</div><span class="attr-badge badge-free">Mirante / gratuito</span></td>
+            <td><div class="desc">Colina de 235m com a Estátua da Liberdade dourada no topo. Vista mais completa de Budapeste: dois lados do Danúbio, todas as pontes, o Parlamento e o Castelo de Buda.</div></td>
+            <td><div class="hours">Acessível 24h (a pé ou táxi)</div></td>
+            <td><div class="price price-free">Gratuito</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.7</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Ilha Margarida (Margit-sziget)</div><span class="attr-badge badge-free">Parque / gratuito</span></td>
+            <td><div class="desc">Ilha verde de 2,5 km no meio do Danúbio: jardins, ruínas medievais, fontes musicais, piscinas termais e ciclismo. O pulmão de Budapeste, amado pelos locais e invisível aos guias rápidos.</div></td>
+            <td><div class="hours">Parque: 24h<br>Fontes musicais: 21h (noite)</div></td>
+            <td><div class="price price-free">Acesso: gratuito</div><div class="note">Piscinas termais da ilha: ≈ €10</div></td>
+            <td><div class="stars">★★★★½</div><span class="stars-num">4.6</span></td>
+          </tr>
+          <tr>
+            <td><div class="attr-name">Castelo de Vajdahunyad</div><span class="attr-badge badge-free">Castelo / gratuito</span></td>
+            <td><div class="desc">Castelo eclético no Parque da Cidade construído para a exposição do Milênio (1896), misturando estilos românico, gótico, renascentista e barroco. Conto de fadas de tijolos junto ao lago.</div></td>
+            <td><div class="hours">Exterior: 24h (gratuito)<br>Museu de Agricultura interior: Ter–Dom 10h–17h</div></td>
+            <td><div class="price price-free">Exterior: gratuito</div><div class="note">Museu interior: ≈ €5</div></td>
+            <td><div class="stars">★★★★</div><span class="stars-num">4.6</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<script>
+function show(city) {
+  document.querySelectorAll('.city-section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById(city).classList.add('active');
+  const btns = document.querySelectorAll('.tab-btn');
+  const order = ['istanbul','berlin','prague','bratislava','vienna','budapest'];
+  btns[order.indexOf(city)].classList.add('active');
+}
+</script>
