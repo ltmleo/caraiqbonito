@@ -13,6 +13,22 @@ A experiência de atravessar a Ponte da Amizade a pé ou de táxi e mergulhar no
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Ciudad+del+Este+Paraguai+compras)
 
+## 🌟 A Experiência
+Visitar Ciudad del Este é mergulhar de cabeça em um dos centros comerciais mais vibrantes e caóticos do planeta. O impacto visual e sonoro é imediato: o barulho constante de buzinas, os gritos dos camelôs anunciando produtos, o vaivém de milhares de pessoas carregando sacolas gigantescas e o cheiro característico de comidas de rua misturado ao odor de plástico novo e perfumes importados criam uma atmosfera elétrica. Embora a primeira impressão possa ser intimidadora para os desavisados, há uma energia única e contagiante nessa imensa feira ao ar livre.
+
+Ao entrar nos grandes e modernos shopping centers fechados, o contraste é total: ambientes climatizados, escadas rolantes silenciosas, lojas requintadas de grandes marcas e restaurantes de nível internacional oferecem um refúgio calmo e seguro. A experiência de garimpar produtos legítimos a preços inacreditáveis, negociar descontos e observar a mistura de idiomas e culturas nas calçadas faz de Ciudad del Este muito mais do que um destino de compras; é uma experiência sociológica e antropológica fascinante na América do Sul.
+
+## 💡 Dicas Práticas
+- **Prefira as grandes lojas de referência:** Para evitar falsificações ou golpes, compre produtos eletrônicos e de alto valor apenas em estabelecimentos tradicionais e reconhecidos, como Cellshop, Shopping China, Monalisa, Mega Eletrônicos e Nissei.
+- **Evite os guias de rua (os "promotores"):** Pessoas que abordam você na rua oferecendo descontos ou indicando lojas geralmente ganham comissões para levar turistas a estabelecimentos duvidosos. Agradeça educadamente e siga diretamente para o seu destino planejado.
+- **Faça o trajeto a pé ou de mototáxi:** Atravessar a Ponte da Amizade de carro ou ônibus em horários de pico pode demorar horas. Caminhar pela ponte (cerca de 15 minutos) ou pegar um mototáxi credenciado na cabeceira da ponte é muito mais rápido e prático.
+- **Use roupas confortáveis e seguras:** Vista roupas simples, calçados fechados e mantenha mochilas e bolsas viradas para a frente do corpo. Evite ostentar relógios caros, joias ou manusear grandes quantias de dinheiro vivo no meio da rua.
+
+## 🧐 Curiosidades
+- **Terceira maior zona de comércio livre:** Ciudad del Este já foi considerada a terceira maior zona de comércio livre do mundo, ficando atrás apenas de Miami e Hong Kong em volume de vendas diárias e circulação financeira.
+- **Ponte Internacional da Amizade:** Inaugurada em 1965 pelos presidentes do Brasil e do Paraguai, a ponte possui uma estrutura em arco de concreto armado que, na época de sua construção, bateu o recorde mundial de vão livre em pontes de concreto.
+- **Tríplice influência cambial:** É uma das poucas cidades do mundo onde o comércio aceita correntemente quatro moedas diferentes para transações diárias: Guarani (moeda paraguaia), Real, Dólar americano e Peso argentino, com cotações exibidas em tempo real em todas as vitrines.
+
 ---
 
 ---

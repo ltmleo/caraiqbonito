@@ -91,7 +91,15 @@ export default function CompareTable() {
               {cityData.attractions.map((attr, idx) => (
                 <tr key={idx}>
                   <td className={styles.colName}>
-                    <div className={styles.attrName}>{attr.name}</div>
+                    <div className={styles.attrName}>
+                      {attr.link ? (
+                        <Link to={attr.link} className={styles.attrLink}>
+                          {attr.name}
+                        </Link>
+                      ) : (
+                        attr.name
+                      )}
+                    </div>
                     <span className={`${styles.attrBadge} ${getBadgeClass(attr.category)}`}>
                       {attr.category}
                     </span>

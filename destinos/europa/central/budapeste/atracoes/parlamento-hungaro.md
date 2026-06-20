@@ -13,7 +13,21 @@ A visita ao interior é obrigatória e exige ingresso pré-comprado (o limite di
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Parlamento+Hungaro+Budapeste+Orszaghaz)
 
----
+## 🌟 A Experiência
+Contemplar o Parlamento Húngaro de perto é uma experiência de pura grandiosidade. As centenas de agulhas neogóticas elevam-se em direção ao céu com uma riqueza de detalhes que faz o imponente edifício parecer uma delicada escultura de renda de pedra. O burburinho suave do rio Danúbio serve de trilha sonora enquanto você caminha pela imensa praça Kossuth Lajos, sentindo-se pequeno diante de tamanha escala. A simetria impecável do monumento transmite uma sensação de ordem e orgulho nacional profundo.
+
+Ao entrar para a visita guiada, a atmosfera de solenidade e luxo é imediata. A luz que penetra pelos vitrais reflete-se nos detalhes folheados a ouro e nas colunas de mármore impecáveis. O ponto alto ocorre sob a imensa cúpula central de 96 metros de altura, onde a guarda de honra vigia silenciosamente a Coroa de Santo Estêvão com suas espadas desembainhadas — uma cerimônia que evoca o passado milenar da Hungria. No entanto, é à noite que a magia acontece de verdade: a iluminação projetada nas fachadas transforma o Parlamento em um gigantesco palácio de ouro flutuante que domina completamente a paisagem escura do rio.
+
+## 💡 Dicas Práticas
+- **Compre o ingresso com semanas de antecedência**: Os tours internos guiados são extremamente disputados e os ingressos esgotam rapidamente, especialmente nos finais de semana e alta temporada. Compre diretamente no site oficial (Jegymester) com antecedência e evite sites de revendedores que cobram taxas abusivas.
+- **Escolha o lado de Buda para as melhores fotos**: Para capturar a famosa foto clássica do Parlamento refletido no rio, pegue o metrô M2 e desça na estação Batthyány Tér, do outro lado do Danúbio. A vista de lá, especialmente no início do crepúsculo, é insuperável.
+- **Aproveite a visita à praça externa**: Além de fazer o tour por dentro, dedique algum tempo para caminhar ao redor da Praça Kossuth Lajos. Há monumentos imponentes e um memorial subterrâneo sobre a Revolução de 1956 que vale a pena conhecer.
+- **Combine com os Sapatos no Danúbio**: O emocionante memorial dos "Sapatos no Danúbio" fica a poucos passos de distância, caminhando em direção ao sul pela margem do rio. É uma combinação natural e tocante antes ou depois do seu tour no Parlamento.
+
+## 🧐 Curiosidades
+- **Ouro em abundância**: Para a decoração luxuosa do interior do Parlamento, foram utilizados nada menos que 40 quilos de ouro puro de 22 e 23 quilates, aplicados em folhas douradas nas molduras, colunas e detalhes arquitetônicos.
+- **Climatização pioneira**: O Parlamento Húngaro foi um dos primeiros edifícios do mundo a contar com um sistema de ar condicionado central moderno. Durante o verão, toneladas de gelo eram colocadas em poços subterrâneos especiais fora do prédio, e o ar fresco era direcionado para as salas de reuniões através de aberturas no piso.
+- **Porta-charutos numerados**: Na antecâmara da Câmara de Deputados, ainda existem as banquetas originais com suportes de latão numerados para charutos. Como os debates parlamentares eram longos e fumar era proibido no plenário, os deputados deixavam seus charutos acesos nesses suportes e os retomavam nos intervalos. O estado das cinzas e o tempo que durava o charuto viraram até piada local sobre o interesse de cada deputado nos discursos.
 
 ---
 

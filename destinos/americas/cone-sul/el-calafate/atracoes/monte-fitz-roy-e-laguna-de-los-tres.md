@@ -17,7 +17,22 @@ Uma dica prática importante: desde novembro de 2024, é necessário pagar entra
 
 📸 [Fotos no Google Maps](https://www.google.com/maps/search/Monte+Fitz+Roy+El+Chalten)
 
----
+## 🌟 A Experiência
+Fazer a caminhada até a Laguna de los Tres é participar de uma das jornadas de montanhismo mais cobiçadas do planeta. Cada quilômetro percorrido revela a transformação dramática da paisagem: da estepe aberta às florestas densas de lengas, ladeadas por riachos de água de degelo tão pura que você pode bebê-la diretamente com as mãos. A caminhada é um teste de resistência física e foco mental, onde a expectativa cresce a cada passo rumo às agulhas gigantescas de granito que dominam o horizonte.
+
+A verdadeira provação e recompensa ocorrem no quilômetro final. A subida vertical sobre a moraina de pedras soltas exige esforço extremo. Ao vencer o último trecho e se deparar com a imensidão azul da Laguna de los Tres, cercada por geleiras suspensas e coroada pela silhueta monumental do Monte Fitz Roy, todo o cansaço evapora. A sensação é de conquista absoluta, de estar diante de uma das catedrais de pedra mais belas da Terra.
+
+## 💡 Dicas Práticas
+- **Comece a caminhar bem cedo**: Para evitar o vento forte da tarde e a aglomeração nas trilhas, inicie a caminhada por volta das 6h (ou até antes no verão para ver o "amanhecer de fogo" que colore as paredes de granito de vermelho e dourado).
+- **Adquira o ingresso antecipadamente**: Lembre-se de que é obrigatório comprar o ticket de acesso ao Parque Nacional Los Glaciares com antecedência online para poder percorrer as trilhas autorizadas de El Chaltén.
+- **Use calçado de trekking adequado e bastões**: A última subida é extremamente íngreme e repleta de pedras soltas. Botas de caminhada amaciadas e com boa aderência, além de bastões de caminhada, são fundamentais para dar estabilidade e proteger os joelhos.
+- **Vá preparado para mudanças bruscas de clima**: O tempo na base do Fitz Roy é imprevisível. Em um único dia você pode vivenciar sol forte, chuva intensa, vento cortante e neve. Vista-se em camadas e leve jaqueta impermeável de boa qualidade.
+- **Leve lanche e bastante água**: Como a caminhada dura entre 8 e 10 horas no total, leve comida leve e calórica. Você pode abastecer sua garrafa nas fontes de água corrente ao longo do caminho, pois a água da região é potável e puríssima.
+
+## 🧐 Curiosidades
+- **"A Montanha que Fuma"**: Na língua dos povos originários Tehuelches, a montanha era chamada de "Chaltén", que significa "montanha fumegante". Eles acreditavam que se tratava de um vulcão devido às nuvens constantes que se acumulam ao redor do topo, parecendo fumaça.
+- **Desafio extremo para alpinistas**: Embora existam montanhas muito mais altas, o Fitz Roy é tecnicamente uma das escaladas mais difíceis e perigosas do mundo devido às suas paredes de granito verticais de até 1.500 metros e às tempestades súbitas.
+- **Origem do nome ocidental**: O nome Fitz Roy foi dado pelo geógrafo Francisco Moreno em homenagem a Robert FitzRoy, capitão do navio HMS Beagle, que navegou pela região mapeando a Patagônia junto a Charles Darwin na década de 1830.
 
 ---
 
