@@ -2,6 +2,8 @@
   "name": "Viena",
   "country": "Áustria",
   "flag": "🇦🇹",
+  "isoCode": "040",
+  "coordinates": { "lat": 48.2082, "lng": 16.3738 },
   "tagline": "A capital dos impérios que transformou o poder em música, arte e café — e nunca mais parou.",
   "heroImage": "https://cdn.americachip.com/wp-content/uploads/2023/10/viena-italia-ou-austria-1024x619.jpg?strip=all&lossy=1&quality=92&webp=92&ssl=1",
   "currency": "€",

@@ -87,9 +87,25 @@ function getDestinationInfo(destDir, continentSlug, categorySlug) {
     }
   }
 
+  // Structured data from <slug>.json (same file used by the CityCard)
+  const jsonPath = path.join(destDir, `${slug}.json`);
+  const meta = fs.existsSync(jsonPath) ? JSON.parse(fs.readFileSync(jsonPath, 'utf-8')) : {};
+
+  // Last resort: the remote hero image from the JSON
+  if (!imagePath && meta.heroImage) imagePath = meta.heroImage;
+
+  if (!meta.coordinates) {
+    console.warn(`⚠️  ${slug}: sem "coordinates" em ${slug}.json — não aparecerá no mapa.`);
+  }
+
   return {
     name: title,
-    country: country || 'Desconhecido',
+    country: country || meta.country || 'Desconhecido',
+    flag: meta.flag || h1Icon || '',
+    tagline: meta.tagline || '',
+    stayDays: meta.stayDays || '',
+    isoCode: meta.isoCode || '',
+    coordinates: meta.coordinates || null,
     image: imagePath,
     link: `/destinos/${continentSlug}/${categorySlug}/${slug}`,
     status: status,
@@ -124,6 +140,7 @@ function generate() {
 
     return {
       continent: continentName,
+      slug: continentSlug,
       icon,
       categories: processedCategories
     };

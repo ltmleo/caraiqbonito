@@ -76,6 +76,8 @@
 }
 
 .destCard {
+  display: block;
+  background: linear-gradient(135deg, #3B2A1A, #4A6741);
   position: relative;
   border-radius: 16px;
   overflow: hidden;
@@ -91,6 +93,7 @@
 }
 
 .destImage {
+  color: transparent;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -146,4 +149,89 @@
 .statusSoon {
   background-color: #6B4C30;
   color: white;
+}
+
+.destTagline {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin: 0.3rem 0 0;
+  color: rgba(255, 255, 255, 0.8);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ─── Search & filters ───────────────────────────────────────────── */
+.filters {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.search {
+  width: 100%;
+  max-width: 460px;
+  font: inherit;
+  font-size: 1rem;
+  padding: 0.85rem 1.25rem;
+  border-radius: 100px;
+  border: 1px solid rgba(237, 216, 160, 0.3);
+  background: rgba(18, 13, 7, 0.55);
+  backdrop-filter: blur(8px);
+  color: #fff;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.search::placeholder {
+  color: rgba(237, 216, 160, 0.55);
+}
+
+.search:focus {
+  border-color: #E0926A;
+  box-shadow: 0 0 0 4px rgba(196, 98, 45, 0.25);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.chip,
+.chipActive {
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.45rem 1rem;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chip {
+  color: #EDD8A0;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(237, 216, 160, 0.25);
+}
+
+.chip:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.chipActive {
+  color: #fff;
+  background: #C4622D;
+  border: 1px solid #C4622D;
+}
+
+.empty {
+  text-align: center;
+  padding: 4rem 1rem;
+  font-size: 1.1rem;
+  opacity: 0.8;
 }

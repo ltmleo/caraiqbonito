@@ -2,6 +2,8 @@
   "name": "El Calafate",
   "country": "Argentina",
   "flag": "🇦🇷",
+  "isoCode": "032",
+  "coordinates": { "lat": -50.3379, "lng": -72.2648 },
   "tagline": "A porta de entrada para a Patagônia gelada — onde o Glaciar Perito Moreno avança e range num silêncio que abala a alma.",
   "heroImage": "https://cdn.americachip.com/wp-content/uploads/2024/01/el-calafate-1.jpg",
   "currency": "$",

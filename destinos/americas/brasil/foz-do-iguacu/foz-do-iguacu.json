@@ -2,6 +2,8 @@
   "name": "Foz do Iguaçu",
   "country": "Brasil",
   "flag": "🇧🇷",
+  "isoCode": "076",
+  "coordinates": { "lat": -25.5469, "lng": -54.5882 },
   "tagline": "As cataratas mais impressionantes do planeta — onde 275 quedas d'água rugem na tríplice fronteira entre Brasil, Argentina e Paraguai.",
   "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9b/2d/ce/foz-do-iguacu.jpg?w=1100&h=1100&s=1",
   "currency": "R$",

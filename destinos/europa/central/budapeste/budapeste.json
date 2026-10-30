@@ -2,6 +2,8 @@
   "name": "Budapeste",
   "country": "Hungria",
   "flag": "🇭🇺",
+  "isoCode": "348",
+  "coordinates": { "lat": 47.4979, "lng": 19.0402 },
   "tagline": "Duas cidades separadas por um rio e reunidas por uma história épica — a rainha do Danúbio.",
   "heroImage": "https://vidacigana.com/wp-content/uploads/2018/06/o-que-fazer-em-budapeste-1.jpg",
   "currency": "Ft",

@@ -127,8 +127,15 @@ h3 {
 
 /* ─── Navbar ─────────────────────────────────────────────────────── */
 .navbar {
-  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.25);
-  border-bottom: 2px solid var(--cqb-orange-dark);
+  background-color: rgba(28, 20, 12, 0.82);
+  backdrop-filter: blur(14px) saturate(1.4);
+  -webkit-backdrop-filter: blur(14px) saturate(1.4);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid rgba(196, 98, 45, 0.45);
+}
+
+[data-theme='dark'] .navbar {
+  background-color: rgba(18, 13, 7, 0.8);
 }
 
 /* Toggle claro/escuro — sempre visível contra navbar marrom */
@@ -403,4 +410,18 @@ div[class^='colorModeToggle'] svg,
 div[class*=' colorModeToggle'] svg {
   fill: var(--cqb-cream) !important;
   color: var(--cqb-cream) !important;
+}
+/* ─── Accessibility ──────────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--cqb-orange-light);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }

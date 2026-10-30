@@ -11,8 +11,6 @@ import istambul from './istambul.json';
 
 > **Em poucas palavras:** 🕌 Istambul é a única cidade do mundo construída sobre dois continentes. Foi capital de três grandes impérios: Romano, Bizantino e Otomano. É um lugar onde nenhum horizonte concentra mais camadas de história humana. 🌍🕌⛴️✨
 
-![Istambul Hero](/img/istanbul_hero.png)
-
 Chegar a Istambul de avião e olhar pela janela enquanto o avião desce já é uma experiência: de um lado o Mar de Mármara, do outro o Corno de Ouro, e no meio uma cidade de 15 milhões de pessoas espalhada por colinas e peninsulas, com minaretes subindo acima dos telhados como uma floresta de pedra apontando para o mesmo céu. A cidade que os gregos chamavam de Bizâncio, os romanos de Constantinopla, os eslavos de Tsargrad e os vikings de Miklagård — "a Grande Cidade" — ainda é, dois milênios depois de sua fundação, exatamente isso: grande, incomparável, inexplicável.
 
 Istambul não se visita, se vive — e mesmo assim não se entende de primeira. Uma mesquita que foi catedral por novecentos anos antes de ser mesquita por quinhentos e museu por oitenta. Um palácio construído sobre as ruínas de outro palácio que ficava sobre as ruínas de um templo. Uma cisterna subterrânea do século VI cujos pilares repousam sobre cabeças de Medusa viradas de lado — porque os engenheiros bizantinos precisavam de pedestais da altura certa e não tinham outro uso para as estátuas. Um bazar coberto com mais de quatro mil lojas que funciona ininterruptamente desde 1461. Em Istambul, a história não está nos museus — está na calçada em que você pisa, nos azulejos que cobrem as paredes do metrô, no cheiro de pão de gergelim (*simit*) vendido nas esquinas às sete da manhã.
