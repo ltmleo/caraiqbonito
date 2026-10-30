@@ -277,6 +277,20 @@ h3 {
   color: var(--cqb-orange-lighter);
 }
 
+/* Embeds (Google Maps, YouTube…) never wider than the text column */
+.markdown iframe {
+  display: block;
+  max-width: 100%;
+  border: 0;
+  border-radius: var(--ifm-global-radius);
+}
+
+@media (max-width: 600px) {
+  .markdown iframe {
+    height: 320px;
+  }
+}
+
 /* ─── Table of Contents ──────────────────────────────────────────── */
 .table-of-contents__link:hover,
 .table-of-contents__link--active {

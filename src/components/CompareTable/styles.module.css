@@ -243,3 +243,71 @@
   margin-top: 4px;
   font-style: italic;
 }
+
+/* ─── Phones: each attraction becomes a card ─────────────────────── */
+@media (max-width: 720px) {
+  .tableWrap {
+    overflow: visible;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+  }
+
+  .table {
+    display: block;
+    min-width: 0;
+    overflow: visible;
+    margin: 0;
+  }
+
+  .thead {
+    display: none;
+  }
+
+  .tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .table .tbody tr,
+  .table .tbody tr:last-child,
+  .table .tbody tr:nth-child(2n) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem 1rem;
+    padding: 1rem;
+    border: 1px solid rgba(196, 98, 45, 0.18);
+    border-radius: 16px;
+    background: var(--ifm-background-surface-color);
+  }
+
+  .table .tbody tr:hover {
+    background: var(--ifm-background-surface-color);
+  }
+
+  .tbody td {
+    display: block;
+    width: auto;
+    padding: 0;
+    border: none;
+    background: transparent;
+  }
+
+  .tbody td.colName,
+  .tbody td.colDesc,
+  .tbody td.colHours {
+    grid-column: 1 / -1;
+  }
+
+  .tbody td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 0.15rem;
+  }
+}

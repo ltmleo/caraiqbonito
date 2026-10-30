@@ -107,16 +107,16 @@ export default function CompareTable() {
                   <td className={styles.colDesc}>
                     <div className={styles.desc}>{attr.desc}</div>
                   </td>
-                  <td className={styles.colHours}>
+                  <td className={styles.colHours} data-label="Horário">
                     <div className={styles.hours}>
                       {attr.hours}
                     </div>
                   </td>
-                  <td className={styles.colPrice}>
+                  <td className={styles.colPrice} data-label="Ingresso">
                     <div className={styles.price}>{attr.price}</div>
                     {attr.priceNote && <div className={styles.note}>{attr.priceNote}</div>}
                   </td>
-                  <td className={styles.colRating}>
+                  <td className={styles.colRating} data-label="Avaliação">
                     <div className={styles.stars}>{attr.stars}</div>
                     <span className={styles.starsNum}>{attr.rating}</span>
                   </td>

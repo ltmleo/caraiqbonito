@@ -168,6 +168,8 @@
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: 1000 / 520;
+  touch-action: manipulation;
 }
 
 .zoomLayer {
@@ -231,6 +233,10 @@
   fill: #fff;
 }
 
+.pinHit {
+  fill: transparent;
+}
+
 .pinPulse {
   fill: rgba(237, 216, 160, 0.35);
   transform-box: fill-box;
@@ -238,7 +244,11 @@
   animation: pulse 2.4s ease-out infinite;
 }
 
-.pinActive .pinPulse {
+.pinActive .pinHit {
+  fill: transparent;
+}
+
+.pinPulse {
   fill: rgba(255, 255, 255, 0.5);
 }
 
@@ -397,6 +407,24 @@
     font-size: 0.82rem;
   }
 
+  .toolbar {
+    flex-wrap: nowrap;
+    gap: 0.4rem;
+    margin-top: 1.25rem;
+  }
+
+  .chip,
+  .chipActive {
+    font-size: 0.85rem;
+    padding: 0.45rem 0.85rem;
+    white-space: nowrap;
+  }
+
+  .cardImage {
+    width: 88px;
+    height: 100px;
+  }
+
   .mapFrame {
     border-radius: 18px;
     overflow: visible;
@@ -406,15 +434,14 @@
   }
 
   .svg {
+    aspect-ratio: 4 / 3;
     border-radius: 18px;
     border: 1px solid rgba(237, 216, 160, 0.12);
     background: var(--map-ocean-edge);
   }
 
   .legend {
-    top: 0.6rem;
-    bottom: auto;
-    right: 0.6rem;
+    display: none;
   }
 
   .card {
@@ -434,7 +461,11 @@
     animation: none;
   }
 
-  .pinPulse {
+  .pinHit {
+  fill: transparent;
+}
+
+.pinPulse {
     animation: none;
     opacity: 0.4;
   }

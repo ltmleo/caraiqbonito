@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import Link from '@docusaurus/Link';
 import { geoNaturalEarth1, geoPath, geoGraticule10 } from 'd3-geo';
 import { feature } from 'topojson-client';
@@ -34,24 +34,26 @@ const allDestinations = catalogueData.flatMap((continent) =>
   ),
 );
 
-/**
- * Zoom transform that frames the given points (with padding) inside the viewport,
- * leaving `left` SVG units free on the left for the floating card.
- */
-function frame(points: Pin[], left: number) {
+/** Visible part of the SVG, in SVG units */
+type Area = { x0: number; x1: number; y0: number; y1: number };
+
+/** Zoom transform that frames the given points inside `area`, keeping `margin` SVG units clear. */
+function frame(points: Pin[], area: Area, margin: number) {
   if (points.length === 0) return { k: 1, x: 0, y: 0 };
   const xs = points.map((p) => p.x);
   const ys = points.map((p) => p.y);
-  const pad = 28;
+  const pad = 10;
   const x0 = Math.min(...xs) - pad;
   const x1 = Math.max(...xs) + pad;
   const y0 = Math.min(...ys) - pad;
   const y1 = Math.max(...ys) + pad;
-  const k = Math.min(MAX_ZOOM, (WIDTH - left) / (x1 - x0), HEIGHT / (y1 - y0));
+  const w = area.x1 - area.x0 - 2 * margin;
+  const h = area.y1 - area.y0 - 2 * margin;
+  const k = Math.min(MAX_ZOOM, w / (x1 - x0), h / (y1 - y0));
   return {
     k,
-    x: left + (WIDTH - left) / 2 - k * ((x0 + x1) / 2),
-    y: HEIGHT / 2 - k * ((y0 + y1) / 2),
+    x: (area.x0 + area.x1) / 2 - k * ((x0 + x1) / 2),
+    y: (area.y0 + area.y1) / 2 - k * ((y0 + y1) / 2) + margin * 0.3, // room for labels above pins
   };
 }
 
@@ -88,33 +90,48 @@ export default function WorldMap() {
   const [activeSlug, setActiveSlug] = useState<string>(pins[0]?.slug);
   const active = pins.find((p) => p.slug === activeSlug);
 
-  // On wide screens the card floats over the map, so zoomed views keep clear of it
-  const [cardInset, setCardInset] = useState(0);
+  // Rendered size of the SVG. On phones it is taller than the viewBox ratio and
+  // cropped at the sides (preserveAspectRatio="slice"); the card sits below the map.
+  const svgRef = useRef<SVGSVGElement>(null);
+  const [size, setSize] = useState({ w: WIDTH, h: HEIGHT });
   useEffect(() => {
-    const query = window.matchMedia('(min-width: 769px)');
-    const update = () => setCardInset(query.matches ? WIDTH * 0.34 : 0);
-    update();
-    query.addEventListener('change', update);
-    return () => query.removeEventListener('change', update);
+    const svg = svgRef.current;
+    if (!svg) return;
+    const observer = new ResizeObserver(() => setSize({ w: svg.clientWidth, h: svg.clientHeight }));
+    observer.observe(svg);
+    return () => observer.disconnect();
   }, []);
 
-  const view = useMemo(
-    () =>
-      region === 'mundo'
-        ? { k: 1, x: 0, y: 0 }
-        : frame(pins.filter((p) => p.continent === region), cardInset),
-    [region, pins, cardInset],
-  );
+  const compact = size.w <= 720;
+  const scale = Math.max(size.w / WIDTH, size.h / HEIGHT); // screen px per SVG unit
+  const area = useMemo(() => {
+    const visibleW = size.w / scale;
+    const visibleH = size.h / scale;
+    const x0 = (WIDTH - visibleW) / 2;
+    const y0 = (HEIGHT - visibleH) / 2;
+    // On wide screens the card floats over the map, so zoomed views keep clear of it
+    return { x0: x0 + (compact ? 0 : visibleW * 0.34), x1: x0 + visibleW, y0, y1: y0 + visibleH };
+  }, [size, scale, compact]);
+
+  const view = useMemo(() => {
+    const margin = 40 / scale; // 40 screen px
+    if (region !== 'mundo') return frame(pins.filter((p) => p.continent === region), area, margin);
+    // The whole world is too small on a phone: frame every destination instead
+    return compact ? frame(pins, area, margin) : { k: 1, x: 0, y: 0 };
+  }, [region, pins, area, compact, scale]);
+
+  // Pins and labels keep a constant on-screen size whatever the zoom or screen width
+  const pinScale = 1 / (view.k * scale);
 
   // Pins too close to an earlier pin (or to the active one) only show their label when active
   const crowded = useMemo(() => {
-    const near = (p: Pin, q: Pin) => Math.hypot(p.x - q.x, p.y - q.y) * view.k < LABEL_GAP;
+    const near = (p: Pin, q: Pin) => Math.hypot(p.x - q.x, p.y - q.y) * view.k * scale < LABEL_GAP;
     return new Set(
       pins
         .filter((p, i) => pins.slice(0, i).some((q) => near(p, q)) || (active && p !== active && near(p, active)))
         .map((p) => p.slug),
     );
-  }, [pins, view.k, active]);
+  }, [pins, view.k, scale, active]);
 
   const countryCount = visitedIsos.size;
   const continentCount = new Set(pins.map((p) => p.continent)).size;
@@ -158,7 +175,9 @@ export default function WorldMap() {
 
         <div className={styles.mapFrame}>
           <svg
+            ref={svgRef}
             viewBox={`0 0 ${WIDTH} ${HEIGHT}`}
+            preserveAspectRatio="xMidYMid slice"
             className={styles.svg}
             role="img"
             aria-label="Mapa-múndi com os destinos do guia">
@@ -198,7 +217,7 @@ export default function WorldMap() {
                 return (
                   <g
                     key={p.slug}
-                    transform={`translate(${p.x} ${p.y}) scale(${1 / view.k})`}
+                    transform={`translate(${p.x} ${p.y}) scale(${pinScale})`}
                     className={isActive ? styles.pinActive : styles.pin}
                     tabIndex={0}
                     role="button"
@@ -212,9 +231,10 @@ export default function WorldMap() {
                         setActiveSlug(p.slug);
                       }
                     }}>
+                    <circle r={22} className={styles.pinHit} />
                     <circle r={14} className={styles.pinPulse} />
                     <circle r={6} className={styles.pinDot} />
-                    {(isActive || (view.k > 1.5 && !crowded.has(p.slug))) && (
+                    {(isActive || ((view.k > 1.5 || compact) && !crowded.has(p.slug))) && (
                       <text y={-14} className={styles.pinLabel}>
                         {p.name}
                       </text>
