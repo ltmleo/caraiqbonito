@@ -2,6 +2,8 @@
   "name": "Bratislava",
   "country": "Eslováquia",
   "flag": "🇸🇰",
+  "isoCode": "703",
+  "coordinates": { "lat": 48.1486, "lng": 17.1077 },
   "tagline": "A menor capital da UE que cabe numa tarde — e surpreende quem fica mais tempo.",
   "heroImage": "https://www.civitatis.com/f/austria/viena/guia/bratislava-m.jpg",
   "currency": "€",

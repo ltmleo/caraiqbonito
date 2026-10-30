@@ -2,6 +2,8 @@
   "name": "Praga",
   "country": "República Tcheca",
   "flag": "🇨🇿",
+  "isoCode": "203",
+  "coordinates": { "lat": 50.0755, "lng": 14.4378 },
   "tagline": "A cidade que sobreviveu a guerras e regimes sem perder uma única torre gótica — a mais bela da Europa Central.",
   "heroImage": "https://cdn.americachip.com/wp-content/uploads/2023/03/Praga.jpg",
   "currency": "Kč",

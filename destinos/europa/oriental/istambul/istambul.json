@@ -2,6 +2,8 @@
   "name": "Istambul",
   "country": "Turquia",
   "flag": "🇹🇷",
+  "isoCode": "792",
+  "coordinates": { "lat": 41.0082, "lng": 28.9784 },
   "tagline": "A única cidade do mundo em dois continentes — onde o Bósforo divide a Europa da Ásia e une três mil anos de história.",
   "heroImage": "https://cdn2.civitatis.com/turquia/estambul/galeria/vista-panoramica-istambul.jpg",
   "currency": "₺",

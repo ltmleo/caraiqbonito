@@ -2,6 +2,8 @@
   "name": "Berlim",
   "country": "Alemanha",
   "flag": "🇩🇪",
+  "isoCode": "276",
+  "coordinates": { "lat": 52.5200, "lng": 13.4050 },
   "tagline": "A cidade que foi dividida por um muro e reerguida como símbolo da liberdade europeia.",
   "heroImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg",
   "currency": "€",
